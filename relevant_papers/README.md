@@ -1,9 +1,8 @@
 # Research Practicum 2018 – Research Plan (Template)
-(text between brackets to be removed)
 
-> * Group Name: (be creative!)
-> * Group participants names: (alphabetically sorted by last name)
-> * Project Title: (can be changed later)
+> * Group Name: Group4
+> * Group participants names: Cabrera, Roberto & Uysal, Ugur
+> * Project Title: Human Assisted Weapon Systems
 
 ## Relevant Sources
 
