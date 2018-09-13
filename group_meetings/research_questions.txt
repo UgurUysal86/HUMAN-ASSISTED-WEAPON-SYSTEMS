@@ -1,0 +1,27 @@
+# Research Practicum 2018 – Research Plan (Template)
+
+> * Group Name: Group4
+> * Group participants names: Cabrera, Roberto & Uysal, Ugur
+> * Project Title: Human Assisted Weapon Systems
+
+## Research Questions
+
+Proposal by Ugur:
+
+Central Question:
+
+
+How can Procedures for the Communication between Humans and Autonomous Systems be defined in the Context of Manned-Unmanned Teaming to ensure a good performance?
+
+
+
+SubQuestions:
+
+
+What is a good performance in the Context of Manned-Unmanned Teaming?
+
+
+How can the performance of Manned-Unmanned Teaming be measured?
+
+
+Proposal by Roberto:
