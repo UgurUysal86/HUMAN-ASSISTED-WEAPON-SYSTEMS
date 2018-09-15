@@ -15,6 +15,7 @@
 * [de Boisboissel, G. (2017). Is it sensible to grant autonomous decision-making to military robots of the future?. International Conference on Military Technologies, 2017.](https://ieeexplore.ieee.org/document/7988854/)
 * [Chen, J. Y. C (2018). Human-autonomy teaming in military settings. Theoretical Issues in Ergonomics Science, Vol. 19.](https://www.tandfonline.com/doi/full/10.1080/1463922X.2017.1397229)
 
+
 ## Review
 
 (which paper)
