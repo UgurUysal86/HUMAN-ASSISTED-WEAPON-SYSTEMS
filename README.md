@@ -32,7 +32,25 @@ This project makes the following contributions:
 
 ## Related Work
 
-Discuss briefly about published matter that technically relates to your proposed work in 4-5 paragraphs.
+When searching for literature on the topic of Human Assisted Weapon Systems, we mostly found terms such as Manned-Unmanned Teaming and Human-Autonomy Teaming. 
+It is striking that the term Human-Autonomy Teaming is used more frequently in the latest publications. 
+This is related to advances in the field of autonomous systems in recent years and the resulting potential in the military sector. 
+Manned-Unmanned Teaming is the collaboration between a system of human inmates and a human remote controlled system without human occupants. 
+In Human-Autonomy Teaming, the unmanned system is autonomously controlled by an agent or AI and is not remotely controlled by a human operator.
+
+Chen (2018) summarizes recent articles that highlight the growing relevance of using Human Autonomy Teaming in the military field. 
+Chen (2018) explains that the Defense Science Board (2016) states that "Intelligent autonomous systems have become increasingly important in military missions" (p.255). 
+Chen (2018) claims that "As these systems become more intelligent and sophisticated - and autonomous - human-autonomy teaming has become a key issue to address "(p.255).
+
+Many research articles focus on ethical and legal aspects of the military use of autonomous systems. 
+For example, de Boisboissel (2017) states that "all machines, including autonomous lethal robotic systems, must remain under the tactical control of the military leader" (p.738). 
+According to Chen & Barnes (2014) rules and procedures are designed so that the following ensured: "efficient human supervision of multiple robots, appropriate human trust in the automated systems, maintenance of human operator’s situation awareness, individual differences in human–agent (H-A) interaction, and retention of human decision authority" (p.13). 
+
+It is important to emphasize that, in this context, every final decision has to be made by the human, as this topic is also negatively afflicted and can encounter rejection. 
+By coining the term of the technical singularity, Vinge (1993) warned that immediately after the development of Artificial Super Intelligence, the end of humanity would be imminent. 
+Also, Stephen Hawking warned that AI could bring the end to humanity (Hawking 2014). This scenario has also been used in science fiction films, e.g., The Terminator (1984).
+
+However, we are just at the beginning of our literature research and are sure that more will be listed here due to the variety of sources.
 
 ## References 
 
@@ -40,9 +58,13 @@ Discuss briefly about published matter that technically relates to your proposed
 * [Chen, J. Y. (2018). Human-autonomy teaming in military settings. Theoretical Issues in Ergonomics Science, 19(3), 255-258.](https://www.tandfonline.com/doi/abs/10.1080/1463922X.2017.1397229)
 * [Chen, J. Y., Lakhmani, S. G., Stowers, K., Selkowitz, A. R., Wright, J. L., & Barnes, M. (2018). Situation awareness-based agent transparency and human-autonomy teaming effectiveness. Theoretical issues in ergonomics science, 19(3), 259-282.](https://www.tandfonline.com/doi/abs/10.1080/1463922X.2017.1315750)
 * [de Boisboissel, G. (2017). Is it sensible to grant autonomous decision-making to military robots of the future?. In Military Technologies (ICMT), 2017 International Conference on (pp. 738-742). IEEE.](https://ieeexplore.ieee.org/document/7988854/)
+* [Defense Science Board. 2016. Defense Science Board Summer Study on Autonomy. Washington, DC:Under Secretary of Defense.](https://www.hsdl.org/?view&did=794641)
 * [Endsley, M. R. (2017). From here to autonomy: lessons learned from human–automation research. Human factors, 59(1), 5-27.](http://journals.sagepub.com/doi/10.1177/0018720816681350)
+* [Hawking, S. (2014). Transcendence looks at the implications of artificial intelligence—but are we taking AI seriously enough? The Independent.](https://www.independent.co.uk/news/science/stephen-hawking-transcendence-looks-at-the-implications-of-artificial-intelligence-but-are-we-taking-9313474.html)
+* [Millington, I., & Funge, J. (2009). Artificial intelligence for games. CRC Press.](https://www.crcpress.com/Artificial-Intelligence-for-Games/Millington-Millington-Funge/p/book/9780123747310)
 * [Sadraey, M. H. (2018). Manned-unmanned aircraft teaming. In 2018 IEEE Aerospace Conference (pp. 1-12). IEEE.](https://ieeexplore.ieee.org/document/8396747/)
 * [Scharre, P. (2018). Army of None: Autonomous Weapons and the Future of War. WW Norton & Company.](https://books.google.com/books?hl=de&lr=&id=sjMsDwAAQBAJ&oi=fnd&pg=PT7&dq=Army+of+None&ots=T8z0gGG0IW&sig=nIZIAWaqnNoPhMiFCTqo5gdNHeY#v=onepage&q=Army%20of%20None&f=false)
 * [Squire, P. N., & Parasuraman, R. (2010). Effects of automation and task load on task switching during human supervision of multiple semi-autonomous robots in a dynamic environment. Ergonomics, 53(8), 951-961.](https://www.tandfonline.com/doi/full/10.1080/00140139.2010.489969)
+* [Vinge, V. (1993). The coming technological singularity: How to survive in the post-human era.](https://edoras.sdsu.edu/~vinge/misc/singularity.html)
 * [Warren, A., & Hillas, A. (2017). Lethal Autonomous Weapons Systems: Adapting to the Future Unmanned Warfare and Unaccountable Robots. Yale J. Int'l Aff., 12, 71.](https://heinonline.org/HOL/LandingPage?handle=hein.journals/yaljoina12&div=12&id=&page=)
 * [Yilmaz, L., Ören, T., & Aghaee, N. G. (2006). Intelligent agents, simulation, and gaming. Simulation & Gaming, 37(3), 339-349.](http://journals.sagepub.com/doi/abs/10.1177/1046878106289089)
