@@ -6,15 +6,11 @@
 
 ## Relevant Sources
 
-(3-5 main sources)
-
-* Source 1
-* Source 2
-* [Hawking, S. W. (1974). Black hole explosions?. Nature, 248(5443), 30.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.75.3702&rep=rep1&type=pdf)
 * [Chen, J. Y. C & Barnes M. J. (2014). Human–Agent Teaming for Multirobot Control: A Review of Human Factors Issues. IEEE Transactions on Human-Machine Systems, Vol. 44.](https://ieeexplore.ieee.org/document/6697830/)
-* [de Boisboissel, G. (2017). Is it sensible to grant autonomous decision-making to military robots of the future?. International Conference on Military Technologies, 2017.](https://ieeexplore.ieee.org/document/7988854/)
 * [Chen, J. Y. C (2018). Human-autonomy teaming in military settings. Theoretical Issues in Ergonomics Science, Vol. 19.](https://www.tandfonline.com/doi/full/10.1080/1463922X.2017.1397229)
-
+* [de Boisboissel, G. (2017). Is it sensible to grant autonomous decision-making to military robots of the future?. 2017 International Conference on Military Technologies.](https://ieeexplore.ieee.org/document/7988854/)
+* [Sadraey, M. H. (2018). Manned-Unmanned Aircraft Teaming. 2018 IEEE Aerospace Conference ](https://ieeexplore.ieee.org/document/8396747/)
+* [Squire, P. N. & Parasuraman, R. (2010). Effects of automation and task load on task switching during human supervision of multiple semi-autonomous robots in a dynamic environment. Ergonomics, Vol. 53.](https://www.tandfonline.com/doi/full/10.1080/00140139.2010.489969)
 
 ## Review
 
