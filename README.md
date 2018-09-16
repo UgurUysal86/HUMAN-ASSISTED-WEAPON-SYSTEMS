@@ -25,10 +25,10 @@ Therefore we rely as part of our research project on the virtual simulation envi
 Furthermore, we refer to approaches in this field by other researchers and delineate our approach.
 
 This project makes the following contributions:
-* •	Presentation of the current status of research on Human Autonomy Teaming in the military field of application.
-* •	Exploration of the possibilities and limits of human supervised unmanned systems through simulation experiments.
-* •	Understanding the cognitive performance of human military leaders in various military human-autonomy teaming scenarios.
-* •	Evaluation of the suitability of virtual simulation for research on Human-Autonomy Teaming.
+* Presentation of the current status of research on Human Autonomy Teaming in the military field of application.
+* Exploration of the possibilities and limits of human supervised unmanned systems through simulation experiments.
+* Understanding the cognitive performance of human military leaders in various military human-autonomy teaming scenarios.
+* Evaluation of the suitability of virtual simulation for research on Human-Autonomy Teaming.
 
 ## Related Work
 
