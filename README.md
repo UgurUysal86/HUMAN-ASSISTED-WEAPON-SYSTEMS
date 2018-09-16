@@ -36,8 +36,13 @@ Discuss briefly about published matter that technically relates to your proposed
 
 ## References 
 
-(Add the bibliographic references you intend to use in format you want)
-
-
-
-
+* [Chen, J. Y., & Barnes, M. J. (2014). Human–agent teaming for multirobot control: A review of human factors issues. IEEE Transactions on Human-Machine Systems, 44(1), 13-29.](https://ieeexplore.ieee.org/document/6697830/)
+* [Chen, J. Y. (2018). Human-autonomy teaming in military settings. Theoretical Issues in Ergonomics Science, 19(3), 255-258.](https://www.tandfonline.com/doi/abs/10.1080/1463922X.2017.1397229)
+* [Chen, J. Y., Lakhmani, S. G., Stowers, K., Selkowitz, A. R., Wright, J. L., & Barnes, M. (2018). Situation awareness-based agent transparency and human-autonomy teaming effectiveness. Theoretical issues in ergonomics science, 19(3), 259-282.](https://www.tandfonline.com/doi/abs/10.1080/1463922X.2017.1315750)
+* [de Boisboissel, G. (2017). Is it sensible to grant autonomous decision-making to military robots of the future?. In Military Technologies (ICMT), 2017 International Conference on (pp. 738-742). IEEE.](https://ieeexplore.ieee.org/document/7988854/)
+* [Endsley, M. R. (2017). From here to autonomy: lessons learned from human–automation research. Human factors, 59(1), 5-27.](http://journals.sagepub.com/doi/10.1177/0018720816681350)
+* [Sadraey, M. H. (2018). Manned-unmanned aircraft teaming. In 2018 IEEE Aerospace Conference (pp. 1-12). IEEE.](https://ieeexplore.ieee.org/document/8396747/)
+* [Scharre, P. (2018). Army of None: Autonomous Weapons and the Future of War. WW Norton & Company.](https://books.google.com/books?hl=de&lr=&id=sjMsDwAAQBAJ&oi=fnd&pg=PT7&dq=Army+of+None&ots=T8z0gGG0IW&sig=nIZIAWaqnNoPhMiFCTqo5gdNHeY#v=onepage&q=Army%20of%20None&f=false)
+* [Squire, P. N., & Parasuraman, R. (2010). Effects of automation and task load on task switching during human supervision of multiple semi-autonomous robots in a dynamic environment. Ergonomics, 53(8), 951-961.](https://www.tandfonline.com/doi/full/10.1080/00140139.2010.489969)
+* [Warren, A., & Hillas, A. (2017). Lethal Autonomous Weapons Systems: Adapting to the Future Unmanned Warfare and Unaccountable Robots. Yale J. Int'l Aff., 12, 71.](https://heinonline.org/HOL/LandingPage?handle=hein.journals/yaljoina12&div=12&id=&page=)
+* [Yilmaz, L., Ören, T., & Aghaee, N. G. (2006). Intelligent agents, simulation, and gaming. Simulation & Gaming, 37(3), 339-349.](http://journals.sagepub.com/doi/abs/10.1177/1046878106289089)
