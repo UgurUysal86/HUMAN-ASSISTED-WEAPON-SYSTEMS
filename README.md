@@ -52,6 +52,10 @@ Also, Stephen Hawking warned that AI could bring the end to humanity (Hawking 20
 
 However, we are just at the beginning of our literature research and are sure that more will be listed here due to the variety of sources.
 
+## Research Methods
+
+The book covers a few. We'll talk about a few other Modeling and Simulation focused ones (What I really consider more Quantitative ones), so my nomenclature differs a bit. 
+
 ## References 
 
 * [Chen, J. Y., & Barnes, M. J. (2014). Human–agent teaming for multirobot control: A review of human factors issues. IEEE Transactions on Human-Machine Systems, 44(1), 13-29.](https://ieeexplore.ieee.org/document/6697830/)
