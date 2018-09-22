@@ -28,7 +28,6 @@ This project makes the following contributions:
 * Presentation of the current status of research on Human-autonomy teaming in the military field of application.
 * Exploration of the possibilities and limits of Human-autonomy teaming in various military scenarios through simulation experiments.
 * Understanding of how the cognitive workload of human in various military Human-autonomy teaming scenarios can be determined.
-* Evaluation of the suitability of virtual simulation for research on Human-autonomy teaming.
 
 ## Related Work
 
