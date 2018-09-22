@@ -1,4 +1,4 @@
-# Research Practicum 2018 – Research Plan (Template)
+# Research Practicum 2018 – Research Plan of Group 4
 
 * Group Name: Group4
 * Group participants names: Cabrera, Roberto & Uysal, Ugur
