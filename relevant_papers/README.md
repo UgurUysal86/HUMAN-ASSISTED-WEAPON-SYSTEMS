@@ -2,7 +2,7 @@
 
 * Group Name: Terminators
 * Group participants names: Cabrera, Roberto & Uysal, Ugur
-* Project Title: Human Assisted Weapon Systems
+* Project Title: Human-assisted Weapon Systems
 
 ## Relevant Sources
 
