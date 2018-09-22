@@ -1,8 +1,8 @@
-# Research Practicum 2018 – Research Plan (Draft)
+# Research Practicum 2018 – Research Plan of Group 4
 
-> * Group Name: Terminators
-> * Group participants names: Cabrera, Roberto & Uysal, Ugur
-> * Project Title: Human Assisted Weapon Systems
+* Group Name: Terminators
+* Group participants names: Cabrera, Roberto & Uysal, Ugur
+* Project Title: Human Assisted Weapon Systems
 
 ## Relevant Sources
 
@@ -15,22 +15,13 @@
 ## Review
 
 Paper Selection: 
-    Group 4: Terminators has selected to review Effects of automation and task load on task switching during human supervision of multiple semi-autonomous robots in a dynamic 
-	environment by P.N. Squire and R. Parasuraman.
+Group 4: Terminators has selected to review Effects of automation and task load on task switching during human supervision of multiple semi-autonomous robots in a dynamic environment by P.N. Squire and R. Parasuraman.
 
 Description: 
-       Squire and Parasuraman formulated an experiment to discover the effects of tasking load and level of automation (LOA) on the tasks decision 
-	making of individuals.  The experiment uses the number of individuals supervising semi-autonomous robots teams of four and eight.  The robots 
-	interact in a dynamic environment on a game of capturing the flag.  The human supervisor has the option to select tasks between the offense 
-	(capturing the opponent’s flag) and defense (protecting the team’s flag).  The main purpose of the study is to create an interface aided by the 
-	results of the study to reduce the cognitive load of the human team leader.
+Squire and Parasuraman formulated an experiment to discover the effects of tasking load and level of automation (LOA) on the tasks decision making of individuals. The experiment uses the number of individuals supervising semi-autonomous robots teams of four and eight. The robots interact in a dynamic environment on a game of capturing the flag.  The human supervisor has the option to select tasks between the offense (capturing the opponent’s flag) and defense (protecting the team’s flag). The main purpose of the study is to create an interface aided by the results of the study to reduce the cognitive load of the human team leader.
 
 Executive Summary:
-       Squire and Parasuraman article represents the fundamental aspect of the group’s four experiment. The experiment looks into the human's ability 
-	to monitor semi-autonomous systems in a military environment.  Squire and Parasuraman experiments show the effect of task switching on the 
-	cognitive load of supervisory entities (the human) of the semi-autonomous robots in a game of capture the flag.  Group 4 will extend the experiment 
-	to use military tactics and goals with the use of simulation instead or robots.
-
+Squire and Parasuraman article represents the fundamental aspect of the group’s four experiment. The experiment looks into the human's ability to monitor semi-autonomous systems in a military environment. Squire and Parasuraman experiments show the effect of task switching on the cognitive load of supervisory entities (the human) of the semi-autonomous robots in a game of capture the flag. Group 4 will extend the experiment to use military tactics and goals with the use of simulation instead or robots.
 
 #### Clarity of Exposition
 4
@@ -41,14 +32,10 @@ Executive Summary:
 #### Rating
 4
 
+#### Explanation of Rating
+The rate of clarity of exposition is four. The article was well written, organize and to the point. The experiment was a design created and executing yielding important information about the research questions. The results give the confidence to proceed to the next stage of design a better interface to reduce the cognitive load on the human supervisor. The quality of the references was adequate for the level of experimentation and relevant to the subject matter. The experiment may require a level of funding, gut reasonable to reproduce. High school students have built the robots and competed in a game of flag. The overall rating is the average of the other ratings.
+
 Legend:
 (1-5)
 (1 awful)
-(5 best thing you ever read)
-
-#### Explanation of Rating
-       The rate of clarity of exposition is four.  The article was well written, organize and to the point.  The experiment was a design created and 
-	executing yielding important information about the research questions.  The results give the confidence to proceed to the next stage of design a 
-	better interface to reduce the cognitive load on the human supervisor.  The quality of the references was adequate for the level of experimentation 
-	and relevant to the subject matter.  The experiment may require a level of funding, gut reasonable to reproduce.  High school students have 
-	built the robots and competed in a game of flag.  The overall rating is the average of the other ratings.
+(5 best thing we ever read)
