@@ -4,7 +4,7 @@
 * Group participants names: Cabrera, Roberto & Uysal, Ugur
 * Project Title: Human-assisted Weapon Systems
 
-## General Introduction (draft)
+## General Introduction
 
 Armed forces use technology to gain superiority on the battlefield.  Recent breakthroughs in the field of Artificial Intelligence and Unmanned Systems provide new uses for military operations.
 The Control of Unmanned Systems can be done at different levels of autonomy. The focus of this research is the Human-autonomy teaming approach. In contrast to Manned-unmanned teaming, the unmanned systems are not operated by human operators. 
@@ -29,7 +29,7 @@ This project makes the following contributions:
 * Exploration of the possibilities and limits of Human-autonomy teaming in various military scenarios through simulation experiments.
 * Understanding of how the cognitive workload of human in various military Human-autonomy teaming scenarios can be determined.
 
-## Related Work
+## Related Work (draft)
 
 When searching for literature on the topic of Human-assisted Weapon Systems, we mostly found terms such as Manned-unmanned teaming and Human-autonomy teaming. 
 It is striking that the term Human-autonomy teaming is used more frequently in the latest publications. 
@@ -51,9 +51,24 @@ Also, Stephen Hawking warned that AI could bring the end to humanity (Hawking 20
 
 However, we are just at the beginning of our literature research and are sure that more will be listed here due to the variety of sources.
 
-## Research Methods
+## Research Methods (draft)
 
-The book covers a few. We'll talk about a few other Modeling and Simulation focused ones (What I really consider more Quantitative ones), so my nomenclature differs a bit. 
+Mixed Methods to answer reseach questions related to this projects contributions:
+	
+Step 1 - Qualitative Methods: 
+Presentation of the current status of research on Human-autonomy teaming in the military field of application.
+* Summary of the results of the related work 
+* Interview with experts on Human-autonomy teaming 
+	
+Step 2 - Quantitative Methods: 
+Exploration of the possibilities and limits of Human-autonomy teaming in various military scenarios through simulation experiments.
+* Simulation experiments (Varying military scenarios, to find out which scenarios are most suitable for Human-autonomy teaming).
+* Statistical analysis of the results
+	    
+Step 3 - Quantitative Methods: 
+Understanding of how the cognitive workload of human in a military Human-autonomy teaming scenario can be determined-
+* Simulation experiments (Varying the number of supervised autonomous systems in the most suitable scenario, which was which was previously examined)
+* Statistical analysis of the results
 
 ## References 
 
