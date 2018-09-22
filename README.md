@@ -64,7 +64,7 @@ Presentation of the current status of research on Human-autonomy teaming in the 
 	
 Step 2 - Quantitative Methods: 
 Exploration of the possibilities and limits of Human-autonomy teaming in various military scenarios through simulation experiments.
-* Simulation experiments (Varying military scenarios, Create scenarios that are viable for human-autonomy teamingexperimentation).
+* Simulation experiments (Varying military scenarios, create scenarios that are viable for human-autonomy teaming experimentation).
 * Statistical analysis of the results
 	    
 Step 3 - Quantitative Methods: 
