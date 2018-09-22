@@ -1,13 +1,13 @@
 # Research Practicum 2018 – Research Plan (Template)
 
-> * Group Name: Group4
-> * Group participants names: Cabrera, Roberto & Uysal, Ugur
-> * Project Title: Human Assisted Weapon Systems
+* Group Name: Group4
+* Group participants names: Cabrera, Roberto & Uysal, Ugur
+* Project Title: Human-assisted Weapon Systems
 
 ## General Introduction (draft)
 
 Armed forces use technology to gain superiority on the battlefield.  Recent breakthroughs in the field of Artificial Intelligence and Unmanned Systems provide new uses for military operations.
-The Control of Unmanned Systems can be done at different levels of autonomy. The focus of this research is the Human-Autonomy Teaming approach. In contrast to Manned-unmanned teaming, the unmanned systems are not operated by human operators. 
+The Control of Unmanned Systems can be done at different levels of autonomy. The focus of this research is the Human-autonomy teaming approach. In contrast to Manned-unmanned teaming, the unmanned systems are not operated by human operators. 
 With our research we would like to investigate the possibilities to operate unmanned systems semi-autonomously, to increase the effectiveness of military forces on the near future battlefield.
 
 On July 10, 2013, an unmanned X45B drone made an autonomous landing on an aircraft carrier for the first time.
@@ -20,25 +20,25 @@ Furthermore, it has to be clarified how the communication between the military l
 The purpose of this Research Project is to understand the limits and possibilities of semi-autonomous usage of Unmanned Systems. 
 The focus is on the cognitive performance of the human military leader, who give orders in different military scenarios to the Unmanned System.
 
-This problem is interesting, as the full military potential of Human Autonomy Teaming can currently only be estimated, as the technology required for this is just being developed.
+This problem is interesting, as the full military potential of Human-autonomy teaming can currently only be estimated, as the technology required for this is just being developed.
 Therefore we rely as part of our research project on the virtual simulation environment ARMA3, in which a human operator can give orders to several autonomous systems at the same time. With the knowledge, we gain from the simulation experiments we try the answer our research questions.
 Furthermore, we refer to approaches in this field by other researchers and delineate our approach.
 
 This project makes the following contributions:
-* Presentation of the current status of research on Human Autonomy Teaming in the military field of application.
-* Exploration of the possibilities and limits of human supervised unmanned systems through simulation experiments.
-* Understanding the cognitive performance of human military leaders in various military human-autonomy teaming scenarios.
-* Evaluation of the suitability of virtual simulation for research on Human-Autonomy Teaming.
+* Presentation of the current status of research on Human-autonomy teaming in the military field of application.
+* Exploration of the possibilities and limits of Human-autonomy teaming in various military scenarios through simulation experiments.
+* Understanding of how the cognitive workload of human in various military Human-autonomy teaming scenarios can be determined.
+* Evaluation of the suitability of virtual simulation for research on Human-autonomy teaming.
 
 ## Related Work
 
-When searching for literature on the topic of Human Assisted Weapon Systems, we mostly found terms such as Manned-Unmanned Teaming and Human-Autonomy Teaming. 
-It is striking that the term Human-Autonomy Teaming is used more frequently in the latest publications. 
+When searching for literature on the topic of Human-assisted Weapon Systems, we mostly found terms such as Manned-unmanned teaming and Human-autonomy teaming. 
+It is striking that the term Human-autonomy teaming is used more frequently in the latest publications. 
 This is related to advances in the field of autonomous systems in recent years and the resulting potential in the military sector. 
-Manned-Unmanned Teaming is the collaboration between a system of human inmates and a human remote controlled system without human occupants. 
-In Human-Autonomy Teaming, the unmanned system is autonomously controlled by an agent or AI and is not remotely controlled by a human operator.
+Manned-unmanned teaming is the collaboration between a system of human inmates and a human remote controlled system without human occupants. 
+In Human-autonomy teaming, the unmanned system is autonomously controlled by an agent or AI and is not remotely controlled by a human operator.
 
-Chen (2018) summarizes recent articles that highlight the growing relevance of using Human Autonomy Teaming in the military field. 
+Chen (2018) summarizes recent articles that highlight the growing relevance of using Human-autonomy teaming in the military field. 
 Chen (2018) explains that the Defense Science Board (2016) states that "Intelligent autonomous systems have become increasingly important in military missions" (p.255). 
 Chen (2018) claims that "As these systems become more intelligent and sophisticated - and autonomous - human-autonomy teaming has become a key issue to address "(p.255).
 
