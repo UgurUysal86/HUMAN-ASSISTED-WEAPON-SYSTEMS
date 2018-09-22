@@ -68,7 +68,7 @@ Exploration of the possibilities and limits of Human-autonomy teaming in various
 * Statistical analysis of the results.
 	    
 Step 3 - Quantitative Methods: 
-Understanding of how the cognitive workload of human in a military Human-autonomy teaming scenario can be determined-
+Understanding of how the cognitive workload of human in a military Human-autonomy teaming scenario can be determined.
 * Simulation experiments: Varying the number of supervised autonomous systems in the most suitable scenario, which was previously examined in step 2.
 * Statistical analysis of the results.
 
