@@ -1,6 +1,6 @@
 # Research Practicum 2018 – Research Plan (Draft)
 
-> * Group Name: Group4
+> * Group Name: Terminators
 > * Group participants names: Cabrera, Roberto & Uysal, Ugur
 > * Project Title: Human Assisted Weapon Systems
 
@@ -15,12 +15,12 @@
 ## Review
 
 Paper Selection: 
-    Group 4 has selected to review Effects of automation and task load on task switching during human supervision of multiple semi-autonomous robots in a dynamic 
+    Group 4: Terminators has selected to review Effects of automation and task load on task switching during human supervision of multiple semi-autonomous robots in a dynamic 
 	environment by P.N. Squire and R. Parasuraman.
 
 Description: 
        Squire and Parasuraman formulated an experiment to discover the effects of tasking load and level of automation (LOA) on the tasks decision 
-	making of individuals.  The experiment uses the number of individuals supervising semi-autonomous robots of teams of four and eight.  The robots 
+	making of individuals.  The experiment uses the number of individuals supervising semi-autonomous robots teams of four and eight.  The robots 
 	interact in a dynamic environment on a game of capturing the flag.  The human supervisor has the option to select tasks between the offense 
 	(capturing the opponent’s flag) and defense (protecting the team’s flag).  The main purpose of the study is to create an interface aided by the 
 	results of the study to reduce the cognitive load of the human team leader.
