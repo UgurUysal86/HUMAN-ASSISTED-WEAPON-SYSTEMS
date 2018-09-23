@@ -72,6 +72,8 @@ Understanding of how the cognitive workload of human in a military Human-autonom
 * Simulation experiments: Varying the number of supervised autonomous systems in the most suitable scenario, which was previously examined in step 2.
 * Statistical analysis of the results.
 
+Since the full potential of autonomous systems can only be estimated today due to technologies that are not yet fully developed, we want to use a simulation environment in which these technologies are already available. Therefore we use virtual simulation instead of robotic in the context of our experiments.
+
 ## References 
 
 * [Chen, J. Y., & Barnes, M. J. (2014). Human–agent teaming for multirobot control: A review of human factors issues. IEEE Transactions on Human-Machine Systems, 44(1), 13-29.](https://ieeexplore.ieee.org/document/6697830/)
