@@ -55,8 +55,8 @@ However, we are just at the beginning of our literature research and are sure th
 
 ## Research Methods (draft)
 
-Mixed Methods to answer reseach questions related to this projects contributions:
-	
+We want to use Mixed Research Methods to answer research questions related to this projects contributions. In the first step, we want to collect, analyze, and interpret qualitative data through a summary of the results of the related work and interviews with experts in the field of human-autonomy teaming. In the second and third step we want to collect, analyze, and interpret quantitative data through simulation experiments:
+
 Step 1 - Qualitative Methods: 
 Presentation of the current status of research on Human-autonomy teaming in the military field of application.
 * Summary of the results of the related work 
