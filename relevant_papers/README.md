@@ -21,7 +21,7 @@ Description:
 Squire and Parasuraman formulated an experiment to discover the effects of tasking load and level of automation (LOA) on the tasks decision making of individuals. The experiment uses the number of individuals supervising semi-autonomous robots teams of four and eight. The robots interact in a dynamic environment on a game of capturing the flag.  The human supervisor has the option to select tasks between the offense (capturing the opponent’s flag) and defense (protecting the team’s flag). The main purpose of the study is to create an interface aided by the results of the study to reduce the cognitive load of the human team leader.
 
 Executive Summary:
-Squire and Parasuraman article represents the fundamental aspect of the group’s four experiment. The experiment looks into the human's ability to monitor semi-autonomous systems in a military environment. Squire and Parasuraman experiments show the effect of task switching on the cognitive load of supervisory entities (the human) of the semi-autonomous robots in a game of capture the flag. Group 4 will extend the experiment to use military tactics and goals with the use of simulation instead or robots.
+Squire and Parasuraman article represents the fundamental aspect of the group’s four experiment. The experiment looks into the human's ability to monitor semi-autonomous systems in a military environment. Squire and Parasuraman experiments show the effect of task switching on the cognitive load of supervisory entities (the human) of the semi-autonomous robots in a game of capture the flag. Group 4 will extend the experiment to use military tactics and within a more realistic natural environment.  The new experiment will be accomplished via modeling and simulation.
 
 #### Clarity of Exposition
 4
@@ -33,7 +33,7 @@ Squire and Parasuraman article represents the fundamental aspect of the group’
 4
 
 #### Explanation of Rating
-The rate of clarity of exposition is four. The article was well written, organize and to the point. The experiment was a design created and executing yielding important information about the research questions. The results give the confidence to proceed to the next stage of design a better interface to reduce the cognitive load on the human supervisor. The quality of the references was adequate for the level of experimentation and relevant to the subject matter. The experiment may require a level of funding, gut reasonable to reproduce. High school students have built the robots and competed in a game of flag. The overall rating is the average of the other ratings.
+The rate of clarity of exposition is four. The article was well written, organize and to the point. An experiment was designed, created and executed yielding important information about the research questions. The experiment results gives the confidence to proceed to the next stage of designing a better interface to reduce the cognitive load on the human supervisor. The quality of the references is rated four.  The references were adequate for the level of experimentation and relevant to the subject matter. The experiment repoducibility is rated four as well.  The experiment may require a level of funding, but reasonable to reproduce. The hardware required can be easily allocated (2 PCs).  The difficult aspect of reproducing the experiment will be the acquisition of the software.  A budget will be require to pay 12 different individuals for their time in the experiment  The overall rating was based on the average of the ratings.
 
 Legend:
 (1-5)
