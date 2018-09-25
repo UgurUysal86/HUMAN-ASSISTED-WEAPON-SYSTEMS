@@ -42,7 +42,9 @@ It is important to emphasize that, in this context, every final decision has to 
 ## Research Methods (draft)
 
 The subject of interest is relatively new to our group.  With the desire to explore the topic, the group started to read articles, books, web-pages, etc.  After the initial research the group was able focus the research study into the subject of human-automation teaming.  As Creswell & Creswell define this process as a qualitative research process.
+
   The group was interested to find out how the interaction between the human and semi-automated forces and what some of the difficulties this new paradigm may have.  To refine more this concept the group started to define a model where the human has supervisory functions on the semi-automated assets during simulated operations.  The group’s intent to demonstrate the new paradigm using simulation.  The intent is to use simulation to collect data, analyze and produce a conclusion based on the results.  This is a quantitative research process.  The group needs use both a qualitative and a quantitative research methodology which is known as Mix Mode research methodology.
+  
    We want to use Mixed Research Methods to answer research questions related to this projects contributions. In the first step, we want to collect, analyze, and interpret qualitative data through a summary of the results of the related work and interviews with experts in the field of human-autonomy teaming. In the second and third step we want to collect, analyze, and interpret quantitative data through simulation experiments:
 
 Step 1 - Qualitative Methods: 
