@@ -6,9 +6,9 @@
 
 ## General Introduction
 
-“Twenty years from now, unless we can replace a considerable number of people with robots, it’ll be hard to maintain the current level of war capability,” said Akihisa Nagashima, a former parliamentary vice defence minister and conservative independent lawmaker. “Japan’s (security) situation won’t be more peaceful, so I think this is really serious” (Reuters, 2018). 
+"“Twenty years from now, unless we can replace a considerable number of people with robots, it’ll be hard to maintain the current level of war capability,” said Akihisa Nagashima, a former parliamentary vice defence minister and conservative independent lawmaker. “Japan’s (security) situation won’t be more peaceful, so I think this is really serious”" (Reuters, 2018). 
 
-Armed forces use technology to gain superiority on the battlefield. Recent breakthroughs in the field of Artificial Intelligence and Unmanned Systems provide new uses for military operations.The Control of Unmanned Systems can be done at different levels of autonomy. The focus of this research is the Human-autonomy teaming approach. In contrast to Manned-unmanned teaming, the unmanned systems are not operated by human operators. With our research we would like to investigate the possibilities to operate unmanned systems semi-autonomously, to increase the effectiveness of military forces on the near future battlefield.
+Armed forces use technology to gain superiority on the battlefield. Recent breakthroughs in the field of Artificial Intelligence and Unmanned Systems provide new uses for military operations. The Control of Unmanned Systems can be done at different levels of autonomy. The focus of this research is the Human-autonomy teaming approach. In contrast to Manned-unmanned teaming, the unmanned systems are not operated by human operators. With our research we would like to investigate the possibilities to operate unmanned systems semi-autonomously, to increase the effectiveness of military forces on the near future battlefield.
 
 On July 10, 2013, an unmanned X45B drone made an autonomous landing on an aircraft carrier for the first time.
 https://www.youtube.com/watch?v=Rc2k6G8LuqY
