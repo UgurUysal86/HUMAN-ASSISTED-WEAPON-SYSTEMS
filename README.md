@@ -77,6 +77,7 @@ Since the full potential of autonomous systems can only be estimated today due t
 * [Vinge, V. (1993). The coming technological singularity: How to survive in the post-human era.](https://edoras.sdsu.edu/~vinge/misc/singularity.html)
 * [Warren, A., & Hillas, A. (2017). Lethal Autonomous Weapons Systems: Adapting to the Future Unmanned Warfare and Unaccountable Robots. Yale J. Int'l Aff., 12, 71.](https://heinonline.org/HOL/LandingPage?handle=hein.journals/yaljoina12&div=12&id=&page=)
 * [Yilmaz, L., Ören, T., & Aghaee, N. G. (2006). Intelligent agents, simulation, and gaming. Simulation & Gaming, 37(3), 339-349.](http://journals.sagepub.com/doi/abs/10.1177/1046878106289089)
-* [Youtube (2016, June 18). ARMA 3 - Advanced AI Command Tactics w/ ALIVE Combat Support & High Command (Full Mission). Retrieved from https://www.youtube.com/watch?v=QphmHgvYlJw&t=1290s](https://www.youtube.com/watch?v=QphmHgvYlJw&t=1290s)
 * [Youtube (2013, July 10). X-47B Completes First Carrier-based Arrested Landing. Retrieved from https://www.youtube.com/watch?v=Rc2k6G8LuqY](https://www.youtube.com/watch?v=Rc2k6G8LuqY)
+* [Youtube (2016, June 18). ARMA 3 - Advanced AI Command Tactics w/ ALIVE Combat Support & High Command (Full Mission). Retrieved from https://www.youtube.com/watch?v=QphmHgvYlJw&t=1290s](https://www.youtube.com/watch?v=QphmHgvYlJw&t=1290s)
+
 
