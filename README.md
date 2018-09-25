@@ -16,7 +16,9 @@ https://www.youtube.com/watch?v=Rc2k6G8LuqY
 The military use of autonomous drones in varying degrees of intensity seems to be possible in the foreseeable future.
 Our basic principle is that the human military leader remains at any time the decision-making authority to carry out military operations. The question that needs to be clarified is the extent to which humans are cognitively able to monitor unmanned systems and use them in military operationsFurthermore, it has to be clarified how the communication between the military leader and the autonomous system must be defined in order to ensure successful execution of military orders. The purpose of this Research Project is to understand the limits and possibilities of semi-autonomous usage of Unmanned Systems. The focus is on the cognitive performance of the human military leader, who give orders in different military scenarios to the Unmanned System.
 
-This problem is interesting, as the full military potential of Human-autonomy teaming can currently only be estimated, as the technology required for this is just being developed. Therefore we rely as part of our research project on the virtual simulation environment ARMA3, in which a human operator can give orders to several autonomous systems at the same time. With the knowledge, we gain from the simulation experiments we try the answer our research questions. Furthermore, we refer to approaches in this field by other researchers and delineate our approach.
+This problem is interesting, as the full military potential of Human-autonomy teaming can currently only be estimated, as the technology required for this is just being developed. Therefore we rely as part of our research project on the virtual simulation environment ARMA3, in which a human operator can give orders to several autonomous systems at the same time. The following video gives an impression of how the AI control in ARMA 3 can be managed. https://www.youtube.com/watch?v=QphmHgvYlJw&t=1290s
+
+With the knowledge, we gain from the simulation experiments we try the answer our research questions. Furthermore, we refer to approaches in this field by other researchers and delineate our approach.
 
 This project makes the following contributions:
 * Presentation of the current status of research on Human-autonomy teaming in the military field of application.
@@ -74,3 +76,6 @@ Since the full potential of autonomous systems can only be estimated today due t
 * [Vinge, V. (1993). The coming technological singularity: How to survive in the post-human era.](https://edoras.sdsu.edu/~vinge/misc/singularity.html)
 * [Warren, A., & Hillas, A. (2017). Lethal Autonomous Weapons Systems: Adapting to the Future Unmanned Warfare and Unaccountable Robots. Yale J. Int'l Aff., 12, 71.](https://heinonline.org/HOL/LandingPage?handle=hein.journals/yaljoina12&div=12&id=&page=)
 * [Yilmaz, L., Ören, T., & Aghaee, N. G. (2006). Intelligent agents, simulation, and gaming. Simulation & Gaming, 37(3), 339-349.](http://journals.sagepub.com/doi/abs/10.1177/1046878106289089)
+* [Youtube (2016, June 18). ARMA 3 - Advanced AI Command Tactics w/ ALIVE Combat Support & High Command (Full Mission). Retrieved from https://www.youtube.com/watch?v=QphmHgvYlJw&t=1290s](https://www.youtube.com/watch?v=QphmHgvYlJw&t=1290s)
+* [Youtube (2013, July 10). X-47B Completes First Carrier-based Arrested Landing. Retrieved from https://www.youtube.com/watch?v=Rc2k6G8LuqY](https://www.youtube.com/watch?v=Rc2k6G8LuqY)
+
