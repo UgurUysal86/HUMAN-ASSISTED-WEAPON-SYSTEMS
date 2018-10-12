@@ -51,9 +51,8 @@ We want to use a Mixed Methods Approach to answer the following Research Questio
 
 * Central Question: What are the benefits of using human-supervised autonomous systems in a military environment?
 
-* SubQuestions:
-What is the current status of research on Human-autonomy teaming in the military?
-How could autonomous systems be integrated into the armed forces, ensuring that legal aspects are adhered to?
+* SubQuestion 1: What is the current status of research on Human-autonomy teaming in the military?
+* SubQuestion 2: How could autonomous systems be integrated into the armed forces, ensuring that legal aspects are adhered to?
 
 We want to answer these qualitative questions by interviews and literature review.
 
