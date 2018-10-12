@@ -8,13 +8,12 @@
 
 "Twenty years from now, unless we can replace a considerable number of people with robots, it’ll be hard to maintain the current level of war capability,” said Akihisa Nagashima, a former parliamentary vice defence minister and conservative independent lawmaker. “Japan’s (security) situation won’t be more peaceful, so I think this is really serious" (Reuters, 2018). 
 
-Armed forces use technology to gain superiority on the battlefield. Recent breakthroughs in the field of Artificial Intelligence and Unmanned Systems provide new uses for military operations. The Control of Unmanned Systems can be done at different levels of autonomy. The focus of this research is the Human-autonomy teaming approach. In contrast to Manned-unmanned teaming, the unmanned systems are not operated by human operators. With our research we would like to investigate the possibilities to operate unmanned systems semi-autonomously, to increase the effectiveness of military forces on the near future battlefield.
+Armed forces use technology to gain superiority on the battlefield. Recent breakthroughs in the field of Artificial Intelligence and Unmanned Systems provide new uses for military operations. The Control of Unmanned Systems can be done at different levels of autonomy. The focus of this research is the Human-autonomy teaming approach. In contrast to Manned-unmanned teaming, the unmanned systems are not operated by human operators. With our research we would like to investigate the possibilities to operate unmanned systems autonomously, to increase the effectiveness of military forces on the near future battlefield.
 
 On July 10, 2013, an unmanned X45B drone made an autonomous landing on an aircraft carrier for the first time.
 https://www.youtube.com/watch?v=Rc2k6G8LuqY
 
-The military use of autonomous drones in varying degrees of intensity seems to be possible in the foreseeable future.
-Our basic principle is that the human military leader remains at any time the decision-making authority to carry out military operations. The question that needs to be clarified is the extent to which humans are cognitively able to monitor unmanned systems and use them in military operationsFurthermore, it has to be clarified how the communication between the military leader and the autonomous system must be defined in order to ensure successful execution of military orders. The purpose of this Research Project is to understand the limits and possibilities of semi-autonomous usage of Unmanned Systems. The focus is on the cognitive performance of the human military leader, who give orders in different military scenarios to the Unmanned System.
+The military use of autonomous drones in varying degrees of intensity seems to be possible in the foreseeable future. Our basic principle is that the human military leader remains at any time the decision-making authority to carry out military operations. With our research, we would like to investigate the possibilities and limits of human-supervised autonomous systems on the future battlefield. The focus is on the reliability of the Human-supervised autonomous system in a virtual military scenario.
 
 This problem is interesting, as the full military potential of Human-autonomy teaming can currently only be estimated, as the technology required is just being developed. Therefore we rely as part of our research project on the virtual simulation environment ARMA3, in which a human operator can give orders to several autonomous systems at the same time. The following video gives an impression of how the AI control in ARMA3 can be managed. 
 https://www.youtube.com/watch?v=QphmHgvYlJw&t=1290s
@@ -24,7 +23,6 @@ With the knowledge, we gain from the simulation experiments we try the answer ou
 This project makes the following contributions:
 * Presentation of the current status of research on Human-autonomy teaming in the military field of application.
 * Exploration of the possibilities and limits of Human-autonomy teaming in various military scenarios through simulation experiments.
-* Understanding of how the cognitive workload of human in various military Human-autonomy teaming scenarios can be determined.
 
 ## Related Work
 
@@ -43,24 +41,30 @@ It is important to emphasize that, in this context, every final decision has to 
 
 The subject of interest is relatively new to our group. With the desire to explore the topic, the group started to read articles, books, web-pages, etc. After the initial research the group was able focus the research study into the subject of human-automation teaming. As Creswell & Creswell define this process as a qualitative research process.
 
-The group was interested to find out how the interaction between the human and semi-automated forces and what some of the difficulties this new paradigm may have. To refine more this concept the group started to define a model where the human has supervisory functions on the semi-automated assets during simulated operations. The group’s intent to demonstrate the new paradigm using simulation. The intent is to use simulation to collect data, analyze and produce a conclusion based on the results.  This is a quantitative research process. The group needs use both a qualitative and a quantitative research methodology which is known as Mix Mode research methodology.
+The group was interested to find out how the interaction between the human superviser and autonomous systems and what some of the difficulties this new paradigm may have. To refine more this concept the group started to define a model where the human has supervisory functions on the semi-automated assets during simulated operations. The group’s intent to demonstrate the new paradigm using simulation. The intent is to use simulation to collect data, analyze and produce a conclusion based on the results.
   
-We want to use Mixed Research Methods to answer research questions related to this projects contributions. In the first step, we want to collect, analyze, and interpret qualitative data through a summary of the results of the related work and interviews with experts in the field of human-autonomy teaming. In the second and third step we want to collect, analyze, and interpret quantitative data through simulation experiments:
+We want to use Mixed Research Methods to answer research questions related to this projects contributions. In the first step, we want to collect, analyze, and interpret qualitative data through a summary of the results of the related work and interviews with experts in the field of human-autonomy teaming. In the second step we want to collect, analyze, and interpret quantitative data through simulation experiments:
 
-Step 1 - Qualitative Methods: 
-Presentation of the current status of research on Human-autonomy teaming in the military field of application.
-* Summary of the results of the related work 
-* Interview with experts on Human-autonomy teaming 
-	
-Step 2 - Quantitative Methods: 
-Exploration of the possibilities and limits of Human-autonomy teaming in various military scenarios through simulation experiments.
-* Simulation experiments: Create military scenarios that are viable for human-autonomy teaming experimentation.
-* Statistical analysis of the results.
-	    
-Step 3 - Quantitative Methods: 
-Understanding of how the cognitive workload of human in a military Human-autonomy teaming scenario can be determined.
-* Simulation experiments: Varying the number of supervised autonomous systems in the most suitable scenario, which was previously examined in step 2.
-* Statistical analysis of the results.
+We want to use a Mixed Methods Approach to answer the following Research Questions:
+
+1. Qualitative Research Questions:
+
+* Central Question: What are the benefits of using human-supervised autonomous systems in a military environment?
+
+* SubQuestions:
+
+* What is the current status of research on Human-autonomy teaming in the military?
+* How could autonomous systems be integrated into the armed forces, ensuring that legal aspects are adhered to?
+
+We want to answer these qualitative questions by interviews and literature review.
+
+2. Quantitative Research Question: Does the use of autonomous systems have positive effects on military capabilities?
+
+* Hypothesis 1: Unmanned Systems can be operated autonomously with the same Reliability as Human-operated once in a military scenario.
+* Hypothesis 2: By using autonomous systems, military missions can be conducted with less human personnel.
+* Hypothesis 3: The use of autonomous systems could extend the range of military operations.
+
+We want to answer this quantitative research question by simulation experiments that are viable for human-autonomy teaming experimentation.
 
 Since the full potential of autonomous systems can only be estimated today due to technologies that are not yet fully developed, we want to use a simulation environment in which these technologies are already available. Therefore we use virtual simulation instead of robotics for our experiments.
 
@@ -83,5 +87,3 @@ Since the full potential of autonomous systems can only be estimated today due t
 * [Yilmaz, L., Ören, T., & Aghaee, N. G. (2006). Intelligent agents, simulation, and gaming. Simulation & Gaming, 37(3), 339-349.](http://journals.sagepub.com/doi/abs/10.1177/1046878106289089)
 * [Youtube (2013, July 10). X-47B Completes First Carrier-based Arrested Landing. Retrieved from https://www.youtube.com/watch?v=Rc2k6G8LuqY](https://www.youtube.com/watch?v=Rc2k6G8LuqY)
 * [Youtube (2016, June 18). ARMA 3 - Advanced AI Command Tactics w/ ALIVE Combat Support & High Command (Full Mission). Retrieved from https://www.youtube.com/watch?v=QphmHgvYlJw&t=1290s](https://www.youtube.com/watch?v=QphmHgvYlJw&t=1290s)
-
-
