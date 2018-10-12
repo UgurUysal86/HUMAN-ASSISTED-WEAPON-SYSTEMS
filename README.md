@@ -47,17 +47,13 @@ We want to use Mixed Research Methods to answer research questions related to th
 
 We want to use a Mixed Methods Approach to answer the following Research Questions:
 
-1. Qualitative Research Questions:
-
-* Central Question: What are the benefits of using human-supervised autonomous systems in a military environment?
-
+1. Qualitative Research Question: What are the benefits of using human-supervised autonomous systems in a military environment?
 * SubQuestion 1: What is the current status of research on Human-autonomy teaming in the military?
 * SubQuestion 2: How could autonomous systems be integrated into the armed forces, ensuring that legal aspects are adhered to?
 
 We want to answer these qualitative questions by interviews and literature review.
 
 2. Quantitative Research Question: Does the use of autonomous systems have positive effects on military capabilities?
-
 * Hypothesis 1: Unmanned Systems can be operated autonomously with the same Reliability as Human-operated once in a military scenario.
 * Hypothesis 2: By using autonomous systems, military missions can be conducted with less human personnel.
 * Hypothesis 3: The use of autonomous systems could extend the range of military operations.
