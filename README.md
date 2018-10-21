@@ -51,21 +51,21 @@ We want to use Mixed Research Methods to answer research questions related to th
 
 ## Qualitative Research Questions
 
-# Central question: What are the benefits of using human-supervised autonomous systems in a military environment?
+### Central question: What are the benefits of using human-supervised autonomous systems in a military environment?
 
-# Subquestion 1: What is the current status of research on Human-autonomy teaming in the military?
+### Subquestion 1: What is the current status of research on Human-autonomy teaming in the military?
 
-# Subquestion 2: How could autonomous systems be integrated into the armed forces, ensuring that legal aspects are adhered to?
+### Subquestion 2: How could autonomous systems be integrated into the armed forces, ensuring that legal aspects are adhered to?
 
 ## Quantitative Research Questions
 
-# Quantitative Research Question: Does the use of autonomous systems have positive effects on military capabilities?
+### Quantitative Research Question: Does the use of autonomous systems have positive effects on military capabilities?
 
-# Hypothesis 1: Unmanned Systems can be operated autonomously with the same Reliability as Human-operated once in a military scenario.
+### Hypothesis 1: Unmanned Systems can be operated autonomously with the same Reliability as Human-operated once in a military scenario.
 
-# Hypothesis 2: By using autonomous systems, military missions can be conducted with less human personnel.
+### Hypothesis 2: By using autonomous systems, military missions can be conducted with less human personnel.
 
-# Hypothesis 3: The use of autonomous systems could extend the range of military operations.
+### Hypothesis 3: The use of autonomous systems could extend the range of military operations.
 
 Since the full potential of autonomous systems can only be estimated today due to technologies that are not yet fully developed, we want to use a simulation environment in which these technologies are already available. Therefore we use virtual simulation instead of robotics for our experiments.
 
