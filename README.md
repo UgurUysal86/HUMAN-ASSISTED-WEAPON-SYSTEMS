@@ -4,7 +4,10 @@
 * Group participants names: Cabrera, Roberto & Uysal, Ugur
 * Project Title: Human-assisted Weapon Systems
 
-## General Introduction
+## Topic / Purpose Statement
+
+
+## Introduction
 
 "Twenty years from now, unless we can replace a considerable number of people with robots, it’ll be hard to maintain the current level of war capability,” said Akihisa Nagashima, a former parliamentary vice defence minister and conservative independent lawmaker. “Japan’s (security) situation won’t be more peaceful, so I think this is really serious" (Reuters, 2018). 
 
@@ -24,7 +27,7 @@ This project makes the following contributions:
 * Presentation of the current status of research on Human-autonomy teaming in the military field of application.
 * Exploration of the possibilities and limits of Human-autonomy teaming in various military scenarios through simulation experiments.
 
-## Related Work
+## Related Work / literature review
 
 When searching for literature on the topic of Human-assisted Weapon Systems, we mostly found terms such as Manned-unmanned teaming and Human-autonomy teaming. It is striking that the term Human-autonomy teaming is used more frequently in the latest publications. This is related to advances in the field of autonomous systems in recent years and the resulting potential in the military sector. Manned-unmanned teaming is the collaboration between a system of human inmates and a human remote controlled system without human occupants. In Human-autonomy teaming, the unmanned system is autonomously controlled by an agent or AI and is not remotely controlled by a human operator.
 
@@ -37,7 +40,7 @@ It is imperative not only to understand the ethical implications of using semi-a
 
 It is important to emphasize that, in this context, every final decision has to be made by the human, as this topic is also negatively afflicted and can encounter rejection. By coining the term of the technical singularity, Vinge (1993) warned that immediately after the development of Artificial Super Intelligence, the end of humanity would be imminent. Also, Stephen Hawking warned that AI could bring the end to humanity (Hawking 2014). This scenario has also been used in science fiction films, e.g., The Terminator (1984).
 
-## Research Methods (draft)
+## Research Methods
 
 The subject of interest is relatively new to our group. With the desire to explore the topic, the group started to read articles, books, web-pages, etc. After the initial research the group was able focus the research study into the subject of human-automation teaming. As Creswell & Creswell define this process as a qualitative research process.
 
@@ -48,19 +51,29 @@ We want to use Mixed Research Methods to answer research questions related to th
 We want to use a Mixed Methods Approach to answer the following Research Questions:
 
 1. Qualitative Research Question: What are the benefits of using human-supervised autonomous systems in a military environment?
+
 * SubQuestion 1: What is the current status of research on Human-autonomy teaming in the military?
+
 * SubQuestion 2: How could autonomous systems be integrated into the armed forces, ensuring that legal aspects are adhered to?
+
 
 We want to answer these qualitative questions by interviews and literature review.
 
 2. Quantitative Research Question: Does the use of autonomous systems have positive effects on military capabilities?
+
 * Hypothesis 1: Unmanned Systems can be operated autonomously with the same Reliability as Human-operated once in a military scenario.
+
 * Hypothesis 2: By using autonomous systems, military missions can be conducted with less human personnel.
+
 * Hypothesis 3: The use of autonomous systems could extend the range of military operations.
 
 We want to answer this quantitative research question by simulation experiments that are viable for human-autonomy teaming experimentation.
 
 Since the full potential of autonomous systems can only be estimated today due to technologies that are not yet fully developed, we want to use a simulation environment in which these technologies are already available. Therefore we use virtual simulation instead of robotics for our experiments.
+
+## Preliminary framework / setup
+
+## Plan of attack for the rest of the semester
 
 ## References 
 
