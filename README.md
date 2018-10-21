@@ -6,6 +6,7 @@
 
 ## Topic / Purpose Statement
 
+The purpose of ...
 
 ## Introduction
 
@@ -46,28 +47,25 @@ The subject of interest is relatively new to our group. With the desire to explo
 
 The group was interested to find out how the interaction between the human superviser and autonomous systems and what some of the difficulties this new paradigm may have. To refine more this concept the group started to define a model where the human has supervisory functions on the semi-automated assets during simulated operations. The group’s intent to demonstrate the new paradigm using simulation. The intent is to use simulation to collect data, analyze and produce a conclusion based on the results.
   
-We want to use Mixed Research Methods to answer research questions related to this projects contributions. In the first step, we want to collect, analyze, and interpret qualitative data through a summary of the results of the related work and interviews with experts in the field of human-autonomy teaming. In the second step we want to collect, analyze, and interpret quantitative data through simulation experiments:
+We want to use Mixed Research Methods to answer research questions related to this projects contributions. First, we want to answer the qualitative research questions by literature review and interviews with experts in the field of human-autonomy teaming. In the second step we want to collect, analyze, and interpret quantitative data through simulation experiments. We want to answer the quantitative research question by simulation experiments that are viable for human-autonomy teaming experimentation.
 
-We want to use a Mixed Methods Approach to answer the following Research Questions:
+## Qualitative Research Questions
 
-1. Qualitative Research Question: What are the benefits of using human-supervised autonomous systems in a military environment?
+* Central question: What are the benefits of using human-supervised autonomous systems in a military environment?
 
-* SubQuestion 1: What is the current status of research on Human-autonomy teaming in the military?
+* Subquestion 1: What is the current status of research on Human-autonomy teaming in the military?
 
-* SubQuestion 2: How could autonomous systems be integrated into the armed forces, ensuring that legal aspects are adhered to?
+* Subquestion 2: How could autonomous systems be integrated into the armed forces, ensuring that legal aspects are adhered to?
 
+## Quantitative Research Questions
 
-We want to answer these qualitative questions by interviews and literature review.
-
-2. Quantitative Research Question: Does the use of autonomous systems have positive effects on military capabilities?
+Quantitative Research Question: Does the use of autonomous systems have positive effects on military capabilities?
 
 * Hypothesis 1: Unmanned Systems can be operated autonomously with the same Reliability as Human-operated once in a military scenario.
 
 * Hypothesis 2: By using autonomous systems, military missions can be conducted with less human personnel.
 
 * Hypothesis 3: The use of autonomous systems could extend the range of military operations.
-
-We want to answer this quantitative research question by simulation experiments that are viable for human-autonomy teaming experimentation.
 
 Since the full potential of autonomous systems can only be estimated today due to technologies that are not yet fully developed, we want to use a simulation environment in which these technologies are already available. Therefore we use virtual simulation instead of robotics for our experiments.
 
