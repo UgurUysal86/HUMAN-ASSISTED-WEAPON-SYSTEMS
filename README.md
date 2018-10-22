@@ -126,16 +126,16 @@ Tbd.
 ## Plan of attack for the rest of the semester
 
 ### Midterm Presentation 10/30/2018
-* Update GitHub with Slide Content 10/23/2018
-* Draft Slides uploaded 10/23/2018
-* Final Slides uploaded 10/29/2018
-* Draft early results of qualitative and quantitative 10/22/2018
+* Update GitHub with Slide Content NLT 10/23/2018
+* Draft Slides uploaded NLT 10/23/2018
+* Final Slides uploaded NLT 10/29/2018
+* Draft early results of qualitative and quantitative NLT 10/22/2018
 
 ### Final Presentation 12/04/2018
-* Finalize Research Methodologie 11/29/2018
-* Qualitative Research finalized 11/29/2018
-* Quantitative Research finalized 11/29/2018
-* Finalize Documentary /12/03/2018
+* Finalize Research Methodologie NLT 11/29/2018
+* Qualitative Research finalized NLT 11/29/2018
+* Quantitative Research finalized NLT 11/29/2018
+* Finalize Documentary NLT 12/03/2018
 
 ## References 
 
