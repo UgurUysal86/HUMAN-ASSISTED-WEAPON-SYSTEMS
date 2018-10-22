@@ -73,7 +73,6 @@ tbd.
 ### Hypothesis 3: The use of autonomous systems could extend the range of military operations.
 tbd.
 
-Since the full potential of autonomous systems can only be estimated today due to technologies that are not yet fully developed, we want to use a simulation environment in which these technologies are already available. Therefore we use virtual simulation instead of robotics for our experiments.
 
 ## Preliminary framework / setup of the experimental Study Method Plan
 
@@ -101,7 +100,7 @@ Our group will create scenarios to compare human actions against autonomous agen
 * Perception of the cognitive workload of the human operator
 
 ### Instrumentation and Materials
-The virtual simulation game ARMA3 is used as our framework to create a military scenario for generating Data to answer the quantitative research questions.
+Since the full potential of autonomous systems can only be estimated today due to technologies that are not yet fully developed, we want to use a simulation environment in which these technologies are already available. Therefore we use virtual simulation instead of robotics for our experiments. The virtual simulation game ARMA3 is used as our framework to create a military scenario for generating Data to answer the quantitative research questions.
 
 ### Experimental Procedures Hypothesis 1:
 #### 1. Modeling of the Scenario 
