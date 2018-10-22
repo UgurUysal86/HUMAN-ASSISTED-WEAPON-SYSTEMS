@@ -63,6 +63,7 @@ The suggestion for autonomous systems to ensure they adhered to legal implicatio
 ## Quantitative Research Questions
 
 ### Quantitative Research Question: Does the use of autonomous systems have positive effects on military capabilities?
+The answer depends on the results of the hypotheses and can therefore only be answered at the end of the project.
 
 ### Hypothesis 1: Unmanned Systems can be operated autonomously with the same Reliability as Human-operated once in a military scenario. 
 After the first simulation runs, there is evidence that there is no significant difference between the results of experiment A and B. That means unmanned Systems can be operated autonomously with the same Reliability as Human-operated once in a ARMA3-based virtual military scenario. 
