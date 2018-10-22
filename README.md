@@ -104,8 +104,10 @@ Our group will create scenarios to compare human actions against autonomous agen
 The virtual simulation game ARMA3 is used as our framework to create a military scenario for generating Data to answer the quantitative research questions.
 
 ### Experimental Procedures Hypothesis 1:
-#### 1. Modeling of the Scenario: Before the beginning of each simulation run, the scenario is modeled according to the Independent variables.
-#### 2. Conducting the simulation experiment: Running the Simulation in ARMA3 with a specific Szenario. At the end of each Simulation run, the values of the response variables are saved in an in a database.
+#### 1. Modeling of the Scenario 
+Before the beginning of each simulation run, the scenario is modeled according to the Independent variables.
+#### 2. Conducting the simulation experiment 
+Running the Simulation in ARMA3 with a specific Szenario. At the end of each Simulation run, the values of the response variables are saved in an in a database.
 
 ##### Experiment 1.1 JTAC assigning Targets:
 * A: semi-autonomous operation (30 runs): 
@@ -119,7 +121,7 @@ Tbd.
 * Experimental Procedures Hypothesis 3:
 Tbd.
 
-#### 3.Analyzing the Data.
+#### 3. Analyzing the Data.
 After generating all Data during the simulation experiments the Data of Experiment A and B a statistical hypothesis test using the Software "R" will be conducted answer Hypothesis 1. Unmanned Systems can be operated autonomously with the same reliability as Human-operated once in a virtual military scenario when there is no significant difference between Experiment A and B. 
 
 ## Plan of attack for the rest of the semester
