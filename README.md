@@ -117,7 +117,7 @@ The human user remotely controls the weapon use of the drone, the flying of the 
 The human user assigns the drone a specific target (e.g., destroy the enemy tank on coordinate x, y), which is then engaged autonomously by the drone. The use of the drone is terminated when the specifically assigned target is destroyed, or the human user decides to cancel the operation. Although the human user decides to use the weapon system as in example 1, however, the execution is done autonomously. The human user assumes the role of a supervisor. In this example, the human is "on-the-loop".
 
 #### 3. Analyzing the Data.
-After generating all Data during the simulation experiments the Data of Experiment A and B a statistical hypothesis test using the Software "R" will be conducted answer Hypothesis 1. Unmanned Systems can be operated autonomously with the same reliability as Human-operated once in a virtual military scenario when there is no significant difference between Experiment A and B. 
+After generating the Data during the simulation experiments A and B, a statistical hypothesis test using the software "R" will be conducted to answer hypothesis 1. Unmanned Systems can be operated autonomously with the same reliability as Human-operated once in a virtual military scenario when there is no significant difference between the outcomes of experiment A and B. 
 
 ### Experimental Procedures Hypothesis 2:
 Tbd.
