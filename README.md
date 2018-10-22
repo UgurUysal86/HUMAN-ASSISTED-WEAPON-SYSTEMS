@@ -64,15 +64,63 @@ The suggestion for autonomous systems to ensure they adhered to legal implicatio
 
 ### Quantitative Research Question: Does the use of autonomous systems have positive effects on military capabilities?
 
-### Hypothesis 1: Unmanned Systems can be operated autonomously with the same Reliability as Human-operated once in a military scenario.
+### Hypothesis 1: Unmanned Systems can be operated autonomously with the same Reliability as Human-operated once in a military scenario. 
+After the first simulation runs, there is evidence that there is no significant difference between the results of experiment A and B. That means unmanned Systems can be operated autonomously with the same Reliability as Human-operated once in a ARMA3-based virtual military scenario. 
 
 ### Hypothesis 2: By using autonomous systems, military missions can be conducted with less human personnel.
+tbd.
 
 ### Hypothesis 3: The use of autonomous systems could extend the range of military operations.
+tbd.
 
 Since the full potential of autonomous systems can only be estimated today due to technologies that are not yet fully developed, we want to use a simulation environment in which these technologies are already available. Therefore we use virtual simulation instead of robotics for our experiments.
 
-## Preliminary framework / setup
+## Preliminary framework / setup of the experimental Study Method Plan
+
+To answer our projects quantitative research questions we set up an experimental Design to "manipulates one or more variables in order to evaluate how this manipulation impacts an outcome or outcomes of interest" (Creswell & Creswell, 2018, p. 147) with the following components:
+
+### Participants
+Our group will create scenarios to compare human actions against autonomous agents to determine the reliability of the autonomous agents.  One or both of our research people will be the human agents in the simulation. At this time no further human Participants are needed. If further persons are needed, then gamers which have been exposed to the simulation framework or military personnel which has experience of dealing with unmanned systems would be best suited for this.
+
+### Independent variables:
+* Level of autonomy  {semi-autonomous, supervised autonomous, fully autonomous},
+* Amount of targets {1..n}, 
+* Amount objectives {1..n}
+* Amount of autonomous systems  {1..n},
+* Available Type Weapons {GBU, AGM} 
+* Amount of Weapons {1..n}
+* Amount of Unbound vehicles {1..n}
+* Complexity of Szenario {low, middle, high}
+
+### Dependent variables (Responses):
+* % of destroyed targets
+* % of objectives fulfilled
+* Total Mission Time
+* Used Ammunition per target
+* Amount of Casualties
+* Perception of the cognitive workload of the human operator
+
+### Instrumentation and Materials
+The virtual simulation game ARMA3 is used as our framework to create a military scenario for generating Data to answer the quantitative research questions.
+
+### Experimental Procedures Hypothesis 1:
+#### 1. Modeling of the Scenario: Before the beginning of each simulation run, the scenario is modeled according to the Independent variables.
+#### 2. Conducting the simulation experiment: Running the Simulation in ARMA3 with a specific Szenario. At the end of each Simulation run, the values of the response variables are saved in an in a database.
+
+##### Experiment 1.1 JTAC assigning Targets:
+* A: semi-autonomous operation (30 runs): 
+The human user remotely controls the weapon use of the drone, the flying of the drone is carried out autonomously according to the specifications of the human user. The human user decides on the use of weapons and executes it. The drone can only carry out its mission through the input of the human user. In this example, the human is "in-the-loop."
+			
+* B: supervised autonomous operation (30 runs):
+The human user assigns the drone a specific target (e.g., destroy the enemy tank on coordinate x, y), which is then engaged autonomously by the drone. The use of the drone is terminated when the specifically assigned target is destroyed, or the human user decides to cancel the operation. Although the human user decides to use the weapon system as in example 1, however, the execution is done autonomously. The human user assumes the role of a supervisor. In this example, the human is "on-the-loop".
+
+* Experimental Procedures Hypothesis 2:
+Tbd.
+* Experimental Procedures Hypothesis 3:
+Tbd.
+
+#### 3.Analyzing the Data.
+After generating all Data during the simulation experiments the Data of Experiment A and B a statistical hypothesis test using the Software "R" will be conducted answer Hypothesis 1. Unmanned Systems can be operated autonomously with the same reliability as Human-operated once in a virtual military scenario when there is no significant difference between Experiment A and B. 
 
 ## Plan of attack for the rest of the semester
 
