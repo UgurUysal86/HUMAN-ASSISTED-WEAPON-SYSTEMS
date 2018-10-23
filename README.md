@@ -6,7 +6,7 @@
 
 ## Topic / Purpose Statement
 
-The purpose of ...
+   This study addresses the validity of human-autonomy teaming on the battlefield in the near future.  The purpose of this exploratory research is to create a framework using ARMA III as a modeling and simulation platform to conduct further experimentation on the subject.  The first phase of the study will be a qualitative exploration of the human-autonomous teaming to gathered data and knowledge to ascertain the near future prospects.  The data will help in the design of more realistic scenarios that will allowed us to conduct quantitative experiments using ARMA III.  The data is collected from the literature review and interviews with subject matter experts (SME).  From the initial exploration, the qualitative findings will be used to develop a quantitative experimentation on a human subject interacting with semi-autonomous entities. In the tentative planned quantitative phase, reliability data will be collected from experiments conducted using ARMA III.
 
 ## Introduction
 
