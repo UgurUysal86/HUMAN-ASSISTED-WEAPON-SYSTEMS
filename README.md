@@ -19,7 +19,7 @@ Armed forces use technology to gain superiority on the battlefield. Recent break
 On July 10, 2013, an unmanned X45B drone made an autonomous landing on an aircraft carrier for the first time:
 [![X-47B Completes First Carrier-based Arrested Landing](https://github.com/jedioutcast55/project_template/blob/master/Images/X-47B%20Completes%20First%20Carrier-based%20Arrested%20Landing.JPG)](https://www.youtube.com/watch?v=Rc2k6G8LuqY)
 
-The simulation of the landing of the UCAV Sentinel in ArmA 3 looks realistic:
+The simulation of the supervised-autonomous landing of the UCAV Sentinel in ArmA 3 looks realistic:
 [![UCAV Sentinel Completes Carrier-based Arrested Landing in ArmA 3](https://github.com/jedioutcast55/project_template/blob/master/Images/ArmA%203%20Ingame%20Screenshot%20UCAV%20Sentinel%20Completes%20Carrier-based%20Arrested%20Landing.JPG)](https://github.com/jedioutcast55/project_template/blob/master/Project%20Review%20and%20Feedback/Video%202%20-%20ArmA%203%20-%20UCAV%20Landing%20Sim.mp4)
 
 The military use of autonomous drones in varying degrees of intensity seems to be possible in the foreseeable future. Our basic principle is that the human military leader remains at any time the decision-making authority to carry out military operations. With our research, we would like to investigate the possibilities and limits of human-supervised autonomous systems on the future battlefield. The focus is on the reliability of the Human-supervised autonomous system in a virtual military scenario.
