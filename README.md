@@ -46,11 +46,11 @@ It is imperative not only to understand the ethical implications of using autono
 
 ## Research Methods
 
-The subject of interest is relatively new to our group. With the desire to explore the topic, the group started to read articles, books, web-pages, etc. After the initial research the group was able focus the research study into the subject of human-automation teaming. 
+The subject of interest is relatively new to our group. With the desire to explore the topic, the group started to read articles, books, web-pages, etc. After the initial research the group was able focus the research study into the subject of human-autonomy teaming. 
 
 The group was interested to find out how the interaction between the human superviser and autonomous systems and what some of the difficulties this new paradigm may have. To refine more this concept the group started to define a model where the human has supervisory functions on the autonomous systems during simulated operations. The group’s intent to demonstrate the new paradigm using simulation. The intent is to use simulation to collect data, analyze and produce a conclusion based on the results.
   
-We want to use Mixed Research Methods as defined by Creswell & Creswell (2017) to answer research questions related to this projects contributions. First, we want to answer the qualitative research questions by literature review and interviews with experts in the field of human-autonomy teaming. In the second step we want to collect, analyze, and interpret quantitative data through simulation experiments using ArmA 3. We want to answer the quantitative research question by simulation experiments that are viable for human-autonomy teaming experimentation.
+We want to use a **Mixed Method Approach** as defined by Creswell & Creswell (2017) to answer research questions related to this projects contributions. First, we want to answer the qualitative research questions by literature review and interviews with experts in the field of human-autonomy teaming. In the second step we want to collect, analyze, and interpret quantitative data through simulation experiments using ArmA 3. We want to answer the quantitative research question by simulation experiments that are viable for human-autonomy teaming experimentation.
 
 ## Qualitative Research Questions
 
