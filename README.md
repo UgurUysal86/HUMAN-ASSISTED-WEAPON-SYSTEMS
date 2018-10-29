@@ -2,11 +2,13 @@
 
 * Group Name: Terminators
 * Group participants names: Cabrera, Roberto & Uysal, Ugur
-* Project Title: Human-assisted Weapon Systems
+* Project Title: HUMAN-ASSISTED WEAPON SYSTEMS
+
+![HUMAN-ASSISTED WEAPON SYSTEMS](https://github.com/jedioutcast55/project_template/blob/master/Project%20Review%20and%20Feedback/ArmA%203%20Ingame%20Screenshot%20Drones.JPG)
 
 ## Topic / Purpose Statement
 
-   This study addresses the validity of human-autonomy teaming on the battlefield in the near future.  The purpose of this exploratory research is to create a framework using ARMA III as a modeling and simulation platform to conduct further experimentation on the subject.  The first phase of the study will be a qualitative exploration of the human-autonomous teaming to gathered data and knowledge to ascertain the near future prospects.  The data will help in the design of more realistic scenarios that will allowed us to conduct quantitative experiments using ARMA III.  The data is collected from the literature review and interviews with subject matter experts (SME).  From the initial exploration, the qualitative findings will be used to develop a quantitative experimentation on a human subject interacting with semi-autonomous entities. In the tentative planned quantitative phase, reliability data will be collected from experiments conducted using ARMA III.
+This study addresses the validity of human-autonomy teaming on the battlefield in the near future. The purpose of this exploratory research is to create a framework using the military tactical shooter video game ArmA 3 as a modeling and simulation platform to conduct experimentation on Human-assisted Weapon systems. The first phase of the study will be a qualitative exploration of the human-autonomous teaming to gathered data and knowledge to ascertain the near future prospects. The data will help in the design of more realistic scenarios that will allowed us to conduct quantitative experiments using ArmA 3. The data is collected from the literature review and interviews with subject matter experts (SME). From the initial exploration, the qualitative findings will be used to develop a quantitative experimentation on a human subject interacting with semi-autonomous entities. In the tentative planned quantitative phase, reliability data will be collected from experiments conducted using ArmA 3.
 
 ## Introduction
 
@@ -19,7 +21,7 @@ https://www.youtube.com/watch?v=Rc2k6G8LuqY
 
 The military use of autonomous drones in varying degrees of intensity seems to be possible in the foreseeable future. Our basic principle is that the human military leader remains at any time the decision-making authority to carry out military operations. With our research, we would like to investigate the possibilities and limits of human-supervised autonomous systems on the future battlefield. The focus is on the reliability of the Human-supervised autonomous system in a virtual military scenario.
 
-This problem is interesting, as the full military potential of Human-autonomy teaming can currently only be estimated, as the technology required is just being developed. Therefore we rely as part of our research project on the virtual simulation environment ARMA3, in which a human operator can give orders to several autonomous systems at the same time. The following video gives an impression of how the AI control in ARMA3 can be managed. 
+This problem is interesting, as the full military potential of Human-autonomy teaming can currently only be estimated, as the technology required is just being developed. Therefore we rely as part of our research project on the virtual simulation environment ArmA 3, in which a human operator can give orders to several autonomous systems at the same time. The following video gives an impression of how the AI control in ArmA 3 can be managed. 
 https://www.youtube.com/watch?v=QphmHgvYlJw&t=1290s
 
 With the knowledge, we gain from the simulation experiments we try the answer our research questions. Furthermore, we refer to approaches in this field by other researchers and delineate our approach.
@@ -37,17 +39,17 @@ Chen (2018) summarizes recent articles that highlight the growing relevance of u
 Many research articles focus on ethical and legal aspects of the military use of autonomous systems. 
 For example, de Boisboissel (2017) states that "all machines, including autonomous lethal robotic systems, must remain under the tactical control of the military leader" (p.738). According to Chen & Barnes (2014) rules and procedures are designed so that the following ensured: "efficient human supervision of multiple robots, appropriate human trust in the automated systems, maintenance of human operator’s situation awareness, individual differences in human–agent (H-A) interaction, and retention of human decision authority" (p.13).
 
-It is imperative not only to understand the ethical implications of using semi-autonomous entities in war. There is also a need to understand how a human in a human-autonomy team interacts in the war. Squire P. N. & Parasuraman R (2010) conducted an experiment in which a human control a determined number of robots in a capturing the flag game. They collected the data on supervisor (human) task switching performance (complex tasks vs. repetitive tasks) and teams of four and eight robots performance (winning percentage). Squire and Parasuraman wanted to understand how the cognitive load and the Level of Automation (LOA) affected each robot team. Squire and Parasuraman use the results to established ideas on how to better design an interface that would reduce the cognitive load and become more efficient in conducting tasks. This experiment is the foundation for the understanding of the human-autonomy teaming interaction.
+It is imperative not only to understand the ethical implications of using autonomous systems in war. There is also a need to understand how a human in a human-autonomy team interacts in the war. Squire P. N. & Parasuraman R (2010) conducted an experiment in which a human control a determined number of robots in a capturing the flag game. They collected the data on supervisor (human) task switching performance (complex tasks vs. repetitive tasks) and teams of four and eight robots performance (winning percentage). Squire and Parasuraman wanted to understand how the cognitive load and the Level of Automation (LOA) affected each robot team. Squire and Parasuraman use the results to established ideas on how to better design an interface that would reduce the cognitive load and become more efficient in conducting tasks. This experiment is the foundation for the understanding of the human-autonomy teaming interaction.
 
 It is important to emphasize that, in this context, every final decision has to be made by the human, as this topic is also negatively afflicted and can encounter rejection. By coining the term of the technical singularity, Vinge (1993) warned that immediately after the development of Artificial Super Intelligence, the end of humanity would be imminent. Also, Stephen Hawking warned that AI could bring the end to humanity (Hawking 2014). This scenario has also been used in science fiction films, e.g., The Terminator (1984).
 
 ## Research Methods
 
-The subject of interest is relatively new to our group. With the desire to explore the topic, the group started to read articles, books, web-pages, etc. After the initial research the group was able focus the research study into the subject of human-automation teaming. As Creswell & Creswell define this process as a qualitative research process.
+The subject of interest is relatively new to our group. With the desire to explore the topic, the group started to read articles, books, web-pages, etc. After the initial research the group was able focus the research study into the subject of human-automation teaming. 
 
-The group was interested to find out how the interaction between the human superviser and autonomous systems and what some of the difficulties this new paradigm may have. To refine more this concept the group started to define a model where the human has supervisory functions on the semi-automated assets during simulated operations. The group’s intent to demonstrate the new paradigm using simulation. The intent is to use simulation to collect data, analyze and produce a conclusion based on the results.
+The group was interested to find out how the interaction between the human superviser and autonomous systems and what some of the difficulties this new paradigm may have. To refine more this concept the group started to define a model where the human has supervisory functions on the autonomous systems during simulated operations. The group’s intent to demonstrate the new paradigm using simulation. The intent is to use simulation to collect data, analyze and produce a conclusion based on the results.
   
-We want to use Mixed Research Methods to answer research questions related to this projects contributions. First, we want to answer the qualitative research questions by literature review and interviews with experts in the field of human-autonomy teaming. In the second step we want to collect, analyze, and interpret quantitative data through simulation experiments. We want to answer the quantitative research question by simulation experiments that are viable for human-autonomy teaming experimentation.
+We want to use Mixed Research Methods as defined by Creswell & Creswell (2017) to answer research questions related to this projects contributions. First, we want to answer the qualitative research questions by literature review and interviews with experts in the field of human-autonomy teaming. In the second step we want to collect, analyze, and interpret quantitative data through simulation experiments using ArmA 3. We want to answer the quantitative research question by simulation experiments that are viable for human-autonomy teaming experimentation.
 
 ## Qualitative Research Questions
 
@@ -62,7 +64,7 @@ The suggestion for autonomous systems to ensure they adhered to legal implicatio
    
 ## Quantitative Research Questions
 
-### Quantitative Research Question: Does the use of autonomous systems have positive effects on military capabilities?
+### Central Question: Does the use of autonomous systems have positive effects on military capabilities?
 The answer depends on the results of the hypotheses and can therefore only be answered at the end of the project.
 
 ### Hypothesis 1: Unmanned Systems can be operated autonomously with the same Reliability as Human-operated once in a military scenario. 
@@ -74,27 +76,26 @@ tbd.
 ### Hypothesis 3: The use of autonomous systems could extend the range of military operations.
 tbd.
 
-
 ## Preliminary framework / setup of the experimental Study Method Plan
 
 To answer our projects quantitative research questions we set up an experimental Design to "manipulates one or more variables in order to evaluate how this manipulation impacts an outcome or outcomes of interest" (Creswell & Creswell, 2018, p. 147) with the following components:
 
 ### Participants
-Our group will create scenarios to compare human actions against autonomous agents to determine the reliability of the autonomous agents.  One or both of our research people will be the human agents in the simulation. At this time no further human Participants are needed. If further persons are needed, then gamers which have been exposed to the simulation framework or military personnel which has experience of dealing with unmanned systems would be best suited for this.
+Our group will create scenarios to compare human actions against autonomous agents to determine the reliability of the autonomous agents. One or both members of our research group will act as human users in the simulation. At this time no further human participants are needed. If further persons are needed, then gamers which have been exposed to the simulation framework or military personnel which has experience of dealing with unmanned systems would be best suited for this.
 
 ### Independent variables:
 * Level of autonomy  {semi-autonomous, supervised autonomous, fully autonomous},
-* Amount of targets {1..n}, 
+* Amount of hostile entities {1..n} 
 * Amount objectives {1..n}
-* Amount of autonomous systems  {1..n},
-* Available Type Weapons {GBU, AGM} 
+* Amount of supervised autonomous systems {1..n}
+* Available Type of Weapons {GBU, AGM} 
 * Amount of Weapons {1..n}
 * Amount of Unbound vehicles {1..n}
 * Complexity of Szenario {low, middle, high}
 
 ### Dependent variables (Responses):
-* % of destroyed targets
-* % of objectives fulfilled
+* Percantage of destroyed targets
+* Percantage of objectives fulfilled
 * Total Mission Time
 * Used Ammunition per target
 * Amount of Casualties
@@ -107,7 +108,7 @@ Since the full potential of autonomous systems can only be estimated today due t
 #### 1. Modeling of the Scenario 
 Before the beginning of each simulation run, the scenario is modeled according to the Independent variables.
 #### 2. Conducting the simulation experiment 
-Running the Simulation in ARMA3 with a specific Szenario. At the end of each Simulation run, the values of the response variables are saved in an in a database.
+Running the Simulation in ArmA 3 with a specific Szenario. At the end of each Simulation run, the values of the response variables are saved in an in a database.
 
 ##### Experiment 1.1 JTAC assigning Targets:
 * A: semi-autonomous operation (30 runs): 
@@ -127,16 +128,20 @@ Tbd.
 ## Plan of attack for the rest of the semester
 
 ### Midterm Presentation 10/30/2018
-* Update GitHub with Slide Content NLT 10/23/2018
-* Draft Slides uploaded NLT 10/23/2018
+* Update GitHub with Slide Content NLT 10/30/2018
 * Final Slides uploaded NLT 10/29/2018
-* Draft early results of qualitative and quantitative NLT 10/22/2018
 
 ### Final Presentation 12/04/2018
-* Finalize Research Methodologie NLT 11/29/2018
-* Qualitative Research finalized NLT 11/29/2018
+* Research Methodologie finalized NLT 11/29/2018
+* Qualitative Research finalized NLT 11/24/2018
+
+* Qualitative Research finalized  NLT 11/29/2018
 * Quantitative Research finalized NLT 11/29/2018
-* Finalize Documentary NLT 12/03/2018
+* Quantitative Research finalized NLT 11/24/2018
+	* Hypothesis 1: 	  NLT 11/11/2018
+	* Hypothesis 2:		  NLT 11/18/2018
+	* Hypothesis 3: 	  NLT 11/24/2018
+* GitHub documentary finalized 	  NLT 12/03/2018  
 
 ## References 
 
@@ -144,6 +149,7 @@ Tbd.
 * [Chen, J. Y. (2018). Human-autonomy teaming in military settings. Theoretical Issues in Ergonomics Science, 19(3), 255-258.](https://www.tandfonline.com/doi/abs/10.1080/1463922X.2017.1397229)
 * [Chen, J. Y., Lakhmani, S. G., Stowers, K., Selkowitz, A. R., Wright, J. L., & Barnes, M. (2018). Situation awareness-based agent transparency and human-autonomy teaming effectiveness. Theoretical issues in ergonomics science, 19(3), 259-282.](https://www.tandfonline.com/doi/abs/10.1080/1463922X.2017.1315750)
 * [Chesebrough, D., & Dooley, M. (2018, September 13). Defense Department Struggles to Define Autonomy. Retrieved from http://www.nationaldefensemagazine.org/articles/2018/9/13/defense-department-struggles-to-define-autonomy](http://www.nationaldefensemagazine.org/articles/2018/9/13/defense-department-struggles-to-define-autonomy)
+* [Creswell, J. W., & Creswell, J. D. (2017). Research design: Qualitative, quantitative, and mixed methods approaches. Sage publications.](https://us.sagepub.com/en-us/nam/research-design/book255675)
 * [de Boisboissel, G. (2017). Is it sensible to grant autonomous decision-making to military robots of the future?. In Military Technologies (ICMT), 2017 International Conference on (pp. 738-742). IEEE.](https://ieeexplore.ieee.org/document/7988854/)
 * [Defense Science Board. 2016. Defense Science Board Summer Study on Autonomy. Washington, DC:Under Secretary of Defense.](https://www.hsdl.org/?view&did=794641)
 * [Endsley, M. R. (2017). From here to autonomy: lessons learned from human–automation research. Human factors, 59(1), 5-27.](https://link.springer.com/chapter/10.1007%2F978-3-319-60384-1_29)
