@@ -4,7 +4,7 @@
 * Group participants names: Cabrera, Roberto & Uysal, Ugur
 * Project Title: HUMAN-ASSISTED WEAPON SYSTEMS
 
-![HUMAN-ASSISTED WEAPON SYSTEMS](https://github.com/jedioutcast55/project_template/blob/master/Project%20Review%20and%20Feedback/ArmA%203%20Ingame%20Screenshot%20Drones.JPG)
+![HUMAN-ASSISTED WEAPON SYSTEMS](https://github.com/jedioutcast55/project_template/blob/master/Images/ArmA%203%20Ingame%20Screenshot%20Drones.JPG)
 
 ## Topic / Purpose Statement
 
@@ -16,13 +16,14 @@ This study addresses the validity of human-autonomy teaming on the battlefield i
 
 Armed forces use technology to gain superiority on the battlefield. Recent breakthroughs in the field of Artificial Intelligence and Unmanned Systems provide new uses for military operations. The Control of Unmanned Systems can be done at different levels of autonomy. The focus of this research is the Human-autonomy teaming approach. In contrast to Manned-unmanned teaming, the unmanned systems are not operated by human operators. With our research we would like to investigate the possibilities to operate unmanned systems autonomously, to increase the effectiveness of military forces on the near future battlefield.
 
-On July 10, 2013, an unmanned X45B drone made an autonomous landing on an aircraft carrier for the first time.
-https://www.youtube.com/watch?v=Rc2k6G8LuqY
+On July 10, 2013, an unmanned X45B drone made an autonomous landing on an aircraft carrier for the first time:
+[![X-47B Completes First Carrier-based Arrested Landing](https://github.com/jedioutcast55/project_template/blob/master/Images/X-47B%20Completes%20First%20Carrier-based%20Arrested%20Landing.JPG)](https://www.youtube.com/watch?v=Rc2k6G8LuqY)
 
 The military use of autonomous drones in varying degrees of intensity seems to be possible in the foreseeable future. Our basic principle is that the human military leader remains at any time the decision-making authority to carry out military operations. With our research, we would like to investigate the possibilities and limits of human-supervised autonomous systems on the future battlefield. The focus is on the reliability of the Human-supervised autonomous system in a virtual military scenario.
 
 This problem is interesting, as the full military potential of Human-autonomy teaming can currently only be estimated, as the technology required is just being developed. Therefore we rely as part of our research project on the virtual simulation environment ArmA 3, in which a human operator can give orders to several autonomous systems at the same time. The following video gives an impression of how the AI control in ArmA 3 can be managed. 
-https://www.youtube.com/watch?v=QphmHgvYlJw&t=1290s
+
+[![X-47B Completes First Carrier-based Arrested Landing](https://github.com/jedioutcast55/project_template/blob/master/Images/ARMA%203%20-%20Advanced%20AI%20Command%20Tactics.JPG)](https://www.youtube.com/watch?v=QphmHgvYlJw&t=1290s)
 
 With the knowledge, we gain from the simulation experiments we try the answer our research questions. Furthermore, we refer to approaches in this field by other researchers and delineate our approach.
 
@@ -113,9 +114,13 @@ Running the Simulation in ArmA 3 with a specific Szenario. At the end of each Si
 ##### Experiment 1.1 JTAC assigning Targets:
 * A: semi-autonomous operation (30 runs): 
 The human user remotely controls the weapon use of the drone, the flying of the drone is carried out autonomously according to the specifications of the human user. The human user decides on the use of weapons and executes it. The drone can only carry out its mission through the input of the human user. In this example, the human is "in-the-loop."
+
+![semi-autonomous operation](https://github.com/jedioutcast55/project_template/blob/master/Images/ArmA%203%20Ingame%20Screenshot%20semi-autonomous.JPG)
 			
 * B: supervised autonomous operation (30 runs):
 The human user assigns the drone a specific target (e.g., destroy the enemy tank on coordinate x, y), which is then engaged autonomously by the drone. The use of the drone is terminated when the specifically assigned target is destroyed, or the human user decides to cancel the operation. Although the human user decides to use the weapon system as in example 1, however, the execution is done autonomously. The human user assumes the role of a supervisor. In this example, the human is "on-the-loop".
+
+![supervised-autonomous operation](https://github.com/jedioutcast55/project_template/blob/master/Images/ArmA%203%20Ingame%20Screenshot%20supervised-autonomous.JPG)
 
 #### 3. Analyzing the Data.
 After generating the Data during the simulation experiments A and B, a statistical hypothesis test using the software "R" will be conducted to answer hypothesis 1. Unmanned Systems can be operated autonomously with the same reliability as Human-operated once in a virtual military scenario when there is no significant difference between the outcomes of experiment A and B. 
