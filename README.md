@@ -4,6 +4,7 @@
 * Group participants names: Cabrera, Roberto & Uysal, Ugur
 * Project Title: HUMAN-ASSISTED WEAPON SYSTEMS
 
+* Project Presentation:
 [![HUMAN-ASSISTED WEAPON SYSTEMS](https://github.com/jedioutcast55/project_template/blob/master/Images/ArmA%203%20Ingame%20Screenshot%20Drones.JPG)](https://github.com/jedioutcast55/project_template/blob/master/Project%20Review%20and%20Feedback/IDS6916%20Group4%20Project%20Review%20and%20Feedback_UCF.pptx)
 
 ## Topic / Purpose Statement
@@ -157,9 +158,9 @@ Tbd.
 * [Creswell, J. W., & Creswell, J. D. (2017). Research design: Qualitative, quantitative, and mixed methods approaches. Sage publications.](https://us.sagepub.com/en-us/nam/research-design/book255675)
 * [de Boisboissel, G. (2017). Is it sensible to grant autonomous decision-making to military robots of the future?. In Military Technologies (ICMT), 2017 International Conference on (pp. 738-742). IEEE.](https://ieeexplore.ieee.org/document/7988854/)
 * [Defense Science Board. 2016. Defense Science Board Summer Study on Autonomy. Washington, DC:Under Secretary of Defense.](https://www.hsdl.org/?view&did=794641)
-* [Endsley, M. R. (2017). From here to autonomy: lessons learned from human–automation research. Human factors, 59(1), 5-27.](https://link.springer.com/chapter/10.1007%2F978-3-319-60384-1_29)
 * [Demir M., McNeese N.J., Cooke N.J. (2018) Team Synchrony in Human-Autonomy Teaming. In: Chen J. (eds) Advances in Human Factors in Robots and Unmanned Systems. AHFE 2017. Advances in Intelligent Systems and Computing, vol 595. Springer, Cham](http://journals.sagepub.com/doi/10.1177/0018720816681350)
 * [Dyndal, G., & Redse-Johansen, S. (2017). Autonomous military drones: no longer science fiction. NATO Review Magazine.](https://www.nato.int/docu/review/2017/also-in-2017/autonomous-military-drones-no-longer-science-fiction/en/index.htm)
+* [Endsley, M. R. (2017). From here to autonomy: lessons learned from human–automation research. Human factors, 59(1), 5-27.](https://link.springer.com/chapter/10.1007%2F978-3-319-60384-1_29)
 * [Hawking, S. (2014). Transcendence looks at the implications of artificial intelligence—but are we taking AI seriously enough? The Independent.](https://www.independent.co.uk/news/science/stephen-hawking-transcendence-looks-at-the-implications-of-artificial-intelligence-but-are-we-taking-9313474.html)
 * [Millington, I., & Funge, J. (2009). Artificial intelligence for games. CRC Press.](https://www.crcpress.com/Artificial-Intelligence-for-Games/Millington-Millington-Funge/p/book/9780123747310)
 * [Reuters (2018, September 19). Ageing Japan: Military recruiters struggle as applicant pool dries up. Retrieved from https://in.reuters.com/article/japan-ageing-military-recruits/ageing-japan-military-recruiters-struggle-as-applicant-pool-dries-up-idINKCN1LZ146](https://in.reuters.com/article/japan-ageing-military-recruits/ageing-japan-military-recruiters-struggle-as-applicant-pool-dries-up-idINKCN1LZ146)
