@@ -4,7 +4,7 @@
 * Group participants names: Cabrera, Roberto & Uysal, Ugur
 * Project Title: HUMAN-ASSISTED WEAPON SYSTEMS
 
-* Project Presentation:
+**Project Presentation:**
 [![HUMAN-ASSISTED WEAPON SYSTEMS](https://github.com/jedioutcast55/project_template/blob/master/Images/ArmA%203%20Ingame%20Screenshot%20Drones.JPG)](https://github.com/jedioutcast55/project_template/blob/master/Project%20Review%20and%20Feedback/IDS6916%20Group4%20Project%20Review%20and%20Feedback_UCF.pptx)
 
 ## Topic / Purpose Statement
