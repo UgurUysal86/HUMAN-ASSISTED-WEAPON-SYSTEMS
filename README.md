@@ -96,8 +96,8 @@ Our group will create scenarios to compare human actions against autonomous agen
 * Complexity of Szenario {low, middle, high}
 
 ### Dependent variables (Responses):
-* Percantage of destroyed targets
-* Percantage of objectives fulfilled
+* Percentage of destroyed targets
+* Percentage of objectives fulfilled
 * Total Mission Time
 * Used Ammunition per target
 * Amount of Casualties
