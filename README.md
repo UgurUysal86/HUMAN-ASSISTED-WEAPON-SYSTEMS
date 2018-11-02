@@ -6,7 +6,7 @@
 
 **Project Presentation Video:**
 [![HUMAN-ASSISTED WEAPON SYSTEMS](https://github.com/jedioutcast55/project_template/blob/master/Images/ArmA%203%20Ingame%20Screenshot%20Drones.JPG)](https://raw.githubusercontent.com/jedioutcast55/project_template/ca9b90bb2441154212237af3f4c7026827d156e8/Project%20Review%20and%20Feedback/IDS6916_Group4_MidSemester_ProjectPresentation.mp4)
-**Download instructions**: Please click on this image to download the Project Presentation Video. Note: Please use a browser other than Firefox to be able to download this video from GitHub. [The **Project Presentation Slides** can be downloaded here.](https://github.com/jedioutcast55/project_template/raw/ca9b90bb2441154212237af3f4c7026827d156e8/Project%20Review%20and%20Feedback/IDS6916%20Group4%20Project%20Review%20and%20Feedback_UCF.pptx)
+**Download instructions**: Please click on this image to download the Project Presentation Video. Note: Please use a browser other than Firefox to be able to download this video from GitHub. [The **Project Presentation Slides** can be downloaded here.](https://github.com/jedioutcast55/project_template/raw/bb90194dd070cc2e5d15da00ee9aa7aa9380520d/Project%20Review%20and%20Feedback/IDS6916%20Group4%20Project%20Review%20and%20Feedback_UCF.pptx)
 
 ## Topic / Purpose Statement
 
