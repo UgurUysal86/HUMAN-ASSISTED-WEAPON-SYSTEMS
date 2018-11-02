@@ -6,7 +6,7 @@
 
 **Project Presentation Video:**
 [![HUMAN-ASSISTED WEAPON SYSTEMS](https://github.com/jedioutcast55/project_template/blob/master/Images/ArmA%203%20Ingame%20Screenshot%20Drones.JPG)](https://raw.githubusercontent.com/jedioutcast55/project_template/ca9b90bb2441154212237af3f4c7026827d156e8/Project%20Review%20and%20Feedback/IDS6916_Group4_MidSemester_ProjectPresentation.mp4)
-Download instructions: Please click on this Image to download this Video. Note: Please use a browser other than Firefox to be able the download this video from GitHub. [The **Project Presentation Slides** can be downloaded here.](https://github.com/jedioutcast55/project_template/raw/ca9b90bb2441154212237af3f4c7026827d156e8/Project%20Review%20and%20Feedback/IDS6916%20Group4%20Project%20Review%20and%20Feedback_UCF.pptx)
+**Download instructions**: Please click on this image to download this video. Note: Please use a browser other than Firefox to be able to download this video from GitHub. [The **Project Presentation Slides** can be downloaded here.](https://github.com/jedioutcast55/project_template/raw/ca9b90bb2441154212237af3f4c7026827d156e8/Project%20Review%20and%20Feedback/IDS6916%20Group4%20Project%20Review%20and%20Feedback_UCF.pptx)
 
 ## Topic / Purpose Statement
 
@@ -133,10 +133,6 @@ Tbd.
 Tbd.
 
 ## Plan of attack for the rest of the semester
-
-### Midterm Presentation 10/30/2018
-* Update GitHub with Slide Content NLT 10/30/2018
-* Final Slides uploaded NLT 10/29/2018
 
 ### Final Presentation 12/04/2018
 * Research Methodologie finalized NLT 11/29/2018
