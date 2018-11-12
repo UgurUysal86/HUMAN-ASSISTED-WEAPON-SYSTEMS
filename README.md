@@ -139,7 +139,6 @@ Tbd.
 * Qualitative Research finalized NLT 11/24/2018
 
 * Qualitative Research finalized  NLT 11/29/2018
-* Quantitative Research finalized NLT 11/29/2018
 * Quantitative Research finalized NLT 11/24/2018
 	* Hypothesis 1: 	  NLT 11/11/2018
 	* Hypothesis 2:		  NLT 11/18/2018
