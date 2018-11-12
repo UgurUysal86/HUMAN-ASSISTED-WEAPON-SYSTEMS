@@ -136,7 +136,6 @@ Tbd.
 
 ### Final Presentation 12/04/2018
 * Research Methodologie finalized NLT 11/29/2018
-* Qualitative Research finalized NLT 11/24/2018
 
 * Qualitative Research finalized  NLT 11/29/2018
 * Quantitative Research finalized NLT 11/24/2018
