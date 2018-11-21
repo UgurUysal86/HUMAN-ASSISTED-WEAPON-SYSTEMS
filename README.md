@@ -103,15 +103,15 @@ Since the full potential of autonomous systems can only be estimated today due t
 #### 1. Modeling of the Scenario 
 Before the beginning of each simulation run, the scenario is modeled according to the independent variables.
 
-##### Scenario 1 - SpecOps JTAC assigning targets (1 UCAV, 2 Targets(1 AA-Tank, 1 APC))
+##### **Scenario 1 - SpecOps JTAC assigning targets (1 UCAV, 2 Targets(1 AA-Tank, 1 APC))**
 In this scenario the SpecOps JTAC has to coordinate the destruction of the two enemy vehicles with one available UCAV which is armed with three Air to Ground Missiles, before the SpecOPs JTAC and his group can be extracted by a helicopter. 
 
-The Scenario file can be downloaded here.(https://github.com/jedioutcast55/project_template/tree/master/Experimental%20Study%20Results/SpecOps%2520JTAC%2520assigning%2520targets%253a1xUCAV%2C2xTargets(1AA%2C1APC).Altis). Copy and paste the scenario folder to the ArmA 3 user mission folder (C:\Users\YOURNAME\Documents\Arma 3\missions) to be able to load the scenario.
+The [Scenario file can be downloaded here.](https://github.com/jedioutcast55/project_template/tree/master/Experimental%20Study%20Results/SpecOps%2520JTAC%2520assigning%2520targets%253a1xUCAV%2C2xTargets(1AA%2C1APC).Altis). Copy and paste the scenario folder to the ArmA 3 user mission folder (C:\Users\YOURNAME\Documents\Arma 3\missions) to be able to load the scenario.
 
 ##### Scenario 2 - SpecOps JTAC assigning targets (4 UCAV, 6 Targets(3 AA-Tanks, 1 APC, 2 Tanks))
 In this scenario the SpecOps JTAC has to coordinate the destruction of the six enemy vehicles with four available UCAV's which are armed with three Air to Ground Missiles each, before the SpecOPs JTAC and his group can be extracted by a helicopter. 
 
-The Scenario file can be downloaded here.(https://github.com/jedioutcast55/project_template/tree/master/Experimental%20Study%20Results/SpecOps%2520JTAC%2520assigning%2520targets%253a4xUCAV%2C6xTargets(3AA%2C1APC%2C2Tanks).Altis). Copy and paste the scenario folder to the ArmA 3 user mission folder (C:\Users\YOURNAME\Documents\Arma 3\missions) to be able to load the scenario.
+The [Scenario file can be downloaded here.](https://github.com/jedioutcast55/project_template/tree/master/Experimental%20Study%20Results/SpecOps%2520JTAC%2520assigning%2520targets%253a4xUCAV%2C6xTargets(3AA%2C1APC%2C2Tanks).Altis). Copy and paste the scenario folder to the ArmA 3 user mission folder (C:\Users\YOURNAME\Documents\Arma 3\missions) to be able to load the scenario.
 
 #### 2. Conducting the simulation experiment 
 Running the Simulation in ArmA 3 with a specific Szenario. At the end of each Simulation run, the values of the response variables are saved in a excel file.
@@ -127,7 +127,7 @@ The human user assigns the drone a specific target (e.g., destroy the enemy tank
 
 [![supervised-autonomous operation](https://github.com/jedioutcast55/project_template/blob/master/Images/ArmA%203%20Ingame%20Screenshot%20supervised-autonomous.JPG)](https://youtu.be/I5x88eliCMw)
 
-The Results of Experiment A and B of Scenario 1 can be downloaded here.(project_template/Experimental Study Results/Experimentation Results_1 UCAV,2 Targets(1AA,1APC).xlsx)
+The [Results of Experiment A and B of Scenario 1 can be downloaded here.](project_template/Experimental Study Results/Experimentation Results_1 UCAV,2 Targets(1AA,1APC).xlsx)
 
 ##### Scenario 2 - SpecOps JTAC assigning targets (4 UCAV, 6 Targets(3 AA-Tanks, 1 APC, 2 Tanks))
 
@@ -141,7 +141,7 @@ The human user assigns the drone a specific target (e.g., destroy the enemy tank
 
 (Video link tbd)
 
-The Results of Experiment A and B of Scenario 2 can be downloaded here.(project_template/Experimental Study Results/Experimentation Results_4 UCAV,6 Targets(3AA,1APC,2Tanks).xlsx)
+The [Results of Experiment A and B of Scenario 2 can be downloaded here.](project_template/Experimental Study Results/Experimentation Results_4 UCAV,6 Targets(3AA,1APC,2Tanks).xlsx)
 
 #### 3. Analyzing the Data.
 After generating the Data during the simulation experiments A and B of Scenarios 1 and 2, a statistical hypothesis test using the software "R" was conducted. 
@@ -149,27 +149,27 @@ After generating the Data during the simulation experiments A and B of Scenarios
 ##### Scenario 1 - SpecOps JTAC assigning targets (1 UCAV, 2 Targets(1 AA-Tank, 1 APC))
 T-tests with alpha = 0.05 were used to comapre the results of experiment A(semi-autonomous Operation) and Experiment B: (supervised autonomous Operation)
 
-* 1. Comparing Amount of destroyed targets: No significant difference
-* 2. Comparing Amount of autonomous Systems at the end of the mission: No significant difference
-* 3. Comparing elapsed Time since command received: significant difference
-* 4. Comparing Amount of Used Ammunition: No significant difference
-* 5. Comparing Only hostile targets engaged: No significant difference
-* 6. Comparing Operator was able to supervise all used autonomous systems {True = 1, False = 0}: No significant difference
-* 7. Comparing Operator perception of cognitive workload: significant difference
+* 1. Comparing Amount of destroyed targets: 							  no significant difference
+* 2. Comparing Amount of autonomous Systems at the end of the mission: 				  no significant difference
+* 3. Comparing elapsed Time since command received: 						  significant difference
+* 4. Comparing Amount of Used Ammunition: 							  no significant difference
+* 5. Comparing Only hostile targets engaged: 							  no significant difference
+* 6. Comparing Operator was able to supervise all used autonomous systems {True = 1, False = 0}:  no significant difference
+* 7. Comparing Operator perception of cognitive workload: 					  significant difference
 
-The R-Script to analyse the results of experiment A and B of **Scenario 1** can be downloaded here(project_template/Experimental Study Results/Analysis Results_1 UCAV,2 Targets(1AA,1APC).R).
+The [R-Script to analyse the results of experiment A and B of **Scenario 1** can be downloaded here](project_template/Experimental Study Results/Analysis Results_1 UCAV,2 Targets(1AA,1APC).R).
 
 ##### Scenario 2 - SpecOps JTAC assigning targets (4 UCAV, 6 Targets(3 AA-Tanks, 1 APC, 2 Tanks))
 
-* 1. Comparing Amount of destroyed targets: No significant difference
-* 2. Comparing Amount of autonomous Systems at the end of the mission: No significant difference
-* 3. Comparing elapsed Time since command received: No significant difference
-* 4. Comparing Amount of Used Ammunition: No significant difference
-* 5. Comparing Only hostile targets engaged: No significant difference
-* 6. Comparing Operator was able to supervise all used autonomous systems {True = 1, False = 0}: No significant difference
-* 7. Comparing Operator perception of cognitive workload: significant difference
+* 1. Comparing Amount of destroyed targets: 							 no significant difference
+* 2. Comparing Amount of autonomous Systems at the end of the mission: 				 no significant difference
+* 3. Comparing elapsed Time since command received: 						 no significant difference
+* 4. Comparing Amount of Used Ammunition: 							 no significant difference
+* 5. Comparing Only hostile targets engaged: 							 no significant difference
+* 6. Comparing Operator was able to supervise all used autonomous systems {True = 1, False = 0}: no significant difference
+* 7. Comparing Operator perception of cognitive workload: 					 significant difference
 
-The R-Script to analyse the Results of Experiment A and B of **Scenario 2** can be downloaded here(project_template/Experimental Study Results/Analysis Results_4 UCAV,6 Targets(3AA,1APC,2Tanks).R).
+The [R-Script to analyse the Results of Experiment A and B of **Scenario 2** can be downloaded here](project_template/Experimental Study Results/Analysis Results_4 UCAV,6 Targets(3AA,1APC,2Tanks).R).
 
 ## Experimental Study Results
 
