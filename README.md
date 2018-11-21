@@ -1,8 +1,8 @@
 # Research Practicum 2018 – Research Plan of Group 4
 
-* Group Name: Terminators
-* Group participants names: Cabrera, Roberto & Uysal, Ugur
-* Project Title: HUMAN-ASSISTED WEAPON SYSTEMS
+Group Name: **Terminators**
+Group participants names: **Cabrera, Roberto & Uysal, Ugur**
+Project Title: **HUMAN-ASSISTED WEAPON SYSTEMS**
 
 **Project Presentation Video:**
 [![HUMAN-ASSISTED WEAPON SYSTEMS](https://github.com/jedioutcast55/project_template/blob/master/Images/ArmA%203%20Ingame%20Screenshot%20Drones.JPG)](https://raw.githubusercontent.com/jedioutcast55/project_template/ca9b90bb2441154212237af3f4c7026827d156e8/Project%20Review%20and%20Feedback/IDS6916_Group4_MidSemester_ProjectPresentation.mp4)
