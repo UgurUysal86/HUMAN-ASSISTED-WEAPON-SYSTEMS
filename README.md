@@ -97,7 +97,7 @@ Our group will create scenarios to compare human actions against autonomous agen
 * Operator perception of  cognitive workload  {1..10}
 
 ### Instrumentation and Materials
-Since the full potential of autonomous systems can only be estimated today due to technologies that are not yet fully developed, we want to use a simulation environment in which these technologies are already available. Therefore we use virtual simulation instead of robotics for our experiments. The military tactical shooter video game ArmA 3(https://arma3.com/) Version 1.84.144923 including the DLC's "Apex"(https://arma3.com/apex), "Jets"(https://arma3.com/dlc/jets), and "Tanks"(https://arma3.com/dlc/tanks), "Zeus"(https://arma3.com/dlc/zeus), are used as our framework to create a military scenario for generating data to answer the quantitative research questions.
+Since the full potential of autonomous systems can only be estimated today due to technologies that are not yet fully developed, we want to use a simulation environment in which these technologies are already available. Therefore we use virtual simulation instead of robotics for our experiments. The military tactical shooter video game [ArmA 3](https://arma3.com/) Version 1.84.144923 including the DLC's ["Apex"](https://arma3.com/apex), ["Jets"](https://arma3.com/dlc/jets), ["Tanks"](https://arma3.com/dlc/tanks), and ["Zeus"](https://arma3.com/dlc/zeus), are used as our framework to create a military scenario for generating data to answer the quantitative research questions.
 
 ### Experimental Procedures:
 #### 1. Modeling of the Scenario 
