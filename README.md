@@ -65,22 +65,15 @@ Current research being performed on the subject of dismounted infantry working w
 ### Subquestion 2: How could autonomous systems be integrated into the armed forces, ensuring that legal aspects are adhered to?
 The suggestion for autonomous systems to ensure they adhered to legal implication is to rest the authority on a human supervisor (Chen & Barnes 2014). Humans still understand patterns behavior, human intentions, macro implications and ethical responsibilities much better than artificial systems (Chen & Barnes 2014). For this reason, the system autonomous agent shall always remain subordinate to their human counterparts (Chen & Barnes 2014). The human will only be allowed the agent to act autonomously only specified conditions (Chen & Barnes 2014). John H. Northrop and Associate conducted a study which suggests developing a matrix defining the level of automation (Chesebrough & Dooley, 2018).  This matrix should provide the need and level of autonomous tactical needed to accomplish the mission within the constraints of mission parameters (Chesebrough & Dooley, 2018). The literature has provided a number of solutions to integrate rules of engagement, ethical and legal tenants.
    
-## Quantitative Research Questions
-
-### Central Question: Does the use of autonomous systems have positive effects on military capabilities?
-The answer depends on the results of the hypotheses and can therefore only be answered at the end of the project.
+## Quantitative Research Question: Does the use of autonomous systems have positive effects on military capabilities?
 
 ### Hypothesis 1: Unmanned Systems can be operated autonomously with the same Reliability as Human-operated once in a military scenario. 
-After the first simulation runs, there is evidence that there is no significant difference between the results of experiment A and B. That means unmanned Systems can be operated autonomously with the same Reliability as Human-operated once in a ARMA3-based virtual military scenario. 
 
 ### Hypothesis 2: By using autonomous systems, military missions can be conducted with less human personnel.
-tbd.
 
 ### Hypothesis 3: The use of autonomous systems could extend the range of military operations.
-tbd.
 
 ## Preliminary framework / setup of the experimental Study Method Plan
-
 To answer our projects quantitative research questions we set up an experimental Design to "manipulates one or more variables in order to evaluate how this manipulation impacts an outcome or outcomes of interest" (Creswell & Creswell, 2018, p. 147) with the following components:
 
 ### Participants
@@ -88,60 +81,121 @@ Our group will create scenarios to compare human actions against autonomous agen
 
 ### Independent variables:
 * Level of autonomy  {semi-autonomous, supervised autonomous, fully autonomous},
-* Amount of hostile entities {1..n} 
-* Amount objectives {1..n}
-* Amount of supervised autonomous systems {1..n}
-* Available Type of Weapons {GBU, AGM} 
-* Amount of Weapons {1..n}
-* Amount of Unbound vehicles {1..n}
+* Amount of targets {1..n} 
+* Amount of UCAV (Unmanned Combat Aerial Vehicle ) {1..n}
+* Available Munitions {GBU, AGM} 
+* Amount of unbound vehicles {1..n}
 * Complexity of Szenario {low, middle, high}
 
 ### Dependent variables (Responses):
-* Percentage of destroyed targets
-* Percentage of objectives fulfilled
-* Total Mission Time
-* Used Ammunition per target
-* Amount of Casualties
-* Perception of the cognitive workload of the human operator
+* Amount of destroyed targets {1..n} 
+* Amount of UCAV at the end of the mission {1..n} 
+* Elapsed Time since command received (sec) {1..n} 
+* Amount of used Ammunition {1..n} 
+* Only hostile targets engaged {True = 1, False = 0}
+* Operator was able to  supervise all used autonomous systems {True = 1, False = 0}
+* Operator perception of  cognitive workload  {1..10}
 
 ### Instrumentation and Materials
-Since the full potential of autonomous systems can only be estimated today due to technologies that are not yet fully developed, we want to use a simulation environment in which these technologies are already available. Therefore we use virtual simulation instead of robotics for our experiments. The military tactical shooter video game ArmA 3 is used as our framework to create a military scenario for generating Data to answer the quantitative research questions.
+Since the full potential of autonomous systems can only be estimated today due to technologies that are not yet fully developed, we want to use a simulation environment in which these technologies are already available. Therefore we use virtual simulation instead of robotics for our experiments. The military tactical shooter video game ArmA 3(https://arma3.com/) Version 1.84.144923 including the DLC's "Apex"(https://arma3.com/apex), "Jets"(https://arma3.com/dlc/jets), and "Tanks"(https://arma3.com/dlc/tanks), "Zeus"(https://arma3.com/dlc/zeus), are used as our framework to create a military scenario for generating data to answer the quantitative research questions.
 
-### Experimental Procedures Hypothesis 1:
+### Experimental Procedures:
 #### 1. Modeling of the Scenario 
-Before the beginning of each simulation run, the scenario is modeled according to the Independent variables.
-#### 2. Conducting the simulation experiment 
-Running the Simulation in ArmA 3 with a specific Szenario. At the end of each Simulation run, the values of the response variables are saved in an in a database.
+Before the beginning of each simulation run, the scenario is modeled according to the independent variables.
 
-##### Experiment 1.1 JTAC assigning Targets:
-* A: semi-autonomous operation (multiple runs): 
-The human user remotely controls the weapon use of the drone, the flying of the drone is carried out autonomously according to the specifications of the human user. The human user decides on the use of weapons and executes it. The drone can only carry out its mission through the input of the human user. In this example, the human is "in-the-loop."
+##### Scenario 1 - SpecOps JTAC assigning targets (1 UCAV, 2 Targets(1 AA-Tank, 1 APC))
+In this scenario the SpecOps JTAC has to coordinate the destruction of the two enemy vehicles with one available UCAV which is armed with three Air to Ground Missiles, before the SpecOPs JTAC and his group can be extracted by a helicopter. 
+
+The Scenario file can be downloaded here.(https://github.com/jedioutcast55/project_template/tree/master/Experimental%20Study%20Results/SpecOps%2520JTAC%2520assigning%2520targets%253a1xUCAV%2C2xTargets(1AA%2C1APC).Altis). Copy and paste the scenario folder to the ArmA 3 user mission folder (C:\Users\YOURNAME\Documents\Arma 3\missions) to be able to load the scenario.
+
+##### Scenario 2 - SpecOps JTAC assigning targets (4 UCAV, 6 Targets(3 AA-Tanks, 1 APC, 2 Tanks))
+In this scenario the SpecOps JTAC has to coordinate the destruction of the six enemy vehicles with four available UCAV's which are armed with three Air to Ground Missiles each, before the SpecOPs JTAC and his group can be extracted by a helicopter. 
+
+The Scenario file can be downloaded here.(https://github.com/jedioutcast55/project_template/tree/master/Experimental%20Study%20Results/SpecOps%2520JTAC%2520assigning%2520targets%253a4xUCAV%2C6xTargets(3AA%2C1APC%2C2Tanks).Altis). Copy and paste the scenario folder to the ArmA 3 user mission folder (C:\Users\YOURNAME\Documents\Arma 3\missions) to be able to load the scenario.
+
+#### 2. Conducting the simulation experiment 
+Running the Simulation in ArmA 3 with a specific Szenario. At the end of each Simulation run, the values of the response variables are saved in a excel file.
+
+##### Scenario 1 - SpecOps JTAC assigning targets (1 UCAV, 2 Targets(1 AA-Tank, 1 APC))
+* Experiment A: semi-autonomous operation (30 runs): 
+The human user remotely controls the weapon use of the drone, the flying of the drone is carried out autonomously according to the specifications of the human user. The human user decides on the use of weapons and executes it. The drone can only carry out its mission through the input of the human user. In this experiment, the human is "in-the-loop."
 
 [![semi-autonomous operation](https://github.com/jedioutcast55/project_template/blob/master/Images/ArmA%203%20Ingame%20Screenshot%20semi-autonomous.JPG)](https://youtu.be/6KmAmXP7uBw)
 			
-* B: supervised autonomous operation (multiple runs):
-The human user assigns the drone a specific target (e.g., destroy the enemy tank on coordinate x, y), which is then engaged autonomously by the drone. The use of the drone is terminated when the specifically assigned target is destroyed, or the human user decides to cancel the operation. Although the human user decides to use the weapon system as in example 1, however, the execution is done autonomously. The human user assumes the role of a supervisor. In this example, the human is "on-the-loop".
+* Experiment B: supervised autonomous operation (30 runs):
+The human user assigns the drone a specific target (e.g., destroy the enemy tank on coordinate x, y), which is then engaged autonomously by the drone. The use of the drone is terminated when the specifically assigned target is destroyed, or the human user decides to cancel the operation. Although the human user decides to use the weapon system as in example 1, however, the execution is done autonomously. The human user assumes the role of a supervisor. In this experiment, the human is "on-the-loop".
 
 [![supervised-autonomous operation](https://github.com/jedioutcast55/project_template/blob/master/Images/ArmA%203%20Ingame%20Screenshot%20supervised-autonomous.JPG)](https://youtu.be/I5x88eliCMw)
 
-#### 3. Analyzing the Data.
-After generating the Data during the simulation experiments A and B, a statistical hypothesis test using the software "R" will be conducted to answer hypothesis 1. Unmanned Systems can be operated autonomously with the same reliability as Human-operated once in a virtual military scenario when there is no significant difference between the outcomes of experiment A and B. 
+The Results of Experiment A and B of Scenario 1 can be downloaded here.(project_template/Experimental Study Results/Experimentation Results_1 UCAV,2 Targets(1AA,1APC).xlsx)
 
-### Experimental Procedures Hypothesis 2:
+##### Scenario 2 - SpecOps JTAC assigning targets (4 UCAV, 6 Targets(3 AA-Tanks, 1 APC, 2 Tanks))
+
+* Expriment A: semi-autonomous operation (30 runs): 
+The human user remotely controls the weapon use of the drone, the flying of the drone is carried out autonomously according to the specifications of the human user. The human user decides on the use of weapons and executes it. The drone can only carry out its mission through the input of the human user. In this experiment, the human is "in-the-loop."
+
+(Video link tbd)
+			
+* Experiment B: supervised autonomous operation (30 runs):
+The human user assigns the drone a specific target (e.g., destroy the enemy tank on coordinate x, y), which is then engaged autonomously by the drone. The use of the drone is terminated when the specifically assigned target is destroyed, or the human user decides to cancel the operation. Although the human user decides to use the weapon system as in example 1, however, the execution is done autonomously. The human user assumes the role of a supervisor. In this experiment, the human is "on-the-loop".
+
+(Video link tbd)
+
+The Results of Experiment A and B of Scenario 2 can be downloaded here.(project_template/Experimental Study Results/Experimentation Results_4 UCAV,6 Targets(3AA,1APC,2Tanks).xlsx)
+
+#### 3. Analyzing the Data.
+After generating the Data during the simulation experiments A and B of Scenarios 1 and 2, a statistical hypothesis test using the software "R" was conducted. 
+
+##### Scenario 1 - SpecOps JTAC assigning targets (1 UCAV, 2 Targets(1 AA-Tank, 1 APC))
+T-tests with alpha = 0.05 were used to comapre the results of experiment A(semi-autonomous Operation) and Experiment B: (supervised autonomous Operation)
+
+* 1. Comparing Amount of destroyed targets: No significant difference
+* 2. Comparing Amount of autonomous Systems at the end of the mission: No significant difference
+* 3. Comparing elapsed Time since command received: significant difference
+* 4. Comparing Amount of Used Ammunition: No significant difference
+* 5. Comparing Only hostile targets engaged: No significant difference
+* 6. Comparing Operator was able to supervise all used autonomous systems {True = 1, False = 0}: No significant difference
+* 7. Comparing Operator perception of cognitive workload: significant difference
+
+The R-Script to analyse the results of experiment A and B of **Scenario 1** can be downloaded here(project_template/Experimental Study Results/Analysis Results_1 UCAV,2 Targets(1AA,1APC).R).
+
+##### Scenario 2 - SpecOps JTAC assigning targets (4 UCAV, 6 Targets(3 AA-Tanks, 1 APC, 2 Tanks))
+
+* 1. Comparing Amount of destroyed targets: No significant difference
+* 2. Comparing Amount of autonomous Systems at the end of the mission: No significant difference
+* 3. Comparing elapsed Time since command received: No significant difference
+* 4. Comparing Amount of Used Ammunition: No significant difference
+* 5. Comparing Only hostile targets engaged: No significant difference
+* 6. Comparing Operator was able to supervise all used autonomous systems {True = 1, False = 0}: No significant difference
+* 7. Comparing Operator perception of cognitive workload: significant difference
+
+The R-Script to analyse the Results of Experiment A and B of **Scenario 2** can be downloaded here(project_template/Experimental Study Results/Analysis Results_4 UCAV,6 Targets(3AA,1APC,2Tanks).R).
+
+## Experimental Study Results
+
+### Hypothesis 1:
+Unmanned Systems can be operated autonomously with the same reliability as Human-operated once in a virtual military scenario when there is no significant difference between the outcomes of experiment A and B for each Scenario. 
+
+After the first simulation runs, there is no sufficient evidence for difference in between the results of experiment A and B. That means unmanned Systems can be operated autonomously with the same reliability as Human-operated once in a ArmA 3-based virtual military scenario. 
+
+Ho:
+Ha:
+
+...
+
+### Hypothesis 2:
 Tbd.
-### Experimental Procedures Hypothesis 3:
+...
+
+### Hypothesis 3:
 Tbd.
+...
 
 ## Plan of attack for the rest of the semester
-
 ### Final Presentation 12/04/2018
 * Research Methodologie finalized NLT 11/29/2018
-
 * Qualitative Research finalized  NLT 11/29/2018
 * Quantitative Research finalized NLT 11/24/2018
-	* Hypothesis 1: 	  NLT 11/11/2018
-	* Hypothesis 2:		  NLT 11/18/2018
-	* Hypothesis 3: 	  NLT 11/24/2018
 * GitHub documentary finalized 	  NLT 12/03/2018  
 
 ## References 
