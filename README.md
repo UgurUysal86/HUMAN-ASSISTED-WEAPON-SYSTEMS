@@ -8,11 +8,11 @@
 [![HUMAN-ASSISTED WEAPON SYSTEMS](https://github.com/jedioutcast55/project_template/blob/master/Images/ArmA%203%20Ingame%20Screenshot%20Drones.JPG)](https://raw.githubusercontent.com/jedioutcast55/project_template/ca9b90bb2441154212237af3f4c7026827d156e8/Project%20Review%20and%20Feedback/IDS6916_Group4_MidSemester_ProjectPresentation.mp4)
 **Download instructions**: Please click on this image to download the Project Presentation Video. Note: Please use a browser other than Firefox to be able to download this video from GitHub. [The **Project Presentation Slides** can be downloaded here.](https://github.com/jedioutcast55/project_template/raw/bb90194dd070cc2e5d15da00ee9aa7aa9380520d/Project%20Review%20and%20Feedback/IDS6916%20Group4%20Project%20Review%20and%20Feedback_UCF.pptx)
 
-## Topic / Purpose Statement
+## 1. Topic / Purpose Statement
 
 This study addresses the validity of human-autonomy teaming on the battlefield in the near future. The purpose of this exploratory research is to create a framework using the military tactical shooter video game ArmA 3 as a modeling and simulation platform to conduct experimentation on Human-assisted Weapon systems. The first phase of the study will be a qualitative exploration of the human-autonomous teaming to gathered data and knowledge to ascertain the near future prospects. The data will help in the design of more realistic scenarios that will allowed us to conduct quantitative experiments using ArmA 3. The data is collected from the literature review and interviews with subject matter experts (SME). From the initial exploration, the qualitative findings will be used to develop a quantitative experimentation on a human subject interacting with semi-autonomous entities. In the tentative planned quantitative phase, reliability data will be collected from experiments conducted using ArmA 3.
 
-## Introduction
+## 2. Introduction
 
 "Twenty years from now, unless we can replace a considerable number of people with robots, it’ll be hard to maintain the current level of war capability,” said Akihisa Nagashima, a former parliamentary vice defence minister and conservative independent lawmaker. “Japan’s (security) situation won’t be more peaceful, so I think this is really serious" (Reuters, 2018). 
 
@@ -35,7 +35,7 @@ This project makes the following contributions:
 * Presentation of the current status of research on Human-autonomy teaming in the military field of application.
 * Exploration of the possibilities and limits of Human-autonomy teaming in various military scenarios through simulation experiments.
 
-## Related Work / literature review
+## 3. Related Work / literature review
 
 When searching for literature on the topic of Human-assisted Weapon Systems, we mostly found terms such as Manned-unmanned teaming and Human-autonomy teaming. It is striking that the term Human-autonomy teaming is used more frequently in the latest publications. This is related to advances in the field of autonomous systems in recent years and the resulting potential in the military sector. Manned-unmanned teaming is the collaboration between a system of human inmates and a human remote controlled system without human occupants. In Human-autonomy teaming, the unmanned system is autonomously controlled by an agent or AI and is not remotely controlled by a human operator. According to Scharre (2018) "A machine can perform a task in a semi-autonomous, supervised autonomous, or fully autonomous manner" (p.28). "In semiautonomous systems, the machine performs a task and then waits for a human user to take an action before continuing." (Scharre, 2018, p. 29). "Once put into operation, the machine can sense, decide, and act on its own, but a human user can observe the machine's behavior and intervene to stop it, if desired" (Scharre, 2018, p. 29). "Fully autonomous systems sense, decide, and act entirely without human intervention. Once the human activates the machine, it conducts the task without communication back to the human user." (Scharre, 2018, p. 30).
 
@@ -46,7 +46,7 @@ For example, de Boisboissel (2017) states that "all machines, including autonomo
 
 It is imperative not only to understand the ethical implications of using autonomous systems in war. There is also a need to understand how a human in a human-autonomy team interacts in the war. Squire P. N. & Parasuraman R (2010) conducted an experiment in which a human control a determined number of robots in a capturing the flag game. They collected the data on supervisor (human) task switching performance (complex tasks vs. repetitive tasks) and teams of four and eight robots performance (winning percentage). Squire and Parasuraman wanted to understand how the cognitive load and the Level of Automation (LOA) affected each robot team. Squire and Parasuraman use the results to established ideas on how to better design an interface that would reduce the cognitive load and become more efficient in conducting tasks. This experiment is the foundation for the understanding of the human-autonomy teaming interaction.
 
-## Research Methods
+## 4. Research Method
 
 The subject of interest is relatively new to our group. With the desire to explore the topic, the group started to read articles, books, web-pages, etc. After the initial research the group was able focus the research study into the subject of human-autonomy teaming. 
 
@@ -54,32 +54,33 @@ The group was interested to find out how the interaction between the human super
   
 We want to use a **Mixed Method Approach** as defined by Creswell & Creswell (2017) to answer research questions related to this projects contributions. First, we want to answer the qualitative research questions by literature review and interviews with experts in the field of human-autonomy teaming. In the second step we want to collect, analyze, and interpret quantitative data through simulation experiments using ArmA 3. We want to answer the quantitative research question by simulation experiments that are viable for human-autonomy teaming experimentation.
 
-## Qualitative Research Questions
+### 4.1 Qualitative Research Questions
 
-### Central question: What are the benefits of using human-supervised autonomous systems in a military environment?
+#### Central question: What are the benefits of using human-supervised autonomous systems in a military environment?
 The military is looking into increasing their capabilities star introducing unmanned vehicles (UVs) and robotic systems (Squire & Parasuraman, 2010) (de Visser & Parasuraman, 2011) (Chen & Barnes 2014).  The factors driving the introduction of UVs to increase force lethality, survivor evacuation, and reducing human exposure to combat operations (Chen & Barnes 2014).  Other factors are the reduction in personnel, reduction in labor cost, improve human safety and cost-saving ways to perform tasks without the human limitations and expense (Squire & Parasuraman, 2010) (Endsley, 2017).  The literature provides some evidence where the use of human-supervised autonomous has been beneficial.
    
-### Subquestion 1: What is the current status of research on Human-autonomy teaming in the military?
+#### Subquestion 1: What is the current status of research on Human-autonomy teaming in the military?
 Current research being performed on the subject of dismounted infantry working with small robots, intelligent analysis, human working with intelligent agents managing teams of unmanned vehicles, vehicles with ground penetrating radars (Chen, 2018).  Most of the research perform into the efficacy Some research perform in human-automation teaming is looking at the behavior and the synchronization between teams (Demir, McNeese, and Cooke, 2018).  There are a number of research being conducted in the field of human-autonomy systems.  Some of the research concentrate on the cognitive load of the human agent and how to decrease it.
 
-### Subquestion 2: How could autonomous systems be integrated into the armed forces, ensuring that legal aspects are adhered to?
+#### Subquestion 2: How could autonomous systems be integrated into the armed forces, ensuring that legal aspects are adhered to?
 The suggestion for autonomous systems to ensure they adhered to legal implication is to rest the authority on a human supervisor (Chen & Barnes 2014). Humans still understand patterns behavior, human intentions, macro implications and ethical responsibilities much better than artificial systems (Chen & Barnes 2014). For this reason, the system autonomous agent shall always remain subordinate to their human counterparts (Chen & Barnes 2014). The human will only be allowed the agent to act autonomously only specified conditions (Chen & Barnes 2014). John H. Northrop and Associate conducted a study which suggests developing a matrix defining the level of automation (Chesebrough & Dooley, 2018).  This matrix should provide the need and level of autonomous tactical needed to accomplish the mission within the constraints of mission parameters (Chesebrough & Dooley, 2018). The literature has provided a number of solutions to integrate rules of engagement, ethical and legal tenants.
    
-## Quantitative Research Question: Does the use of autonomous systems have positive effects on military capabilities?
+### 4.2 Quantitative Research Question: Does the use of autonomous systems have positive effects on military capabilities?
 
-### Hypothesis 1: Unmanned Systems can be operated autonomously with the same reliability as human-operated once in a virtual military scenario. 
+#### Hypothesis 1: Unmanned Systems can be operated autonomously with the same reliability as human-operated once in a virtual military scenario. 
 
-### Hypothesis 2: By using autonomous systems, military missions can be conducted with less human personnel.
+#### Hypothesis 2: By using autonomous systems, military missions can be conducted with less human personnel.
 
-### Hypothesis 3: The use of autonomous systems could extend the range of military operations.
+#### Hypothesis 3: The use of autonomous systems could extend the range of military operations.
 
-## Preliminary framework / setup of the experimental Study Method Plan
+## 5. Preliminary framework / setup of the experimental Study Method Plan
 To answer our projects quantitative research questions we set up an experimental Design to "manipulates one or more variables in order to evaluate how this manipulation impacts an outcome or outcomes of interest" (Creswell & Creswell, 2018, p. 147) with the following components:
 
-### Participants
+### 5.1 Participants
 Our group will create scenarios to compare human actions against autonomous agents to determine the reliability of the autonomous agents. One or both members of our research group will act as human users in the simulation. At this time no further human participants are needed. If further persons are needed, then gamers which have been exposed to the simulation framework or military personnel which has experience of dealing with unmanned systems would be best suited for this.
 
-### Independent variables:
+### 5.2 Variables
+#### 5.2.1 Independent variables:
 * Level of autonomy  {semi-autonomous, supervised autonomous, fully autonomous},
 * Amount of targets {1..n} 
 * Amount of UCAV (Unmanned Combat Aerial Vehicle ) {1..n}
@@ -87,7 +88,7 @@ Our group will create scenarios to compare human actions against autonomous agen
 * Amount of unbound vehicles {1..n}
 * Complexity of Szenario {low, middle, high}
 
-### Dependent variables (Responses):
+#### 5.2.2 Dependent variables (Responses):
 * Amount of destroyed targets {1..n} 
 * Amount of UCAV at the end of the mission {1..n} 
 * Elapsed Time since command received (sec) {1..n} 
@@ -96,27 +97,27 @@ Our group will create scenarios to compare human actions against autonomous agen
 * Operator was able to  supervise all used autonomous systems {True = 1, False = 0}
 * Operator perception of  cognitive workload  {1..10}
 
-### Instrumentation and Materials
+### 5.3 Instrumentation and Materials
 Since the full potential of autonomous systems can only be estimated today due to technologies that are not yet fully developed, we want to use a simulation environment in which these technologies are already available. Therefore we use virtual simulation instead of robotics for our experiments. The military tactical shooter video game [ArmA 3](https://arma3.com/) Version 1.84.144923 including the DLC's ["Apex"](https://arma3.com/apex), ["Jets"](https://arma3.com/dlc/jets), ["Tanks"](https://arma3.com/dlc/tanks), and ["Zeus"](https://arma3.com/dlc/zeus), are used as our framework to create a military scenario for generating data to answer the quantitative research questions.
 
-### Experimental Procedures:
-#### 1. Modeling of the Scenario 
+### 5.4 Experimental Procedures:
+#### 5.4.1 Modeling of the Scenario 
 Before the beginning of each simulation run, the scenario is modeled according to the independent variables.
 
-##### **Scenario 1 - SpecOps JTAC assigning targets (1 UCAV, 2 Targets(1 AA-Tank, 1 APC))**
+##### 5.4.1.1 **Scenario 1 - SpecOps JTAC assigning targets (1 UCAV, 2 Targets(1 AA-Tank, 1 APC))**
 In this scenario the SpecOps JTAC has to coordinate the destruction of the two enemy vehicles with one available UCAV which is armed with three Air to Ground Missiles, before the SpecOPs JTAC and his group can be extracted by a helicopter. 
 
 The [Scenario file can be downloaded here](https://github.com/jedioutcast55/project_template/tree/master/Experimental%20Study%20Results/SpecOps%2520JTAC%2520assigning%2520targets%253a1xUCAV%2C2xTargets(1AA%2C1APC).Altis). Copy and paste the scenario folder to the ArmA 3 user mission folder (C:\Users\YOURNAME\Documents\Arma 3\missions) to be able to load the scenario.
 
-##### Scenario 2 - SpecOps JTAC assigning targets (4 UCAV, 6 Targets(3 AA-Tanks, 1 APC, 2 Tanks))
+##### 5.4.1.2 Scenario 2 - SpecOps JTAC assigning targets (4 UCAV, 6 Targets(3 AA-Tanks, 1 APC, 2 Tanks))
 In this scenario the SpecOps JTAC has to coordinate the destruction of the six enemy vehicles with four available UCAV's which are armed with three Air to Ground Missiles each, before the SpecOPs JTAC and his group can be extracted by a helicopter. 
 
 The [Scenario file can be downloaded here.](https://github.com/jedioutcast55/project_template/tree/master/Experimental%20Study%20Results/SpecOps%2520JTAC%2520assigning%2520targets%253a4xUCAV%2C6xTargets(3AA%2C1APC%2C2Tanks).Altis). Copy and paste the scenario folder to the ArmA 3 user mission folder (C:\Users\YOURNAME\Documents\Arma 3\missions) to be able to load the scenario.
 
-#### 2. Conducting the simulation experiment 
+#### 5.4.2. Conducting the simulation experiment 
 Running the Simulation in ArmA 3 with a specific Szenario. At the end of each Simulation run, the values of the response variables are saved in a excel file.
 
-##### Scenario 1 - SpecOps JTAC assigning targets (1 UCAV, 2 Targets(1 AA-Tank, 1 APC))
+##### 5.4.2.1 Scenario 1 - SpecOps JTAC assigning targets (1 UCAV, 2 Targets(1 AA-Tank, 1 APC))
 * Experiment A: semi-autonomous operation (30 runs): 
 The human user remotely controls the weapon use of the drone, the flying of the drone is carried out autonomously according to the specifications of the human user. The human user decides on the use of weapons and executes it. The drone can only carry out its mission through the input of the human user. In this experiment, the human is "in-the-loop."
 
@@ -129,7 +130,7 @@ The human user assigns the drone a specific target (e.g., destroy the enemy tank
 
 The [Results of Experiment A and B of Scenario 1 can be downloaded here](project_template/Experimental Study Results/Experimentation Results_1 UCAV,2 Targets(1AA,1APC).xlsx)
 
-##### Scenario 2 - SpecOps JTAC assigning targets (4 UCAV, 6 Targets(3 AA-Tanks, 1 APC, 2 Tanks))
+##### 5.4.2.2 Scenario 2 - SpecOps JTAC assigning targets (4 UCAV, 6 Targets(3 AA-Tanks, 1 APC, 2 Tanks))
 
 * Expriment A: semi-autonomous operation (30 runs): 
 The human user remotely controls the weapon use of the drone, the flying of the drone is carried out autonomously according to the specifications of the human user. The human user decides on the use of weapons and executes it. The drone can only carry out its mission through the input of the human user. In this experiment, the human is "in-the-loop."
@@ -143,10 +144,10 @@ The human user assigns the drone a specific target (e.g., destroy the enemy tank
 
 The [Results of Experiment A and B of Scenario 2 can be downloaded here](project_template/Experimental Study Results/Experimentation Results_4 UCAV,6 Targets(3AA,1APC,2Tanks).xlsx)
 
-#### 3. Analyzing the Data.
+#### 5.4.3 Analyzing the Data.
 After generating the Data during the simulation experiments A and B of Scenarios 1 and 2, a statistical hypothesis test using the software "R" was conducted. 
 
-##### Scenario 1 - SpecOps JTAC assigning targets (1 UCAV, 2 Targets(1 AA-Tank, 1 APC))
+##### 5.4.3.1 Scenario 1 - SpecOps JTAC assigning targets (1 UCAV, 2 Targets(1 AA-Tank, 1 APC))
 T-tests with alpha = 0.05 were used to comapre the results of experiment A(semi-autonomous Operation) and Experiment B: (supervised autonomous Operation)
 
 * 1. Comparing Amount of destroyed targets: 							  no significant difference
@@ -159,7 +160,7 @@ T-tests with alpha = 0.05 were used to comapre the results of experiment A(semi-
 
 The [R-Script to analyse the results of experiment A and B of **Scenario 1** can be downloaded here](project_template/Experimental Study Results/Analysis Results_1 UCAV,2 Targets(1AA,1APC).R).
 
-##### Scenario 2 - SpecOps JTAC assigning targets (4 UCAV, 6 Targets(3 AA-Tanks, 1 APC, 2 Tanks))
+##### 5.4.3.2 Scenario 2 - SpecOps JTAC assigning targets (4 UCAV, 6 Targets(3 AA-Tanks, 1 APC, 2 Tanks))
 
 * 1. Comparing Amount of destroyed targets: 							 no significant difference
 * 2. Comparing Amount of autonomous Systems at the end of the mission: 				 no significant difference
@@ -171,9 +172,9 @@ The [R-Script to analyse the results of experiment A and B of **Scenario 1** can
 
 The [R-Script to analyse the Results of Experiment A and B of **Scenario 2** can be downloaded here](project_template/Experimental Study Results/Analysis Results_4 UCAV,6 Targets(3AA,1APC,2Tanks).R).
 
-## Experimental Study Results
+## 6. Experimental Study Results
 
-### Hypothesis 1:
+### 6.1 Hypothesis 1:
 Unmanned Systems can be operated autonomously with the same reliability as Human-operated once in a virtual military scenario when there is no significant difference between the outcomes of experiment A and B for each Scenario. 
 
 After the first simulation runs, there is no sufficient evidence for difference in between the results of experiment A and B. That means unmanned Systems can be operated autonomously with the same reliability as Human-operated once in a ArmA 3-based virtual military scenario. 
@@ -183,15 +184,15 @@ Ha:
 
 ...
 
-### Hypothesis 2:
+### 6.2 Hypothesis 2:
 Tbd.
 ...
 
-### Hypothesis 3:
+### 6.3 Hypothesis 3:
 Tbd.
 ...
 
-## Plan of attack for the rest of the semester
+## 7. Plan of attack for the rest of the semester
 ### Final Presentation 12/04/2018
 * Research Methodologie finalized NLT 11/29/2018
 * Qualitative Research finalized  NLT 11/29/2018
