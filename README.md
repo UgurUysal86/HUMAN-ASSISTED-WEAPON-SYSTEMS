@@ -106,7 +106,7 @@ Before the beginning of each simulation run, the scenario is modeled according t
 ##### **Scenario 1 - SpecOps JTAC assigning targets (1 UCAV, 2 Targets(1 AA-Tank, 1 APC))**
 In this scenario the SpecOps JTAC has to coordinate the destruction of the two enemy vehicles with one available UCAV which is armed with three Air to Ground Missiles, before the SpecOPs JTAC and his group can be extracted by a helicopter. 
 
-The [Scenario file can be downloaded here.](https://github.com/jedioutcast55/project_template/tree/master/Experimental%20Study%20Results/SpecOps%2520JTAC%2520assigning%2520targets%253a1xUCAV%2C2xTargets(1AA%2C1APC).Altis). Copy and paste the scenario folder to the ArmA 3 user mission folder (C:\Users\YOURNAME\Documents\Arma 3\missions) to be able to load the scenario.
+The [Scenario file can be downloaded here](https://github.com/jedioutcast55/project_template/tree/master/Experimental%20Study%20Results/SpecOps%2520JTAC%2520assigning%2520targets%253a1xUCAV%2C2xTargets(1AA%2C1APC).Altis). Copy and paste the scenario folder to the ArmA 3 user mission folder (C:\Users\YOURNAME\Documents\Arma 3\missions) to be able to load the scenario.
 
 ##### Scenario 2 - SpecOps JTAC assigning targets (4 UCAV, 6 Targets(3 AA-Tanks, 1 APC, 2 Tanks))
 In this scenario the SpecOps JTAC has to coordinate the destruction of the six enemy vehicles with four available UCAV's which are armed with three Air to Ground Missiles each, before the SpecOPs JTAC and his group can be extracted by a helicopter. 
@@ -127,7 +127,7 @@ The human user assigns the drone a specific target (e.g., destroy the enemy tank
 
 [![supervised-autonomous operation](https://github.com/jedioutcast55/project_template/blob/master/Images/ArmA%203%20Ingame%20Screenshot%20supervised-autonomous.JPG)](https://youtu.be/I5x88eliCMw)
 
-The [Results of Experiment A and B of Scenario 1 can be downloaded here.](project_template/Experimental Study Results/Experimentation Results_1 UCAV,2 Targets(1AA,1APC).xlsx)
+The [Results of Experiment A and B of Scenario 1 can be downloaded here](project_template/Experimental Study Results/Experimentation Results_1 UCAV,2 Targets(1AA,1APC).xlsx)
 
 ##### Scenario 2 - SpecOps JTAC assigning targets (4 UCAV, 6 Targets(3 AA-Tanks, 1 APC, 2 Tanks))
 
@@ -141,7 +141,7 @@ The human user assigns the drone a specific target (e.g., destroy the enemy tank
 
 (Video link tbd)
 
-The [Results of Experiment A and B of Scenario 2 can be downloaded here.](project_template/Experimental Study Results/Experimentation Results_4 UCAV,6 Targets(3AA,1APC,2Tanks).xlsx)
+The [Results of Experiment A and B of Scenario 2 can be downloaded here](project_template/Experimental Study Results/Experimentation Results_4 UCAV,6 Targets(3AA,1APC,2Tanks).xlsx)
 
 #### 3. Analyzing the Data.
 After generating the Data during the simulation experiments A and B of Scenarios 1 and 2, a statistical hypothesis test using the software "R" was conducted. 
