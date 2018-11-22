@@ -117,7 +117,7 @@ The [Scenario file can be downloaded here](https://github.com/jedioutcast55/proj
 #### 5.4.2. Conducting the simulation experiment 
 Running the Simulation in ArmA 3 with a specific Szenario. At the end of each Simulation run, the values of the response variables are saved in a excel file.
 
-#### 5.4.2.1 Scenario 1 - SpecOps JTAC assigning targets (1 [UCAV](http://armedassault.wikia.com/wiki/UCAV_Sentinel), 2 Targets(1 [AA-Tank](http://armedassault.wikia.com/wiki/ZSU-39_Tigris), 1 [APC](http://armedassault.wikia.com/wiki/BTR-K_Kamysh)))
+#### 5.4.2.1 Scenario 1 - SpecOps JTAC assigning targets (1 [UCAV](http://armedassault.wikia.com/wiki/UCAV_Sentinel), 2 Targets(1 [AA-Tank](http://armedassault.wikia.com/wiki/ZSU-39_Tigris), 1 [APC]() )))
 * Experiment A: semi-autonomous operation (30 runs): 
 The human user remotely controls the weapon use of the drone, the flying of the drone is carried out autonomously according to the specifications of the human user. The human user decides on the use of weapons and executes it. The drone can only carry out its mission through the input of the human user. In this experiment, the human is "in-the-loop."
 
@@ -150,25 +150,25 @@ After generating the Data during the simulation experiments A and B of Scenarios
 #### 5.4.3.1 Scenario 1 - SpecOps JTAC assigning targets (1 [UCAV](http://armedassault.wikia.com/wiki/UCAV_Sentinel), 2 Targets(1 [AA-Tank](http://armedassault.wikia.com/wiki/ZSU-39_Tigris), 1 [APC](http://armedassault.wikia.com/wiki/BTR-K_Kamysh)))
 T-tests with alpha = 0.05 were used to comapre the results of experiment A(semi-autonomous Operation) and Experiment B: (supervised autonomous Operation)
 
-* 1. Comparing Amount of destroyed targets: 							  no significant difference
-* 2. Comparing Amount of autonomous Systems at the end of the mission: 				  no significant difference
-* 3. Comparing elapsed Time since command received: 						  significant difference
-* 4. Comparing Amount of Used Ammunition: 							  no significant difference
-* 5. Comparing Only hostile targets engaged: 							  no significant difference
-* 6. Comparing Operator was able to supervise all used autonomous systems {True = 1, False = 0}:  no significant difference
-* 7. Comparing Operator perception of cognitive workload: 					  significant difference
+* Comparing Amount of destroyed targets: 							    no significant difference
+* Comparing Amount of autonomous Systems at the end of the mission:     no significant difference
+* Comparing elapsed Time since command received: 					    significant difference
+* Comparing Amount of Used Ammunition: 							  	    no significant difference
+* Comparing Only hostile targets engaged: 							    no significant difference
+* Comparing Operator was able to supervise all used autonomous systems: no significant difference
+* Comparing Operator perception of cognitive workload: 					significant difference
 
 The [R-Script to analyse the results of experiment A and B of **Scenario 1** can be downloaded here](project_template/Experimental Study Results/Analysis Results_1 UCAV,2 Targets(1AA,1APC).R).
 
 #### 5.4.3.2 Scenario 2 - SpecOps JTAC assigning targets (4 [UCAVs](http://armedassault.wikia.com/wiki/UCAV_Sentinel), 2 Targets(3 [AA-Tanks](http://armedassault.wikia.com/wiki/ZSU-39_Tigris), 1 [APC](http://armedassault.wikia.com/wiki/BTR-K_Kamysh), 2 [Tanks](http://armedassault.wikia.com/wiki/T-140_Angara)))
 
-* 1. Comparing Amount of destroyed targets: 							 no significant difference
-* 2. Comparing Amount of autonomous Systems at the end of the mission: 				 no significant difference
-* 3. Comparing elapsed Time since command received: 						 no significant difference
-* 4. Comparing Amount of Used Ammunition: 							 no significant difference
-* 5. Comparing Only hostile targets engaged: 							 no significant difference
-* 6. Comparing Operator was able to supervise all used autonomous systems {True = 1, False = 0}: no significant difference
-* 7. Comparing Operator perception of cognitive workload: 					 significant difference
+* Comparing Amount of destroyed targets: 							 no significant difference
+* Comparing Amount of autonomous Systems at the end of the mission: 	 no significant difference
+* Comparing elapsed Time since command received: 						 no significant difference
+* Comparing Amount of Used Ammunition: 							 		 no significant difference
+* Comparing Only hostile targets engaged: 							 	 no significant difference
+* Comparing Operator was able to supervise all used autonomous systems : no significant difference
+* Comparing Operator perception of cognitive workload: 					 significant difference
 
 The [R-Script to analyse the Results of Experiment A and B of **Scenario 2** can be downloaded here](project_template/Experimental Study Results/Analysis Results_4 UCAV,6 Targets(3AA,1APC,2Tanks).R).
 
