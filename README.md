@@ -112,7 +112,7 @@ In this scenario the SpecOps JTAC has to coordinate the destruction of the two e
 #### 5.4.1.2 Scenario 2 - SpecOps JTAC assigning targets (4 UCAVs)
 In this scenario the SpecOps JTAC has to coordinate the destruction of the six enemy vehicles with four available UCAV's which are armed with three Air to Ground Missiles each, before the SpecOPs JTAC and his group can be extracted by a helicopter. 
 
-[The scenario file can be downloaded here](https://github.com/jedioutcast55/project_template/tree/master/Experimental%20Study%20Results/SpecOps%2520JTAC%2520assigning%2520targets%253a4xUCAV%2C6xTargets(3AA%2C1APC%2C2Tanks).Altis). Copy and paste the scenario folder to the ArmA 3 user mission folder (C:\Users\YOURNAME\Documents\Arma 3\missions) to be able to load the scenario.
+[The scenario file can be downloaded here](https://github.com/jedioutcast55/project_template/tree/master/Experimental%20Study%20Results/SpecOps%2520JTAC%2520assigning%2520targets%253a4xUCAV%2C6xTargets(3AA%2C1APC%2C2Tanks).Altis) Copy and paste the scenario folder to the ArmA 3 user mission folder C:\Users\YOURNAME\Documents\Arma 3\missions to be able to load the scenario.
 
 #### 5.4.2. Conducting the simulation experiment 
 Running the Simulation in ArmA 3 with a specific Szenario. At the end of each Simulation run, the values of the response variables are saved in a excel file.
@@ -135,12 +135,12 @@ The human user assigns the drone a specific target (e.g., destroy the enemy tank
 * Expriment A: semi-autonomous operation (30 runs): 
 The human user remotely controls the weapon use of the drone, the flying of the drone is carried out autonomously according to the specifications of the human user. The human user decides on the use of weapons and executes it. The drone can only carry out its mission through the input of the human user. In this experiment, the human is "in-the-loop."
 
-(Video link tbd)
+Video link tbd
 			
 * Experiment B: supervised autonomous operation (30 runs):
 The human user assigns the drone a specific target (e.g., destroy the enemy tank on coordinate x, y), which is then engaged autonomously by the drone. The use of the drone is terminated when the specifically assigned target is destroyed, or the human user decides to cancel the operation. Although the human user decides to use the weapon system as in example 1, however, the execution is done autonomously. The human user assumes the role of a supervisor. In this experiment, the human is "on-the-loop".
 
-(Video link tbd)
+Video link tbd
 
 [The results of Experiment A and B of Scenario 2 can be downloaded here](project_template/Experimental Study Results/Experimentation Results_4 UCAV,6 Targets(3AA,1APC,2Tanks).xlsx)
 
@@ -158,7 +158,7 @@ T-tests with alpha = 0.05 were used to comapre the results of experiment A(semi-
 * Comparing Operator was able to supervise all used autonomous systems: no significant difference
 * Comparing Operator perception of cognitive workload: 			significant difference
 
-[The R-Script to analyse the results of experiment A and B of **Scenario 1** can be downloaded here](project_template/Experimental Study Results/Analysis Results_1 UCAV,2 Targets(1AA,1APC).R)
+[The R-Script to analyse the results of experiment A and B of Scenario 1 can be downloaded here](project_template/Experimental Study Results/Analysis Results_1 UCAV,2 Targets(1AA,1APC).R)
 
 #### 5.4.3.2 SpecOps JTAC assigning targets (4 UCAVs)
 
@@ -170,7 +170,7 @@ T-tests with alpha = 0.05 were used to comapre the results of experiment A(semi-
 * Comparing Operator was able to supervise all used autonomous systems : no significant difference
 * Comparing Operator perception of cognitive workload: 			 significant difference
 
-[The R-Script to analyse the Results of Experiment A and B of **Scenario 2** can be downloaded here](project_template/Experimental Study Results/Analysis Results_4 UCAV,6 Targets(3AA,1APC,2Tanks).R).
+[The R-Script to analyse the Results of Experiment A and B of Scenario 2 can be downloaded here](project_template/Experimental Study Results/Analysis Results_4 UCAV,6 Targets(3AA,1APC,2Tanks).R)
 
 ## 6. Experimental Study Results
 
