@@ -148,27 +148,27 @@ Video link tbd
 After generating the Data during the simulation experiments A and B of Scenarios 1 and 2, a statistical hypothesis test using the software "R" was conducted. 
 
 #### 5.4.3.1 Scenario 1 - SpecOps JTAC assigning targets with 1 [UCAV](http://armedassault.wikia.com/wiki/UCAV_Sentinel) and 2 Targets (1 [AA-Tank](http://armedassault.wikia.com/wiki/ZSU-39_Tigris), 1 [APC](http://armedassault.wikia.com/wiki/BTR-K_Kamysh)).
-T-tests with alpha = 0.05 were used to comapre the results of experiment A(semi-autonomous Operation) and Experiment B: (supervised autonomous Operation)
+T-tests with alpha = 0.05 were used to compare the results of experiment A: **semi-autonomous Operation** and Experiment B: **supervised autonomous Operation.**
 
-* Comparing Amount of destroyed targets: 				no significant difference
-* Comparing Amount of autonomous Systems at the end of the mission:     no significant difference
-* Comparing elapsed Time since command received: 			significant difference
-* Comparing Amount of Used Ammunition: 					no significant difference
-* Comparing Only hostile targets engaged: 				no significant difference
-* Comparing Operator was able to supervise all used autonomous systems: no significant difference
-* Comparing Operator perception of cognitive workload: 			significant difference
+* Comparing Amount of destroyed targets: 				**no significant difference**
+* Comparing Amount of autonomous Systems at the end of the mission:     **no significant difference**
+* Comparing elapsed Time since command received: 			**significant difference**
+* Comparing Amount of Used Ammunition: 					**no significant difference**
+* Comparing Only hostile targets engaged: 				**no significant difference**
+* Comparing Operator was able to supervise all used autonomous systems: **no significant difference**
+* Comparing Operator perception of cognitive workload: 			**significant difference**
 
 [The R-Script to analyse the results of experiment A and B of Scenario 1 can be downloaded here](https://github.com/jedioutcast55/project_template/blob/master/Experimental%20Study%20Results/Analysis%20Results_1%20UCAV%2C2%20Targets(1AA%2C1APC).R)
 
 #### 5.4.3.2 Scenario 2 - SpecOps JTAC assigning targets with 4 [UCAVs](http://armedassault.wikia.com/wiki/UCAV_Sentinel) and 6 Targets (3 [AA-Tanks](http://armedassault.wikia.com/wiki/ZSU-39_Tigris), 1 [APC](http://armedassault.wikia.com/wiki/BTR-K_Kamysh), 2 [MBT](http://armedassault.wikia.com/wiki/T-140K_Angara)).
 
-* Comparing Amount of destroyed targets: 				 no significant difference
-* Comparing Amount of autonomous Systems at the end of the mission: 	 no significant difference
-* Comparing elapsed Time since command received: 			 no significant difference
-* Comparing Amount of Used Ammunition: 					 no significant difference
-* Comparing Only hostile targets engaged: 				 no significant difference
-* Comparing Operator was able to supervise all used autonomous systems : no significant difference
-* Comparing Operator perception of cognitive workload: 			 significant difference
+* Comparing Amount of destroyed targets: 				 **no significant difference**
+* Comparing Amount of autonomous Systems at the end of the mission: 	 **no significant difference**
+* Comparing elapsed Time since command received: 			 **no significant difference**
+* Comparing Amount of Used Ammunition: 					 **no significant difference**
+* Comparing Only hostile targets engaged: 				 **no significant difference**
+* Comparing Operator was able to supervise all used autonomous systems:  **no significant difference**
+* Comparing Operator perception of cognitive workload: 			 **significant difference**
 
 [The R-Script to analyse the Results of Experiment A and B of Scenario 2 can be downloaded here](https://github.com/jedioutcast55/project_template/blob/master/Experimental%20Study%20Results/Analysis%20Results_4%20UCAV%2C6%20Targets(3AA%2C1APC%2C2Tanks).R)
 
@@ -179,8 +179,8 @@ Unmanned Systems can be operated autonomously with the same reliability as Human
 
 After the first simulation runs, there is no sufficient evidence for difference in between the results of experiment A and B. That means unmanned Systems can be operated autonomously with the same reliability as Human-operated once in a ArmA 3-based virtual military scenario. 
 
-Ho:
-Ha:
+* Ho: ...
+* Ha: ...
 
 ...
 
