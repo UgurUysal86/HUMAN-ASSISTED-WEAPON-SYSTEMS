@@ -104,12 +104,12 @@ Since the full potential of autonomous systems can only be estimated today due t
 #### 5.4.1 Modeling of the Scenario 
 Before the beginning of each simulation run, the scenario is modeled according to the independent variables.
 
-#### 5.4.1.1 Scenario 1 - SpecOps JTAC assigning targets (1 [UCAV](http://armedassault.wikia.com/wiki/UCAV_Sentinel), 2 Targets(1 [AA-Tank](http://armedassault.wikia.com/wiki/ZSU-39_Tigris), 1 [APC](http://armedassault.wikia.com/wiki/BTR-K_Kamysh)))
+#### 5.4.1.1 Scenario 1 - SpecOps JTAC assigning targets (1 UCAV)
 In this scenario the SpecOps JTAC has to coordinate the destruction of the two enemy vehicles with one available UCAV which is armed with three Air to Ground Missiles, before the SpecOPs JTAC and his group can be extracted by a helicopter. 
 
 [The scenario file can be downloaded here](https://github.com/jedioutcast55/project_template/tree/master/Experimental%20Study%20Results/SpecOps%2520JTAC%2520assigning%2520targets%253a1xUCAV%2C2xTargets(1AA%2C1APC).Altis). Copy and paste the scenario folder to the ArmA 3 user mission folder (C:\Users\YOURNAME\Documents\Arma 3\missions) to be able to load the scenario.
 
-#### 5.4.1.2 Scenario 2 - SpecOps JTAC assigning targets (4 [UCAVs](http://armedassault.wikia.com/wiki/UCAV_Sentinel), 2 Targets(3 [AA-Tanks](http://armedassault.wikia.com/wiki/ZSU-39_Tigris), 1 [APC](http://armedassault.wikia.com/wiki/BTR-K_Kamysh), 2 [Tanks](http://armedassault.wikia.com/wiki/T-140_Angara)))
+#### 5.4.1.2 Scenario 2 - SpecOps JTAC assigning targets (4 UCAVs)
 In this scenario the SpecOps JTAC has to coordinate the destruction of the six enemy vehicles with four available UCAV's which are armed with three Air to Ground Missiles each, before the SpecOPs JTAC and his group can be extracted by a helicopter. 
 
 [The scenario file can be downloaded here](https://github.com/jedioutcast55/project_template/tree/master/Experimental%20Study%20Results/SpecOps%2520JTAC%2520assigning%2520targets%253a4xUCAV%2C6xTargets(3AA%2C1APC%2C2Tanks).Altis). Copy and paste the scenario folder to the ArmA 3 user mission folder (C:\Users\YOURNAME\Documents\Arma 3\missions) to be able to load the scenario.
@@ -117,7 +117,7 @@ In this scenario the SpecOps JTAC has to coordinate the destruction of the six e
 #### 5.4.2. Conducting the simulation experiment 
 Running the Simulation in ArmA 3 with a specific Szenario. At the end of each Simulation run, the values of the response variables are saved in a excel file.
 
-#### 5.4.2.1 Scenario 1 - SpecOps JTAC assigning targets (1 [UCAV](http://armedassault.wikia.com/wiki/UCAV_Sentinel), 2 Targets(1 [AA-Tank](http://armedassault.wikia.com/wiki/ZSU-39_Tigris), 1 [APC]() )))
+#### 5.4.2.1 Scenario 1 - SpecOps JTAC assigning targets (1 UCAV)
 * Experiment A: semi-autonomous operation (30 runs): 
 The human user remotely controls the weapon use of the drone, the flying of the drone is carried out autonomously according to the specifications of the human user. The human user decides on the use of weapons and executes it. The drone can only carry out its mission through the input of the human user. In this experiment, the human is "in-the-loop."
 
@@ -130,7 +130,7 @@ The human user assigns the drone a specific target (e.g., destroy the enemy tank
 
 [The results of Experiment A and B of Scenario 1 can be downloaded here](project_template/Experimental Study Results/Experimentation Results_1 UCAV,2 Targets(1AA,1APC).xlsx)
 
-#### 5.4.2.2 Scenario 2 - SpecOps JTAC assigning targets (4 [UCAVs](http://armedassault.wikia.com/wiki/UCAV_Sentinel), 2 Targets(3 [AA-Tanks](http://armedassault.wikia.com/wiki/ZSU-39_Tigris), 1 [APC](http://armedassault.wikia.com/wiki/BTR-K_Kamysh), 2 [Tanks](http://armedassault.wikia.com/wiki/T-140_Angara)))
+#### 5.4.2.2 Scenario 2 - SpecOps JTAC assigning targets (4 UCAVs)
 
 * Expriment A: semi-autonomous operation (30 runs): 
 The human user remotely controls the weapon use of the drone, the flying of the drone is carried out autonomously according to the specifications of the human user. The human user decides on the use of weapons and executes it. The drone can only carry out its mission through the input of the human user. In this experiment, the human is "in-the-loop."
@@ -147,7 +147,7 @@ The human user assigns the drone a specific target (e.g., destroy the enemy tank
 #### 5.4.3 Analyzing the Data.
 After generating the Data during the simulation experiments A and B of Scenarios 1 and 2, a statistical hypothesis test using the software "R" was conducted. 
 
-#### 5.4.3.1 Scenario 1 - SpecOps JTAC assigning targets (1 [UCAV](http://armedassault.wikia.com/wiki/UCAV_Sentinel), 2 Targets(1 [AA-Tank](http://armedassault.wikia.com/wiki/ZSU-39_Tigris), 1 [APC](http://armedassault.wikia.com/wiki/BTR-K_Kamysh)))
+#### 5.4.3.1 Scenario 1 - SpecOps JTAC assigning targets (1 UCAV)
 T-tests with alpha = 0.05 were used to comapre the results of experiment A(semi-autonomous Operation) and Experiment B: (supervised autonomous Operation)
 
 * Comparing Amount of destroyed targets: 							    no significant difference
@@ -160,7 +160,7 @@ T-tests with alpha = 0.05 were used to comapre the results of experiment A(semi-
 
 [The R-Script to analyse the results of experiment A and B of **Scenario 1** can be downloaded here](project_template/Experimental Study Results/Analysis Results_1 UCAV,2 Targets(1AA,1APC).R)
 
-#### 5.4.3.2 Scenario 2 - SpecOps JTAC assigning targets (4 [UCAVs](http://armedassault.wikia.com/wiki/UCAV_Sentinel), 2 Targets(3 [AA-Tanks](http://armedassault.wikia.com/wiki/ZSU-39_Tigris), 1 [APC](http://armedassault.wikia.com/wiki/BTR-K_Kamysh), 2 [Tanks](http://armedassault.wikia.com/wiki/T-140_Angara)))
+#### 5.4.3.2 SpecOps JTAC assigning targets (4 UCAVs)
 
 * Comparing Amount of destroyed targets: 							 no significant difference
 * Comparing Amount of autonomous Systems at the end of the mission: 	 no significant difference
