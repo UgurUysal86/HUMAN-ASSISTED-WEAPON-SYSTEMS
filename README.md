@@ -190,8 +190,8 @@ In the first scenario, we are comparing current drone operations versus autonomo
 ### 6.2 Hypothesis 2:
 By using autonomous systems, military missions can be conducted with less human personnel.
 
-* Ho: There is no sufficient evidence for a difference in reliability.
-* Ha: There is a sufficient evidence for a difference in reliability.
+* Ho: Missions conducted with less human personnel using autonomous systems are no different than conducted by human control systems.
+* Ha: Missions conducted with less human personnel using autonomous systems are different than conducted by human control systems.
 
 In the second scenario, we are comparing the human control operation of a swarm (four) drone versus a swarm of autonomous drones with human supervision.  The formulated hypothesis (Hypothesis 2) is By using autonomous systems, military missions can be conducted with less human personnel.  The null hypothesis Ho: Missions conducted with less human personnel using autonomous systems are no different than conducted by human control systems.  With our alternate hypothesis Ha: Missions conducted with less human personnel using autonomous systems are different than those conducted by human control systems.  As in scenario one experiment A represents a human-in-the-loop.  The human operator takes a direct control of the drones targeting and release of weapons.  Experiment B represents human supervision (human-on-the-loop) of four autonomous drones.  Using a correlated (or paired) T-test to compare the dependent variables (section 5.2.2) from experiment A and experiment B.  
    Experiment A uses a one-man crew to operate four drones.  In experiment A, the drones are flown by ArmA 3 platform’s simulated agent and the human operator use for targeting and the release of weapons to destroy the target.  The human performed the targeting and firing for all four drones.  As we do not have a reference for this type of mission, we represented experiment A in a similar fashion as experiment A from scenario one.    
