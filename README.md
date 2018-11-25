@@ -204,8 +204,14 @@ In the second scenario, we are comparing the human control operation of a swarm 
      
    The T-test results (5.4.3.2) show were no major differences between five of the seven of the dependent variables.  For these five variables, we could not reject Ho: Missions conducted with less human personnel supervising autonomous systems are no different than conducted by human control systems.  The two variables for which can reject the hypothesis are Elapsed Time since command received and Operator perception of cognitive workload. We accept the alternate hypothesis Ha: Missions conducted with less human personnel supervising autonomous systems are different than those conducted by human control systems.  The data show experiment B having an advantage over experiment A for the variables showing a significant difference.  These results do not show that drones operating in a human-in-the-loop (experiment A) are significant different from drones operating in a human-on-the-loop (experiment B).  We can infer from the results that there is no evidence semi-autonomous system using less human personnel controlling the drones are more efficient than the supervised autonomous system.  The two variables showing significant difference seem to favor experiment B.
 
+## 7. Future Research
+Hypothesis 3
+...
 
-## 7. Plan of attack for the rest of the semester
+## 8. Conclusion
+...
+
+## 9. Plan of attack for the rest of the semester
 ### Final Presentation 12/04/2018
 * Research Methodologie finalized NLT 11/29/2018
 * Qualitative Research finalized  NLT 11/29/2018
