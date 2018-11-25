@@ -86,7 +86,7 @@ Our group will create scenarios to compare human actions against autonomous agen
 * Amount of UCAV (Unmanned Combat Aerial Vehicle ) {1..n}
 * Available Munitions {GBU, AGM} 
 * Amount of unbound vehicles {1..n}
-* Complexity of Szenario {low, middle, high}
+* Complexity of Scenario {low, middle, high}
 
 #### 5.2.2 Dependent variables (Responses):
 * Amount of destroyed targets {1..n} 
@@ -152,7 +152,7 @@ T-tests with alpha = 0.05 were used to compare the results of experiment A: **se
 
 * Comparing Amount of destroyed targets: 				**no significant difference**
 * Comparing Amount of autonomous Systems at the end of the mission:     **no significant difference**
-* Comparing elapsed Time since command received: 			**significant difference**
+* Comparing elapsed Time since command received: 			**no significant difference**
 * Comparing Amount of Used Ammunition: 					**no significant difference**
 * Comparing Only hostile targets engaged: 				**no significant difference**
 * Comparing Operator was able to supervise all used autonomous systems: **no significant difference**
@@ -164,7 +164,7 @@ T-tests with alpha = 0.05 were used to compare the results of experiment A: **se
 
 * Comparing Amount of destroyed targets: 				 **no significant difference**
 * Comparing Amount of autonomous Systems at the end of the mission: 	 **no significant difference**
-* Comparing elapsed Time since command received: 			 **no significant difference**
+* Comparing elapsed Time since command received: 			 **significant difference**
 * Comparing Amount of Used Ammunition: 					 **no significant difference**
 * Comparing Only hostile targets engaged: 				 **no significant difference**
 * Comparing Operator was able to supervise all used autonomous systems:  **no significant difference**
@@ -177,20 +177,27 @@ T-tests with alpha = 0.05 were used to compare the results of experiment A: **se
 ### 6.1 Hypothesis 1:
 Unmanned Systems can be operated autonomously with the same reliability as Human-operated once in a virtual military scenario when there is no significant difference between the outcomes of experiment A and B for each Scenario. 
 
-After the first simulation runs, there is no sufficient evidence for difference in between the results of experiment A and B. That means unmanned Systems can be operated autonomously with the same reliability as Human-operated once in a ArmA 3-based virtual military scenario. 
+* Ho: There is no sufficient evidence for a difference in reliability.
+* Ha: There is a sufficient evidence for a difference in reliability.
 
-* Ho: ...
-* Ha: ...
+In the first scenario, we are comparing current drone operations versus autonomous drones with human supervision.  The formulated hypothesis (Hypothesis 1) an Unmanned Systems can be operated autonomously with the same reliability as Human-operated once in a virtual scenario.  The null hypothesis Ho: There is no sufficient evidence for a difference in reliability.  With our alternate hypothesis Ha: There is a sufficient evidence for a difference in reliability.  Experiment A represents today’s operations.  Experiment B represents human supervision of an autonomous drone.  Using a correlated (or paired) T-test to compare the dependent variables (section 5.2.2) from experiment A and experiment B.  
+   Experiment A uses a two-man crew to operate the drone.  With a conversation with one of our classmates knowledgeable in drone’s operations; informed us that most of the flying is performed autonomously.  The other two crew members concentrate on targeting and the release of weapons.  In experiment A, one operator is replaced with the ArmA 3 platform’s simulated agent.  The simulated agent flies the drone and the human operator performed targeting and release of weapons.    
+     In experiment B we use the human operator in a supervisory capacity of drone’s operations.  The human supervisor will keep situational awareness and select the drone’s targets.  All other operations are performed by the drone,s artificial intelligent (AI) systems.  For detailed explanations of scenario one, see sections 5.4.2.1.  After 30 runs for each experiment, we have analyzed the data using the T-test 
+   The T-test results (5.4.3.1) show were no major differences between six of the seven dependent variables.  For these six variables, we could not reject Ho: There is no sufficient evidence for a difference in reliability.  Operator perception of cognitive workload is the variables for which we can reject the null hypothesis. We accept the alternate hypothesis Ha: There is sufficient evidence for a difference in reliability.  The data show experiment B having an advantage over experiment A for the variable showing significant differences in reliability.  We can infer that the results do not show that drones operating in a human-in-the-loop (experiment A) are more reliable than drones operating in a human-on-the-loop (experiment B) drones.
+ 
 
-...
 
 ### 6.2 Hypothesis 2:
-Tbd.
-...
+By using autonomous systems, military missions can be conducted with less human personnel.
 
-### 6.3 Hypothesis 3:
-Tbd.
-...
+* Ho: There is no sufficient evidence for a difference in reliability.
+* Ha: There is a sufficient evidence for a difference in reliability.
+
+In the second scenario, we are comparing the human control operation of a swarm (four) drone versus a swarm of autonomous drones with human supervision.  The formulated hypothesis (Hypothesis 2) is By using autonomous systems, military missions can be conducted with less human personnel.  The null hypothesis Ho: Missions conducted with less human personnel using autonomous systems are no different than conducted by human control systems.  With our alternate hypothesis Ha: Missions conducted with less human personnel using autonomous systems are different than those conducted by human control systems.  As in scenario one experiment A represents a human-in-the-loop.  The human operator takes a direct control of the drones targeting and release of weapons.  Experiment B represents human supervision (human-on-the-loop) of four autonomous drones.  Using a correlated (or paired) T-test to compare the dependent variables (section 5.2.2) from experiment A and experiment B.  
+   Experiment A uses a one-man crew to operate four drones.  In experiment A, the drones are flown by ArmA 3 platform’s simulated agent and the human operator use for targeting and the release of weapons to destroy the target.  The human performed the targeting and firing for all four drones.  As we do not have a reference for this type of mission, we represented experiment A in a similar fashion as experiment A from scenario one.    
+     In experiment B we use the human operator in a supervisory capacity of drones’ operations.   For detailed explanations of scenario two, see sections 5.4.2.2 of this document.  After 30 runs for each experiment, we have analyzed the data using the T-test 
+   The T-test results (5.4.3.2) show were no major differences between five of the seven of the dependent variables.  For these five variables, we could not reject Ho: Missions conducted with less human personnel using autonomous systems are no different than conducted by human control systems.  The two variables for which can reject the hypothesis are Elapsed Time since command received and Operator perception of cognitive workload. We accept the Ha the alternate hypothesis: Missions conducted with less human personnel using autonomous systems are different than those conducted by human control systems.  The data show experiment B having an advantage over experiment A for the variables showing a significant difference.  These results do not show that drones operating in a human-in-the-loop (experiment A) that a significant difference exists from drones operating in a human-on-the-loop (experiment B).  We can infer from the results that there is no evidence semi-autonomous system using less human personnel controlling the drones are more efficient than the supervised autonomous system.  The other two variables showing significant difference seem to favor experiment B.
+
 
 ## 7. Plan of attack for the rest of the semester
 ### Final Presentation 12/04/2018
