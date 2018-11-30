@@ -186,8 +186,9 @@ In the first scenario, we are comparing current drone operations versus autonomo
    
    In experiment B we use the human operator in a supervisory capacity of drone’s operations.  The human supervisor will keep situational awareness and select the drone’s targets.  All other operations are performed by the drone's artificial intelligent (AI) systems.  For detailed explanations of scenario one see sections 5.4.2.1.  After 30 runs for each experiment, we have analyzed the data using the T-test.
    
-[![Dependent Variables T-Test Results](https://github.com/jedioutcast55/project_template/blob/master/Images/Scenario_one_TargetDestroyedAndAmountofUCAV.jpg)]
-     
+https://github.com/jedioutcast55/project_template/blob/master/Images/Scenario_one_TargetDestroyedAndAmountofUCAV.jpg
+Figure 1: Shows Scenario One T-Test results for Left: Amount of destroyed targets and Right: Amount of autonomous Systems at the end of the mission
+
    The T-test results (5.4.3.1) showed there were no major differences between six of the seven dependent variables.  For these six variables, we could not reject Ho: There is no sufficient evidence for a difference in reliability.  Operator perception of cognitive workload is the variable for which we can reject the null hypothesis. We accept the alternate hypothesis Ha: There is sufficient evidence for a difference in reliability.  The data show experiment B having an advantage over experiment A for the variable showing significant differences in reliability.  We can infer that the results do not show that drones operating in a human-in-the-loop (experiment A) are more reliable than drones operating in a human-on-the-loop (experiment B).
  
 
