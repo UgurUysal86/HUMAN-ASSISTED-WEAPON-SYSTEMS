@@ -186,12 +186,13 @@ In the first scenario, we are comparing current drone operations versus autonomo
    
    In experiment B we use the human operator in a supervisory capacity of drone’s operations.  The human supervisor will keep situational awareness and select the drone’s targets.  All other operations are performed by the drone's artificial intelligent (AI) systems.  For detailed explanations of scenario one see sections 5.4.2.1.  After 30 runs for each experiment, we have analyzed the data using the T-test.
    
-![T-Test Results Scenario One](https://github.com/jedioutcast55/project_template/blob/master/Images/Scenario_one_TargetDestroyedAndAmountofUCAV.jpg)
-Figure 1: Shows Scenario One T-Test results for Left: Amount of destroyed targets and Right: Amount of autonomous Systems at the end of the mission
+![T-Test Results Scenario One Fig1](https://github.com/jedioutcast55/project_template/blob/master/Images/Scenario_one_TargetDestroyedAndAmountofUCAV.jpg)
+Figure 1: Shows Scenario One T-Test results for Left: Amount of destroyed targets and Right: Amount of autonomous Systems at the end of the mission (both variables showing no significant difference)
 
    The T-test results (5.4.3.1) showed there were no major differences between six of the seven dependent variables.  For these six variables, we could not reject Ho: There is no sufficient evidence for a difference in reliability.  Operator perception of cognitive workload is the variable for which we can reject the null hypothesis. We accept the alternate hypothesis Ha: There is sufficient evidence for a difference in reliability.  The data show experiment B having an advantage over experiment A for the variable showing significant differences in reliability.  We can infer that the results do not show that drones operating in a human-in-the-loop (experiment A) are more reliable than drones operating in a human-on-the-loop (experiment B).
  
-
+![T-Test Results Scenario One Fig2](https://github.com/jedioutcast55/project_template/blob/master/Images/Scenario_one_ElapseTimeandCognotiveLoad.jpg)
+Figure 2: Shows Scenario One T-Test results for Left: elapsed Time since command received (no significant difference) and Right: Operator perception of cognitive workload (significant difference)
 
 ### 6.2 Hypothesis 2:
 By using autonomous systems, military missions can be conducted with less human personnel.
@@ -205,7 +206,13 @@ In the second scenario, we are comparing the human control operation of a swarm 
    
    In experiment B we use the human operator in a supervisory capacity of drones’ operations.   For detailed explanations of scenario two, see sections 5.4.2.2 of this document.  After 30 runs for each experiment, we have analyzed the data using the T-test.
      
+![T-Test Results Scenario Two Fig3](https://github.com/jedioutcast55/project_template/blob/master/Images/Scenario_Two_TargetDestroyedandAmountofUCAV.jpg)
+Figure 3: Shows Scenario Two T-Test results for Left: Amount of destroyed targets and Right: Amount of autonomous Systems at the end of the mission (both variables showing no significant difference)
+
    The T-test results (5.4.3.2) show were no major differences between five of the seven of the dependent variables.  For these five variables, we could not reject Ho: Missions conducted with less human personnel supervising autonomous systems are no different than conducted by human control systems.  The two variables for which can reject the hypothesis are Elapsed Time since command received and Operator perception of cognitive workload. We accept the alternate hypothesis Ha: Missions conducted with less human personnel supervising autonomous systems are different than those conducted by human control systems.  The data show experiment B having an advantage over experiment A for the variables showing a significant difference.  These results do not show that drones operating in a human-in-the-loop (experiment A) are significant different from drones operating in a human-on-the-loop (experiment B).  We can infer from the results that there is no evidence semi-autonomous system using less human personnel controlling the drones are more efficient than the supervised autonomous system.  The two variables showing significant difference seem to favor experiment B.
+   
+![T-Test Results Scenario Two Fig4](https://github.com/jedioutcast55/project_template/blob/master/Images/Scenario_Two_ElapseTimeandCognotiveLoad.jpg)
+Figure 4: Shows Scenario Two T-Test results for Left: elapsed Time since command received and Right: Operator perception of cognitive workload (both variables with significant difference)
 
 ## 7. Future Research
 Hypothesis 3
