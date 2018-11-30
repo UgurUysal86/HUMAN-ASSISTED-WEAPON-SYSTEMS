@@ -109,7 +109,7 @@ In this scenario the SpecOps JTAC has to coordinate the destruction of the two e
 
 [The scenario file can be downloaded here](https://github.com/jedioutcast55/project_template/tree/master/Experimental%20Study%20Results/SpecOps%2520JTAC%2520assigning%2520targets%253a1xUCAV%2C2xTargets(1AA%2C1APC).Altis). Copy and paste the scenario folder to the ArmA 3 user mission folder (C:\Users\YOURNAME\Documents\Arma 3\missions) to be able to load the scenario.
 
-#### 5.4.1.2 Scenario 2 "Multi-Drone Control" - SpecOps JTAC assigning targets with 4 [UCAVs](http://armedassault.wikia.com/wiki/UCAV_Sentinel) and 6 Targets (3 [AA-Tanks](http://armedassault.wikia.com/wiki/ZSU-39_Tigris), 1 [APC](http://armedassault.wikia.com/wiki/BTR-K_Kamysh), 2 [MBT](http://armedassault.wikia.com/wiki/T-140K_Angara)).
+#### 5.4.1.2 Scenario 2 "Multi-Drone Control" - SpecOps JTAC assigning targets with 4 [UCAVs](http://armedassault.wikia.com/wiki/UCAV_Sentinel) and 6 Targets (3 [AA-Tanks](http://armedassault.wikia.com/wiki/ZSU-39_Tigris), 1 [APC](http://armedassault.wikia.com/wiki/BTR-K_Kamysh), 2 [MBTs](http://armedassault.wikia.com/wiki/T-140K_Angara)).
 In this scenario the SpecOps JTAC has to coordinate the destruction of the six enemy vehicles with four available UCAV's which are armed with three Air to Ground Missiles each, before the SpecOPs JTAC and his group can be extracted by a helicopter. 
 
 [The scenario file can be downloaded here](https://github.com/jedioutcast55/project_template/tree/master/Experimental%20Study%20Results/SpecOps%2520JTAC%2520assigning%2520targets%253a4xUCAV%2C6xTargets(3AA%2C1APC%2C2Tanks).Altis). Copy and paste the scenario folder to the ArmA 3 user mission folder C:\Users\YOURNAME\Documents\Arma 3\missions to be able to load the scenario.
