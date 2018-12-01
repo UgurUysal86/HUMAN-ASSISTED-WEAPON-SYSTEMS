@@ -104,50 +104,50 @@ Since the full potential of autonomous systems can only be estimated today due t
 #### 5.4.1 Modeling of the Scenario 
 Before the beginning of each simulation run, the scenario is modeled according to the independent variables.
 
-#### 5.4.1.1 Scenario 1 "Single-Drone Control" - SpecOps Joint Terminal Attack Controller (JTAC) assigning targets with 1 [UCAV](http://armedassault.wikia.com/wiki/UCAV_Sentinel) and 2 Targets (1 [Anti-Aircraft (AA)-Tank](http://armedassault.wikia.com/wiki/ZSU-39_Tigris), 1 [Armored Personnel Carrier (APC)](http://armedassault.wikia.com/wiki/BTR-K_Kamysh)).
+#### 5.4.1.1 Scenario 1 "Single-Drone control" - SpecOps Joint Terminal Attack Controller (JTAC) assigning targets with 1 [UCAV](http://armedassault.wikia.com/wiki/UCAV_Sentinel) and 2 Targets (1 [Anti-Aircraft (AA)-Tank](http://armedassault.wikia.com/wiki/ZSU-39_Tigris), 1 [Armored Personnel Carrier (APC)](http://armedassault.wikia.com/wiki/BTR-K_Kamysh)).
 In this scenario the SpecOps JTAC has to coordinate the destruction of the two enemy vehicles with one available UCAV which is armed with three Air to Ground Missiles, before the SpecOPs JTAC and his group can be extracted by a helicopter. 
 
-[The ArmA 3 mission file of Scenario 1 "Single-Drone Control" can be downloaded here](https://github.com/jedioutcast55/project_template/tree/master/Experimental%20Study%20Results/SpecOps%2520JTAC%2520assigning%2520targets%253a1xUCAV%2C2xTargets(1AA%2C1APC).Altis). Copy and paste the scenario folder to the ArmA 3 user mission folder (C:\Users\YOURNAME\Documents\Arma 3\missions) to be able to load the scenario.
+[The ArmA 3 mission file of Scenario 1 "Single-Drone control" can be downloaded here](https://github.com/jedioutcast55/project_template/tree/master/Experimental%20Study%20Results/SpecOps%2520JTAC%2520assigning%2520targets%253a1xUCAV%2C2xTargets(1AA%2C1APC).Altis). Copy and paste the scenario folder to the ArmA 3 user mission folder (C:\Users\YOURNAME\Documents\Arma 3\missions) to be able to load the scenario.
 
-#### 5.4.1.2 Scenario 2 "Multi-Drone Control" - SpecOps JTAC assigning targets with 4 [UCAVs](http://armedassault.wikia.com/wiki/UCAV_Sentinel) and 6 Targets (3 [AA-Tanks](http://armedassault.wikia.com/wiki/ZSU-39_Tigris), 1 [APC](http://armedassault.wikia.com/wiki/BTR-K_Kamysh), 2 [Main Battle Tanks (MBTs)](http://armedassault.wikia.com/wiki/T-140K_Angara)).
+#### 5.4.1.2 Scenario 2 "Multi-Drone control" - SpecOps JTAC assigning targets with 4 [UCAVs](http://armedassault.wikia.com/wiki/UCAV_Sentinel) and 6 Targets (3 [AA-Tanks](http://armedassault.wikia.com/wiki/ZSU-39_Tigris), 1 [APC](http://armedassault.wikia.com/wiki/BTR-K_Kamysh), 2 [Main Battle Tanks (MBTs)](http://armedassault.wikia.com/wiki/T-140K_Angara)).
 In this scenario the SpecOps JTAC has to coordinate the destruction of the six enemy vehicles with four available UCAVs which are armed with three Air to Ground Missiles each, before the SpecOPs JTAC and his group can be extracted by a helicopter. 
 
-[The ArmA 3 mission file of Scenario 2 "Multi-Drone Control" can be downloaded here](https://github.com/jedioutcast55/project_template/tree/master/Experimental%20Study%20Results/SpecOps%2520JTAC%2520assigning%2520targets%253a4xUCAV%2C6xTargets(3AA%2C1APC%2C2Tanks).Altis). Copy and paste the scenario folder to the ArmA 3 user mission folder C:\Users\YOURNAME\Documents\Arma 3\missions to be able to load the scenario.
+[The ArmA 3 mission file of Scenario 2 "Multi-Drone control" can be downloaded here](https://github.com/jedioutcast55/project_template/tree/master/Experimental%20Study%20Results/SpecOps%2520JTAC%2520assigning%2520targets%253a4xUCAV%2C6xTargets(3AA%2C1APC%2C2Tanks).Altis). Copy and paste the scenario folder to the ArmA 3 user mission folder C:\Users\YOURNAME\Documents\Arma 3\missions to be able to load the scenario.
 
 #### 5.4.2. Conducting the simulation experiment 
 Running the Simulation in ArmA 3 with a specific scenario. At the end of each Simulation run, the values of the response variables are saved in a excel file.
 
-#### 5.4.2.1 Scenario 1 "Single-Drone Control" - SpecOps JTAC assigning targets with 1 [UCAV](http://armedassault.wikia.com/wiki/UCAV_Sentinel) and 2 Targets (1 [AA-Tank](http://armedassault.wikia.com/wiki/ZSU-39_Tigris), 1 [APC](http://armedassault.wikia.com/wiki/BTR-K_Kamysh)).
-* Experiment A: semi-autonomous operation (30 runs): 
+#### 5.4.2.1 Scenario 1 "Single-Drone control" - SpecOps JTAC assigning targets with 1 [UCAV](http://armedassault.wikia.com/wiki/UCAV_Sentinel) and 2 Targets (1 [AA-Tank](http://armedassault.wikia.com/wiki/ZSU-39_Tigris), 1 [APC](http://armedassault.wikia.com/wiki/BTR-K_Kamysh)).
+* Experiment A: semi-autonomous operation with Single-Drone control (30 runs): 
 The human user remotely controls the weapon use of the single-drone, the flying of the single-drone is carried out autonomously according to the specifications of the human user. The human user decides on the use of weapons and executes it. The single-drone can only carry out its mission through the input of the human user. In this experiment, the human is "in-the-loop."
 
-[![semi-autonomous operation](https://github.com/jedioutcast55/project_template/blob/master/Images/ArmA%203%20Ingame%20Screenshot%20semi-autonomous.JPG)](https://youtu.be/6KmAmXP7uBw)
+[![semi-autonomous operation - Single-Drone control](https://github.com/jedioutcast55/project_template/blob/master/Images/ArmA%203%20Ingame%20Screenshot%20semi-autonomous.JPG)](https://youtu.be/6KmAmXP7uBw)
 			
-* Experiment B: supervised autonomous operation (30 runs):
+* Experiment B: supervised autonomous operation with Single-Drone control (30 runs):
 The human user assigns the drone a specific target (e.g., destroy the enemy tank on coordinate x, y), which is then engaged autonomously by the single-drone. The use of the single-drone is terminated when the specifically assigned target is destroyed, or the human user decides to cancel the operation. Although the human user decides to use the weapon system as in example 1, however, the execution is done autonomously. The human user assumes the role of a supervisor. In this experiment, the human is "on-the-loop".
 
-[![supervised-autonomous operation](https://github.com/jedioutcast55/project_template/blob/master/Images/ArmA%203%20Ingame%20Screenshot%20supervised-autonomous.JPG)](https://youtu.be/I5x88eliCMw)
+[![supervised-autonomous operation - Single-Drone control](https://github.com/jedioutcast55/project_template/blob/master/Images/ArmA%203%20Ingame%20Screenshot%20supervised-autonomous.JPG)](https://youtu.be/I5x88eliCMw)
 
-[The results of Experiment A and B of Scenario 1 "Single-Drone Control" can be downloaded here.](https://github.com/jedioutcast55/project_template/blob/master/Experimental%20Study%20Results/Experimentation%20Results_1%20UCAV%2C2%20Targets(1AA%2C1APC).xlsx)
+[The results of Experiment A and B of Scenario 1 "Single-Drone control" can be downloaded here.](https://github.com/jedioutcast55/project_template/blob/master/Experimental%20Study%20Results/Experimentation%20Results_1%20UCAV%2C2%20Targets(1AA%2C1APC).xlsx)
 
-#### 5.4.2.2 Scenario 2 "Multi-Drone Control" - SpecOps JTAC assigning targets with 4 [UCAVs](http://armedassault.wikia.com/wiki/UCAV_Sentinel) and 6 Targets (3 [AA-Tanks](http://armedassault.wikia.com/wiki/ZSU-39_Tigris), 1 [APC](http://armedassault.wikia.com/wiki/BTR-K_Kamysh), 2 [MBTs](http://armedassault.wikia.com/wiki/T-140K_Angara)).
+#### 5.4.2.2 Scenario 2 "Multi-Drone control" - SpecOps JTAC assigning targets with 4 [UCAVs](http://armedassault.wikia.com/wiki/UCAV_Sentinel) and 6 Targets (3 [AA-Tanks](http://armedassault.wikia.com/wiki/ZSU-39_Tigris), 1 [APC](http://armedassault.wikia.com/wiki/BTR-K_Kamysh), 2 [MBTs](http://armedassault.wikia.com/wiki/T-140K_Angara)).
 
-* Expriment A: semi-autonomous operation (30 runs): 
+* Expriment A: semi-autonomous operation with Multi-Drone control (30 runs): 
 The human user remotely controls the weapon use of multiple-drones sequentially, the flying of the drones is carried out autonomously according to the specifications of the human user. The human user decides on the use of weapons and executes it. The drones can only carry out their mission through the input of the human user. In this experiment, the human is "in-the-loop."
 
-Video link tbd
-			
-* Experiment B: supervised autonomous operation (30 runs):
+[![semi-autonomous operation - Multi-Drone control](https://github.com/jedioutcast55/project_template/blob/master/Images/ArmA%203%20Ingame%20Screenshot%20semi-autonomous%202.jpg)](https://www.youtube.com/watch?v=4Squmz5BZv0)
+	
+* Experiment B: supervised autonomous operation with Multi-Drone control (30 runs):
 The human user assigns multiple-drones specific targets (e.g., destroy the enemy tank on coordinate x, y), which are then engaged autonomously by the drone-swarm. The use of the drone-swarm is terminated when the specifically assigned targets are destroyed, or the human user decides to cancel the operation. Although the human user decides to use the weapon system as in example 1, however, the execution is done autonomously. The human user assumes the role of a supervisor. In this experiment, the human is "on-the-loop".
 
-Video link tbd
+[![supervised-autonomous operation - Multi-Drone control](https://github.com/jedioutcast55/project_template/blob/master/Images/ArmA%203%20Ingame%20Screenshot%20supervised-autonomous%202.jpg)](https://www.youtube.com/watch?v=YDD9rnlW4kY)
 
-[The results of Experiment A and B of Scenario 2 "Multi-Drone Control" can be downloaded here.](https://github.com/jedioutcast55/project_template/blob/master/Experimental%20Study%20Results/Experimentation%20Results_4%20UCAV%2C6%20Targets(3AA%2C1APC%2C2Tanks).xlsx)
+[The results of Experiment A and B of Scenario 2 "Multi-Drone control" can be downloaded here.](https://github.com/jedioutcast55/project_template/blob/master/Experimental%20Study%20Results/Experimentation%20Results_4%20UCAV%2C6%20Targets(3AA%2C1APC%2C2Tanks).xlsx)
 
 #### 5.4.3 Analyzing the Data.
 After generating the Data during the simulation experiments A and B of Scenarios 1 and 2, a statistical hypothesis test using the software "R" was conducted. 
 
-#### 5.4.3.1 Scenario 1 "Single-Drone Control" - SpecOps JTAC assigning targets with 1 [UCAV](http://armedassault.wikia.com/wiki/UCAV_Sentinel) and 2 Targets (1 [AA-Tank](http://armedassault.wikia.com/wiki/ZSU-39_Tigris), 1 [APC](http://armedassault.wikia.com/wiki/BTR-K_Kamysh)).
+#### 5.4.3.1 Scenario 1 "Single-Drone control" - SpecOps JTAC assigning targets with 1 [UCAV](http://armedassault.wikia.com/wiki/UCAV_Sentinel) and 2 Targets (1 [AA-Tank](http://armedassault.wikia.com/wiki/ZSU-39_Tigris), 1 [APC](http://armedassault.wikia.com/wiki/BTR-K_Kamysh)).
 T-tests with alpha = 0.05 were used to compare the results of experiment A: **semi-autonomous Operation** and Experiment B: **supervised autonomous Operation.**
 
 * Comparing Amount of destroyed targets: 				**no significant difference**
@@ -160,7 +160,7 @@ T-tests with alpha = 0.05 were used to compare the results of experiment A: **se
 
 [The R-Script to analyse the results of experiment A and B of Scenario 1 "Single-Drone Control" can be downloaded here](https://github.com/jedioutcast55/project_template/blob/master/Experimental%20Study%20Results/Analysis%20Results_1%20UCAV%2C2%20Targets(1AA%2C1APC).R)
 
-#### 5.4.3.2 Scenario 2 "Multi-Drone Control" - SpecOps JTAC assigning targets with 4 [UCAVs](http://armedassault.wikia.com/wiki/UCAV_Sentinel) and 6 Targets (3 [AA-Tanks](http://armedassault.wikia.com/wiki/ZSU-39_Tigris), 1 [APC](http://armedassault.wikia.com/wiki/BTR-K_Kamysh), 2 [MBTs](http://armedassault.wikia.com/wiki/T-140K_Angara)).
+#### 5.4.3.2 Scenario 2 "Multi-Drone control" - SpecOps JTAC assigning targets with 4 [UCAVs](http://armedassault.wikia.com/wiki/UCAV_Sentinel) and 6 Targets (3 [AA-Tanks](http://armedassault.wikia.com/wiki/ZSU-39_Tigris), 1 [APC](http://armedassault.wikia.com/wiki/BTR-K_Kamysh), 2 [MBTs](http://armedassault.wikia.com/wiki/T-140K_Angara)).
 
 * Comparing Amount of destroyed targets: 				 **no significant difference**
 * Comparing Amount of autonomous Systems at the end of the mission: 	 **no significant difference**
