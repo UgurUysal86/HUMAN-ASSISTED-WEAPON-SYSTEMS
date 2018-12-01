@@ -119,12 +119,12 @@ Running the Simulation in ArmA 3 with a specific Szenario. At the end of each Si
 
 #### 5.4.2.1 Scenario 1 "Single-Drone Control" - SpecOps JTAC assigning targets with 1 [UCAV](http://armedassault.wikia.com/wiki/UCAV_Sentinel) and 2 Targets (1 [AA-Tank](http://armedassault.wikia.com/wiki/ZSU-39_Tigris), 1 [APC](http://armedassault.wikia.com/wiki/BTR-K_Kamysh)).
 * Experiment A: semi-autonomous operation (30 runs): 
-The human user remotely controls the weapon use of the drone, the flying of the drone is carried out autonomously according to the specifications of the human user. The human user decides on the use of weapons and executes it. The drone can only carry out its mission through the input of the human user. In this experiment, the human is "in-the-loop."
+The human user remotely controls the weapon use of the single-drone, the flying of the single-drone is carried out autonomously according to the specifications of the human user. The human user decides on the use of weapons and executes it. The single-drone can only carry out its mission through the input of the human user. In this experiment, the human is "in-the-loop."
 
 [![semi-autonomous operation](https://github.com/jedioutcast55/project_template/blob/master/Images/ArmA%203%20Ingame%20Screenshot%20semi-autonomous.JPG)](https://youtu.be/6KmAmXP7uBw)
 			
 * Experiment B: supervised autonomous operation (30 runs):
-The human user assigns the drone a specific target (e.g., destroy the enemy tank on coordinate x, y), which is then engaged autonomously by the drone. The use of the drone is terminated when the specifically assigned target is destroyed, or the human user decides to cancel the operation. Although the human user decides to use the weapon system as in example 1, however, the execution is done autonomously. The human user assumes the role of a supervisor. In this experiment, the human is "on-the-loop".
+The human user assigns the drone a specific target (e.g., destroy the enemy tank on coordinate x, y), which is then engaged autonomously by the single-drone. The use of the single-drone is terminated when the specifically assigned target is destroyed, or the human user decides to cancel the operation. Although the human user decides to use the weapon system as in example 1, however, the execution is done autonomously. The human user assumes the role of a supervisor. In this experiment, the human is "on-the-loop".
 
 [![supervised-autonomous operation](https://github.com/jedioutcast55/project_template/blob/master/Images/ArmA%203%20Ingame%20Screenshot%20supervised-autonomous.JPG)](https://youtu.be/I5x88eliCMw)
 
@@ -133,12 +133,12 @@ The human user assigns the drone a specific target (e.g., destroy the enemy tank
 #### 5.4.2.2 Scenario 2 "Multi-Drone Control" - SpecOps JTAC assigning targets with 4 [UCAVs](http://armedassault.wikia.com/wiki/UCAV_Sentinel) and 6 Targets (3 [AA-Tanks](http://armedassault.wikia.com/wiki/ZSU-39_Tigris), 1 [APC](http://armedassault.wikia.com/wiki/BTR-K_Kamysh), 2 [MBTs](http://armedassault.wikia.com/wiki/T-140K_Angara)).
 
 * Expriment A: semi-autonomous operation (30 runs): 
-The human user remotely controls the weapon use of the drone, the flying of the drone is carried out autonomously according to the specifications of the human user. The human user decides on the use of weapons and executes it. The drone can only carry out its mission through the input of the human user. In this experiment, the human is "in-the-loop."
+The human user remotely controls the weapon use of multiple-drones sequentially, the flying of the drones is carried out autonomously according to the specifications of the human user. The human user decides on the use of weapons and executes it. The drones can only carry out their mission through the input of the human user. In this experiment, the human is "in-the-loop."
 
 Video link tbd
 			
 * Experiment B: supervised autonomous operation (30 runs):
-The human user assigns the drone a specific target (e.g., destroy the enemy tank on coordinate x, y), which is then engaged autonomously by the drone. The use of the drone is terminated when the specifically assigned target is destroyed, or the human user decides to cancel the operation. Although the human user decides to use the weapon system as in example 1, however, the execution is done autonomously. The human user assumes the role of a supervisor. In this experiment, the human is "on-the-loop".
+The human user assigns multiple-drones specific targets (e.g., destroy the enemy tank on coordinate x, y), which are then engaged autonomously by the drone-swarm. The use of the drone-swarm is terminated when the specifically assigned targets are destroyed, or the human user decides to cancel the operation. Although the human user decides to use the weapon system as in example 1, however, the execution is done autonomously. The human user assumes the role of a supervisor. In this experiment, the human is "on-the-loop".
 
 Video link tbd
 
