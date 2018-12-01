@@ -128,7 +128,7 @@ The human user assigns the drone a specific target (e.g., destroy the enemy tank
 
 [![supervised-autonomous operation](https://github.com/jedioutcast55/project_template/blob/master/Images/ArmA%203%20Ingame%20Screenshot%20supervised-autonomous.JPG)](https://youtu.be/I5x88eliCMw)
 
-[The results of Experiment A and B of Scenario 1 can be downloaded here.](https://github.com/jedioutcast55/project_template/blob/master/Experimental%20Study%20Results/Experimentation%20Results_1%20UCAV%2C2%20Targets(1AA%2C1APC).xlsx)
+[The results of Experiment A and B of Scenario 1 "Single-Drone Control" can be downloaded here.](https://github.com/jedioutcast55/project_template/blob/master/Experimental%20Study%20Results/Experimentation%20Results_1%20UCAV%2C2%20Targets(1AA%2C1APC).xlsx)
 
 #### 5.4.2.2 Scenario 2 "Multi-Drone Control" - SpecOps JTAC assigning targets with 4 [UCAVs](http://armedassault.wikia.com/wiki/UCAV_Sentinel) and 6 Targets (3 [AA-Tanks](http://armedassault.wikia.com/wiki/ZSU-39_Tigris), 1 [APC](http://armedassault.wikia.com/wiki/BTR-K_Kamysh), 2 [MBTs](http://armedassault.wikia.com/wiki/T-140K_Angara)).
 
@@ -142,7 +142,7 @@ The human user assigns the drone a specific target (e.g., destroy the enemy tank
 
 Video link tbd
 
-[The results of Experiment A and B of Scenario 2 can be downloaded here.](https://github.com/jedioutcast55/project_template/blob/master/Experimental%20Study%20Results/Experimentation%20Results_4%20UCAV%2C6%20Targets(3AA%2C1APC%2C2Tanks).xlsx)
+[The results of Experiment A and B of Scenario 2 "Multi-Drone Control" can be downloaded here.](https://github.com/jedioutcast55/project_template/blob/master/Experimental%20Study%20Results/Experimentation%20Results_4%20UCAV%2C6%20Targets(3AA%2C1APC%2C2Tanks).xlsx)
 
 #### 5.4.3 Analyzing the Data.
 After generating the Data during the simulation experiments A and B of Scenarios 1 and 2, a statistical hypothesis test using the software "R" was conducted. 
@@ -158,7 +158,7 @@ T-tests with alpha = 0.05 were used to compare the results of experiment A: **se
 * Comparing Operator was able to supervise all used autonomous systems: **no significant difference**
 * Comparing Operator perception of cognitive workload: 			**significant difference**
 
-[The R-Script to analyse the results of experiment A and B of Scenario 1 can be downloaded here](https://github.com/jedioutcast55/project_template/blob/master/Experimental%20Study%20Results/Analysis%20Results_1%20UCAV%2C2%20Targets(1AA%2C1APC).R)
+[The R-Script to analyse the results of experiment A and B of Scenario 1 "Single-Drone Control" can be downloaded here](https://github.com/jedioutcast55/project_template/blob/master/Experimental%20Study%20Results/Analysis%20Results_1%20UCAV%2C2%20Targets(1AA%2C1APC).R)
 
 #### 5.4.3.2 Scenario 2 "Multi-Drone Control" - SpecOps JTAC assigning targets with 4 [UCAVs](http://armedassault.wikia.com/wiki/UCAV_Sentinel) and 6 Targets (3 [AA-Tanks](http://armedassault.wikia.com/wiki/ZSU-39_Tigris), 1 [APC](http://armedassault.wikia.com/wiki/BTR-K_Kamysh), 2 [MBTs](http://armedassault.wikia.com/wiki/T-140K_Angara)).
 
@@ -170,7 +170,7 @@ T-tests with alpha = 0.05 were used to compare the results of experiment A: **se
 * Comparing Operator was able to supervise all used autonomous systems:  **no significant difference**
 * Comparing Operator perception of cognitive workload: 			 **significant difference**
 
-[The R-Script to analyse the Results of Experiment A and B of Scenario 2 can be downloaded here](https://github.com/jedioutcast55/project_template/blob/master/Experimental%20Study%20Results/Analysis%20Results_4%20UCAV%2C6%20Targets(3AA%2C1APC%2C2Tanks).R)
+[The R-Script to analyse the Results of Experiment A and B of Scenario 2 "Multi-Drone Control" can be downloaded here](https://github.com/jedioutcast55/project_template/blob/master/Experimental%20Study%20Results/Analysis%20Results_4%20UCAV%2C6%20Targets(3AA%2C1APC%2C2Tanks).R)
 
 ## 6. Experimental Study Results
 
