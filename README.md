@@ -215,7 +215,7 @@ The T-test results (5.4.3.2) show were no major differences between five of the 
 Figure 4: Shows Scenario Two T-Test results for Left: elapsed Time since command received and Right: Operator perception of cognitive workload (both variables with significant difference)
 
 ## 7. Future Research
-Hypothesis 3
+If we had 1-2 more semesters we would do next and hope to accomplish and study Hypothesis 3 ...
 ...
 
 ## 8. Conclusion
@@ -226,7 +226,7 @@ Hypothesis 3
 * Research Methodologie finalized NLT 11/29/2018
 * Qualitative Research finalized  NLT 11/29/2018
 * Quantitative Research finalized NLT 11/24/2018
-* GitHub documentary finalized 	  NLT 12/03/2018  
+* GitHub documentary finalized 	  NLT 12/05/2018  
 
 ## References 
 * [Armed Assault Wiki (2018)](http://armedassault.wikia.com/wiki/Armed_Assault_Wiki)
