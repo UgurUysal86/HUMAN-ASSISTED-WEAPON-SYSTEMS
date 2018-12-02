@@ -219,8 +219,11 @@ The T-test results (5.4.3.2) show were no major differences between five of the 
 Figure 4: Shows Scenario Two T-Test results for Left: elapsed Time since command received and Right: Operator perception of cognitive workload (both variables with significant difference)
 
 ## 7. Future Research
-If we had 1-2 more semesters we would do next and hope to accomplish and study Hypothesis 3 ...
-...
+If we had 1-2 more semesters we would continue our experiments to answer Hypothesis 3: The use of autonomous systems could extend the range of military operations. We would focus on new military capabilities like operations in denied areas (extremely hostile operational environments) with autonomous systems. 
+    
+With additional experiments with a focus on the cognitive workload, we would try to find out to which extend human users could supervise various amount amounts of autonomous systems in various complex scenarios. 
+    
+Furthermore, we would try to improve the effectiveness of the drone-swarms by implementing AI techniques like Reinforcement Learning and Machine Learning techniques for precise classification of hostile vehicles. 
 
 ## 8. Conclusion
 Our team interest in studying Human-Assisted Weapon Systems and the validity of human-autonomy teaming in the not so distant future.  These two interesting subjects were the focal point of our project.  We used the military tactical shooter video game ArmA 3 as a modeling and simulation platform to demonstrate some of our concepts and experimentations of the project’s hypothesis.  The situation brought us to the conclusion that our research methodology needed to be a mixed method approach.
