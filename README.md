@@ -20,17 +20,17 @@ Armed forces use technology to gain superiority on the battlefield. Recent break
 
 On July 10, 2013, an unmanned X45B drone made an autonomous landing on an aircraft carrier for the first time:
 [![X-47B Completes First Carrier-based Arrested Landing](https://github.com/jedioutcast55/project_template/blob/master/Images/X-47B%20Completes%20First%20Carrier-based%20Arrested%20Landing.JPG)](https://www.youtube.com/watch?v=Rc2k6G8LuqY)
-Click on the image to watch the video **X-47B Completes First Carrier-based Arrested Landing** on YouTube.
+##### Click on the image to watch the video **X-47B Completes First Carrier-based Arrested Landing** on YouTube.
 
 The simulation of the supervised-autonomous landing of the Unmanned Combat Aerial Vehicle (UCAV) Sentinel in ArmA 3 looks realistic:
 [![UCAV Sentinel Completes Carrier-based Arrested Landing in ArmA 3](https://github.com/jedioutcast55/project_template/blob/master/Images/ArmA%203%20Ingame%20Screenshot%20UCAV%20Sentinel%20Completes%20Carrier-based%20Arrested%20Landing.JPG)](https://www.youtube.com/watch?v=3vW2kUt7PLQ&feature=youtu.be)
-Click on the image to watch the video **ArmA 3: Supervised-autonomous landing UCAV Sentinel** on YouTube.
+##### Click on the image to watch the video **ArmA 3: Supervised-autonomous landing UCAV Sentinel** on YouTube.
 
 The military use of autonomous drones in varying degrees of intensity seems to be possible in the foreseeable future. Our basic principle is that the human military leader remains at any time the decision-making authority to carry out military operations. With our research, we would like to investigate the possibilities and limits of human-supervised autonomous systems on the future battlefield. The focus is on the reliability of the Human-supervised autonomous system in a virtual military scenario.
 
 This problem is interesting, as the full military potential of Human-autonomy teaming can currently only be estimated, as the technology required is just being developed. Therefore we rely as part of our research project on the virtual simulation environment ArmA 3, in which a human operator can give orders to several autonomous systems at the same time. The following video gives an impression of how the AI control in ArmA 3 can be managed: 
 [![ARMA 3 - Advanced AI Command Tactics](https://github.com/jedioutcast55/project_template/blob/master/Images/ARMA%203%20-%20Advanced%20AI%20Command%20Tactics.JPG)](https://www.youtube.com/watch?v=QphmHgvYlJw&t=1290s)
-Click on the image to watch the video **ARMA 3 - Advanced AI Command Tactics w/ ALIVE Combat Support & High Command** on YouTube.
+##### Click on the image to watch the video **ARMA 3 - Advanced AI Command Tactics w/ ALIVE Combat Support & High Command** on YouTube.
 
 With the knowledge we gain from the simulation experiments we try the answer our research questions. Furthermore, we refer to approaches in this field by other researchers and delineate our approach.
 
@@ -125,13 +125,13 @@ Running the Simulation in ArmA 3 with a specific scenario. At the end of each Si
 The human user remotely controls the weapon use of the single-drone, the flying of the single-drone is carried out autonomously according to the specifications of the human user. The human user decides on the use of weapons and executes it. The single-drone can only carry out its mission through the input of the human user. In this experiment, the human is "in-the-loop."
 
 [![semi-autonomous operation - Single-Drone control](https://github.com/jedioutcast55/project_template/blob/master/Images/ArmA%203%20Ingame%20Screenshot%20semi-autonomous.JPG)](https://youtu.be/6KmAmXP7uBw)
-Click on the image to watch the video **ArmA 3: Semi-autonomous UCAV operation in a "Single-Drone Control" scenario** on YouTube.
+##### Click on the image to watch the video **ArmA 3: Semi-autonomous UCAV operation in a "Single-Drone Control" scenario** on YouTube.
 			
 * Experiment B: supervised autonomous operation with Single-Drone control (30 runs):
 The human user assigns the drone a specific target (e.g., destroy the enemy tank on coordinate x, y), which is then engaged autonomously by the single-drone. The use of the single-drone is terminated when the specifically assigned target is destroyed, or the human user decides to cancel the operation. Although the human user decides to use the weapon system as in example 1, however, the execution is done autonomously. The human user assumes the role of a supervisor. In this experiment, the human is "on-the-loop".
 
 [![supervised-autonomous operation - Single-Drone control](https://github.com/jedioutcast55/project_template/blob/master/Images/ArmA%203%20Ingame%20Screenshot%20supervised-autonomous.JPG)](https://youtu.be/I5x88eliCMw)
-Click on the image to watch the video **ArmA 3: Supervised-autonomous UCAV operation in a "Single-Drone Control" scenario** on YouTube.
+##### Click on the image to watch the video **ArmA 3: Supervised-autonomous UCAV operation in a "Single-Drone Control" scenario** on YouTube.
 
 [The results of Experiment A and B of Scenario 1 "Single-Drone control" can be downloaded here.](https://github.com/jedioutcast55/project_template/blob/master/Experimental%20Study%20Results/Experimentation%20Results_1%20UCAV%2C2%20Targets(1AA%2C1APC).xlsx)
 
@@ -141,13 +141,13 @@ Click on the image to watch the video **ArmA 3: Supervised-autonomous UCAV opera
 The human user remotely controls the weapon use of multiple-drones sequentially, the flying of the drones is carried out autonomously according to the specifications of the human user. The human user decides on the use of weapons and executes it. The drones can only carry out their mission through the input of the human user. In this experiment, the human is "in-the-loop."
 
 [![semi-autonomous operation - Multi-Drone control](https://github.com/jedioutcast55/project_template/blob/master/Images/ArmA%203%20Ingame%20Screenshot%20semi-autonomous%202.jpg)](https://www.youtube.com/watch?v=4Squmz5BZv0)
-Click on the image to watch the video **ArmA 3: Semi-autonomous UCAV operation in a "Multi-Drone Control" scenario** on YouTube.
+##### Click on the image to watch the video **ArmA 3: Semi-autonomous UCAV operation in a "Multi-Drone Control" scenario** on YouTube.
 	
 * Experiment B: supervised autonomous operation with Multi-Drone control (30 runs):
 The human user assigns multiple-drones specific targets (e.g., destroy the enemy tank on coordinate x, y), which are then engaged autonomously by the drone-swarm. The use of the drone-swarm is terminated when the specifically assigned targets are destroyed, or the human user decides to cancel the operation. Although the human user decides to use the weapon system as in example 1, however, the execution is done autonomously. The human user assumes the role of a supervisor. In this experiment, the human is "on-the-loop".
 
 [![supervised-autonomous operation - Multi-Drone control](https://github.com/jedioutcast55/project_template/blob/master/Images/ArmA%203%20Ingame%20Screenshot%20supervised-autonomous%202.jpg)](https://www.youtube.com/watch?v=YDD9rnlW4kY)
-Click on the image to watch the video **ArmA 3: Supervised-autonomous UCAV operation in a "Multi-Drone Control" scenario** on YouTube.
+##### Click on the image to watch the video **ArmA 3: Supervised-autonomous UCAV operation in a "Multi-Drone Control" scenario** on YouTube.
 
 [The results of Experiment A and B of Scenario 2 "Multi-Drone control" can be downloaded here.](https://github.com/jedioutcast55/project_template/blob/master/Experimental%20Study%20Results/Experimentation%20Results_4%20UCAV%2C6%20Targets(3AA%2C1APC%2C2Tanks).xlsx)
 
