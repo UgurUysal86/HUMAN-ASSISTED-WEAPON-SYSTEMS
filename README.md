@@ -20,7 +20,7 @@ Armed forces use technology to gain superiority on the battlefield. Recent break
 
 On July 10, 2013, an unmanned X45B drone made an autonomous landing on an aircraft carrier for the first time:
 [![X-47B Completes First Carrier-based Arrested Landing](https://github.com/jedioutcast55/project_template/blob/master/Images/X-47B%20Completes%20First%20Carrier-based%20Arrested%20Landing.JPG)](https://www.youtube.com/watch?v=Rc2k6G8LuqY)
-Click on the image to start the video on YouTube.
+Click on the image to watch the video **X-47B Completes First Carrier-based Arrested Landing** on YouTube.
 
 The simulation of the supervised-autonomous landing of the Unmanned Combat Aerial Vehicle (UCAV) Sentinel in ArmA 3 looks realistic:
 [![UCAV Sentinel Completes Carrier-based Arrested Landing in ArmA 3](https://github.com/jedioutcast55/project_template/blob/master/Images/ArmA%203%20Ingame%20Screenshot%20UCAV%20Sentinel%20Completes%20Carrier-based%20Arrested%20Landing.JPG)](https://www.youtube.com/watch?v=3vW2kUt7PLQ&feature=youtu.be)
