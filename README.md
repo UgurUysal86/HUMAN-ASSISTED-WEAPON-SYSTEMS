@@ -219,14 +219,7 @@ The T-test results (5.4.3.2) show were no major differences between five of the 
 ![T-Test Results Scenario Two Fig4](https://github.com/jedioutcast55/project_template/blob/master/Images/Scenario_Two_ElapseTimeandCognotiveLoad.jpg)
 Figure 4: Shows Scenario Two T-Test results for Left: elapsed Time since command received and Right: Operator perception of cognitive workload (both variables with significant difference)
 
-## 7. Future Research
-If we had 1-2 more semesters we would continue our experiments to answer Hypothesis 3: The use of autonomous systems could extend the range of military operations. We would focus on new military capabilities like operations in denied areas (extremely hostile operational environments) with autonomous systems. 
-    
-With additional experiments with a focus on the cognitive workload, we would try to find out to which extend human users could supervise various amount amounts of autonomous systems in various complex scenarios. 
-    
-Furthermore, we would try to improve the effectiveness of the drone-swarms by implementing AI techniques like Reinforcement Learning and Machine Learning techniques for precise classification of hostile vehicles. 
-
-## 8. Conclusion
+## 7. Conclusion
 Our team interest in studying Human-Assisted Weapon Systems and the validity of human-autonomy teaming in the not so distant future.  These two interesting subjects were the focal point of our project.  We used the military tactical shooter video game ArmA 3 as a modeling and simulation platform to demonstrate some of our concepts and experimentations of the project’s hypothesis.  The situation brought us to the conclusion that our research methodology needed to be a mixed method approach.
 
   In the qualitative approach, we found literature evidence on the benefit of using human-supervised autonomous systems in a military environment.  The military was able to increase its capabilities with the introduction of UVs and robotic systems (Squire & Parasuraman, 2010) (de Visser & Parasuraman, 2011) (Chen & Barnes 2014).  These systems increase the force lethality and reduce the soldiers’ exposure to combat (Chen & Barnes 2014).  There are also other the benefits such production reduction cost and increase in safety (Squire & Parasuraman, 2010) (Endsley, 2017).
@@ -242,14 +235,13 @@ Our team interest in studying Human-Assisted Weapon Systems and the validity of 
    In both scenarios, the variables that were found to have a significant difference were in favor of the human supervising experiments and they did not allow for the elimination of either of the hypothesis.
    
    All the results supplied a positive indication that ArmA 3 can be used as a modeling and simulation platform to conduct preliminary testing of our hypotheses.  ArmA 3 allows for the creation of complex scenarios which supplied useful data.  The scenarios tested the skills of both the human in the experiment as well as the simulated agent within the system.  These results were positive enough to give us the confidence to continue researching the topics presented in this paper.
-
-
-## 9. Plan of attack for the rest of the semester
-### Final Presentation 12/04/2018
-* Research Methodology finalized NLT 11/29/2018
-* Qualitative Research finalized  NLT 11/29/2018
-* Quantitative Research finalized NLT 11/24/2018
-* GitHub documentary finalized 	  NLT 12/05/2018  
+   
+## 8. Future Research
+If we had 1-2 more semesters we would continue our experiments to answer Hypothesis 3: The use of autonomous systems could extend the range of military operations. We would focus on new military capabilities like operations in denied areas (extremely hostile operational environments) with autonomous systems. Additionally, we would try to reproduce the results in [Virtual Batllespace 3](https://bisimulations.com/products/virtual-battlespace)
+    
+With additional experiments with a focus on the cognitive workload, we would try to find out to which extend human users could supervise various amount amounts of autonomous systems in various complex scenarios. 
+    
+Furthermore, we would try to improve the effectiveness of the drone-swarms by implementing AI techniques like Reinforcement Learning and Machine Learning techniques for precise classification of hostile vehicles. 
 
 ## References 
 * [Armed Assault Wiki (2018)](http://armedassault.wikia.com/wiki/Armed_Assault_Wiki)
