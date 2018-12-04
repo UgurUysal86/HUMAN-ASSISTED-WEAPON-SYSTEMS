@@ -237,7 +237,7 @@ Our team interest in studying Human-Assisted Weapon Systems and the validity of 
    All the results supplied a positive indication that ArmA 3 can be used as a modeling and simulation platform to conduct preliminary testing of our hypotheses.  ArmA 3 allows for the creation of complex scenarios which supplied useful data.  The scenarios tested the skills of both the human in the experiment as well as the simulated agent within the system.  These results were positive enough to give us the confidence to continue researching the topics presented in this paper.
    
 ## 8. Future Research
-If we had 1-2 more semesters we would continue our experiments to answer Hypothesis 3: The use of autonomous systems could extend the range of military operations. We would focus on new military capabilities like operations in denied areas (extremely hostile operational environments) with autonomous systems. Additionally, we would try to reproduce the results in [Virtual Batllespace 3](https://bisimulations.com/products/virtual-battlespace)
+If we had 1-2 more semesters we would continue our experiments to answer Hypothesis 3: The use of autonomous systems could extend the range of military operations. We would focus on new military capabilities like operations in denied areas (extremely hostile operational environments) with autonomous systems. Additionally, we would try to reproduce the results in [Virtual Battlespace 3](https://bisimulations.com/products/virtual-battlespace)
     
 With additional experiments with a focus on the cognitive workload, we would try to find out to which extend human users could supervise various amount amounts of autonomous systems in various complex scenarios. 
     
