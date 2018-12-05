@@ -5,9 +5,10 @@
 #### Project Title: **HUMAN-ASSISTED WEAPON SYSTEMS**
 
 #### **Project Presentation Video:**
-[![HUMAN-ASSISTED WEAPON SYSTEMS](https://github.com/jedioutcast55/project_template/blob/master/Images/ArmA%203%20Ingame%20Screenshot%20Drones.JPG)](https://raw.githubusercontent.com/jedioutcast55/project_template/master/Presentations/IDS6916_Group4_MidSemester_ProjectPresentation.mp4)
-**Download instructions**: Please click on this image to download the Midterm Project Presentation Video. Note: Please use a browser other than Firefox to be able to download this video from GitHub. [The **Final Project Presentation Slides** can be downloaded here.](https://github.com/jedioutcast55/project_template/raw/master/Presentations/IDS6916%20Group4%20Final%20Project%20Presentation_UCF.pptx) 
-[The **Midterm Project Presentation Slides** can be downloaded here.](https://github.com/jedioutcast55/project_template/raw/master/Presentations/IDS6916%20Group4%20Project%20Review%20and%20Feedback_UCF.pptx)
+[![HUMAN-ASSISTED WEAPON SYSTEMS](https://github.com/jedioutcast55/project_template/blob/master/Images/ArmA%203%20Ingame%20Screenshot%20Drones.JPG)](https://github.com/jedioutcast55/project_template/raw/master/Presentations/IDS6916_Group4_Final_ProjectPresentation.mp4)
+**Download instructions**: Please click on this image to download the Final Project Presentation Video. Note: Please use a browser other than Firefox to be able to download this video from GitHub. [The **Final Project Presentation Slides** can be downloaded here.](https://github.com/jedioutcast55/project_template/raw/master/Presentations/IDS6916%20Group4%20Final%20Project%20Presentation_UCF.pptx) 
+* [The **Midterm Project Presentation Video** can be downloaded here.](https://raw.githubusercontent.com/jedioutcast55/project_template/master/Presentations/IDS6916_Group4_MidSemester_ProjectPresentation.mp4)
+* [The **Midterm Project Presentation Slides** can be downloaded here.](https://github.com/jedioutcast55/project_template/raw/master/Presentations/IDS6916%20Group4%20Project%20Review%20and%20Feedback_UCF.pptx)
 
 ## 1. Topic / Purpose Statement
 
