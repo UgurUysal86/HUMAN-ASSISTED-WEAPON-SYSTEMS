@@ -263,6 +263,7 @@ Furthermore, we would try to improve the effectiveness of the drone-swarms by im
 * [Scharre, P. (2018). Army of None: Autonomous Weapons and the Future of War. WW Norton & Company.](https://books.google.com/books?hl=de&lr=&id=sjMsDwAAQBAJ&oi=fnd&pg=PT7&dq=Army+of+None&ots=T8z0gGG0IW&sig=nIZIAWaqnNoPhMiFCTqo5gdNHeY#v=onepage&q=Army%20of%20None&f=false)
 * [Squire, P. N., & Parasuraman, R. (2010). Effects of automation and task load on task switching during human supervision of multiple semi-autonomous robots in a dynamic environment. Ergonomics, 53(8), 951-961.](https://www.tandfonline.com/doi/full/10.1080/00140139.2010.489969)
 * [Vinge, V. (1993). The coming technological singularity: How to survive in the post-human era.](https://edoras.sdsu.edu/~vinge/misc/singularity.html)
+  
 * [Warren, A., & Hillas, A. (2017). Lethal Autonomous Weapons Systems: Adapting to the Future Unmanned Warfare and Unaccountable Robots. Yale J. Int'l Aff., 12, 71.](https://heinonline.org/HOL/LandingPage?handle=hein.journals/yaljoina12&div=12&id=&page=)
 * [Yilmaz, L., Ören, T., & Aghaee, N. G. (2006). Intelligent agents, simulation, and gaming. Simulation & Gaming, 37(3), 339-349.](http://journals.sagepub.com/doi/abs/10.1177/1046878106289089)
 * [Youtube (2013, July 10). X-47B Completes First Carrier-based Arrested Landing. Retrieved from https://www.youtube.com/watch?v=Rc2k6G8LuqY](https://www.youtube.com/watch?v=Rc2k6G8LuqY)
